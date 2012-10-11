@@ -1,0 +1,19 @@
+<div id="head">
+  <div id="menu">
+	<a href="http://www.clwtq.com/asp/index.asp">首 页</a>
+     <a href="http://www.clwtq.com/asp/detail.asp?id=108">公司简介</a>
+     <a href="http://www.clwtq.com/asp/docs.asp?id=1">企业新闻</a>
+	 <a href="http://www.clwtq.com/asp/product.asp">产品展示</a>
+	 <a href="http://www.clwtq.com/asp/detail.asp?id=116">购车流程</a>
+	 <a style="display: none;" href="http://www.clwtq.com/asp/docs.asp?id=14">产品价格</a>
+	 <a href="http://www.clwtq.com/asp/detail.asp?id=158">售后服务</a>
+     <a href="http://www.clwtq.com/asp/guestbook.asp">网站留言</a>
+	 <a href="http://www.clwtq.com/asp/detail.asp?id=95">联系我们</a>, 
+ </div>
+</div>
+ <div id="banner">    
+       <img src="http://hbszdfzyc.com/Uploadfiles/hbszdfzyc/door.jpg">
+  </div>
+
+</div>
+</div>

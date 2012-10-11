@@ -1,0 +1,38 @@
+<!doctype html public "-//w3c//dtd html 4.01 transitional//en" "http://www.w3c.org/tr/1999/rec-html401-19991224/loose.dtd">
+<!-- saved from url=(0025)http://www.clwtq.com/asp/ -->
+<!doctype html public "-//w3c//dtd xhtml 1.0 transitional//en" "http://www.w3.org/tr/xhtml1/dtd/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>湖北程力专用汽车有限公司-油罐车/洒水车/垃圾车/清障车/高空作业车/吸粪.吸污车/扫路车/国内知名园林绿化 市政环卫 石油化工等专用汽车专业制造商</title>
+<meta content="text/html;charset=gb2312" http-equiv="content-type">
+<meta name="keywords" content="|抽粪车|吸粪车|垃圾车|加油车|洒水车|湖北程力专用汽车有限公司">
+<meta name="description" content="国内知名园林绿化 市政环卫 石油化工等专用汽车专业制造商-|抽粪车|吸粪车|垃圾车|加油车|洒水车|湖北程力专用汽车有限公司">
+<link  rel="stylesheet" type="text/css" href="/css/common.css">
+<script type="text/javascript" src="/js/bannershow.js"></script>
+<style type="text/css">
+        .block{width:581px; overflow:hidden; background:url("/img/block.png") no-repeat;border:0px solid red; background-position:right top;}
+        #productmenu li{line-height:24px; list-style-image:url('/img/icon.gif'); border-bottom:1px dotted #aaaaaa; font-size:14px;}
+        a.tt{display:block;width:95%;height:25px;line-height:25px;border:1px solid #aaaaaa;font-size:15px; text-align:center; font-weight:bold;background:#ffffff;margin:3px; }
+        a.tt:hover{background:#ffff00;color:#ff0000;}
+        #home_about {font-size:9pt;color:black;}
+        #home_about a{color:red}        
+        #company_buttons {border:0px solid gray;}
+        #company_buttons a{display:inline-block;width:88px;height:66px;border:0px solid gray;font-size:9pt;}  
+	
+</style>
+<!--automatic:begin-->
+<script language="javascript" type="text/javascript" src="/js/addflash.js"></script>
+
+<script language="javascript" type="text/javascript" src="/js/scrollimg.js"></script>
+<!--automatic:end-->
+
+</head>
+
+<body>
+<center>
+#parse('layout/header.vm')
+$screenContent
+#parse('layout/footer.vm')
+</center>
+</body>
+</html>

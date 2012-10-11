@@ -1,0 +1,238 @@
+
+
+<!--三块开始-->
+<DIV id="main">
+<CENTER><!--Left-->
+<DIV id="left">
+<!--start-->
+#parse("control/contact.vm")
+<!--end-->
+<IMG src="img/home_menu.png">
+
+<DIV id="leftmenu">
+<LI class="b"><A>全部产品</A></LI>
+<LI class="s"><A href="http://www.clwtq.com/asp/product.asp?id=1">油罐车系列</A></LI>
+<LI class="s"><A href="http://www.clwtq.com/asp/product.asp?id=2">洒水车系列</A></LI>
+<LI class="s"><A 
+href="http://www.clwtq.com/asp/product.asp?id=3">化工液罐车系列</A></LI>
+<LI class="s"><A 
+href="http://www.clwtq.com/asp/product.asp?id=4">散装水泥车系列</A></LI>
+<LI class="s"><A 
+href="http://www.clwtq.com/asp/product.asp?id=6">吸粪吸污车系列</A></LI>
+<LI class="s"><A href="http://www.clwtq.com/asp/product.asp?id=8">垃圾车系列</A></LI>
+<LI class="s"><A 
+href="http://www.clwtq.com/asp/product.asp?id=9">混凝土搅拌车系列</A></LI>
+<LI class="s"><A 
+href="http://www.clwtq.com/asp/product.asp?id=10">随车起重运输车系列</A></LI>
+<LI class="s"><A 
+href="http://www.clwtq.com/asp/product.asp?id=11">高压清洗车系列</A></LI>
+<LI class="s"><A 
+href="http://www.clwtq.com/asp/product.asp?id=12">高空作业车系列</A></LI>
+<LI class="s"><A 
+href="http://www.clwtq.com/asp/product.asp?id=13">清障车系列</A></LI>
+<LI class="s"><A 
+href="http://www.clwtq.com/asp/product.asp?id=14">防暴车系列</A></LI>
+<LI class="s"><A 
+href="http://www.clwtq.com/asp/product.asp?id=16">扫路车系列</A></LI>
+<LI class="s"><A 
+href="http://www.clwtq.com/asp/product.asp?id=17">教练车系列</A></LI>
+<LI class="s"><A 
+href="http://www.clwtq.com/asp/product.asp?id=18">消防车系列</A></LI>
+<LI class="s"><A 
+href="http://www.clwtq.com/asp/product.asp?id=21">专用车配件</A></LI>
+<LI class="s"><A 
+href="http://www.clwtq.com/asp/product.asp?id=22">液化气储罐系列</A></LI></DIV>
+<!--start-->
+<DIV style='background: url("http://www.clwtq.com/img/talk.png"); width: 210px; height: 200px; overflow: hidden; position: relative;'>
+<DIV style="line-height: 22px; font-family: Tahoma; margin-top: 55px; margin-left: 5px;">
+<P><FONT face="宋体"><FONT 
+face="宋体">销售经理：李经理<BR>联系电话：18607226629<BR>服务热线：0722-4792229&nbsp; <BR>电子信箱：<A 
+href="mailto:2384958066@qq.com">2384958066@qq.com</A><BR>欲看更多实际图片请查看</FONT></FONT>
+<a href="http://user.qzone.qq.com/2384958066">
+<FONT style="font-size: 18px;" color="#ff0000"><FONT 
+face="宋体">2384958066</FONT></FONT>
+</a>
+<FONT color="#ff0000"> 
+</FONT>QQ相册</P></DIV></DIV>
+<!--end-->
+</DIV><!--右边大块-->
+<DIV style="width: 770px; overflow: hidden; float: right; position: relative;"><!--Right-->
+<DIV id="right">
+<H3><A 
+style='background: url("http://www.clwtq.com/img/icon_news.png") no-repeat;'>底盘合作厂家</A></H3><IMG 
+style="width: 210px;" border="0" src="img/gys.png">
+<H3><A style='background: url("/img/icon_news.png") no-repeat;'>实力展示</A></H3>
+<SCRIPT type="text/javascript">var banner = new BannerShow();
+                        banner.AddImage("http://www.dfclzyc.com/img/b1.png", "", "#");
+                        banner.AddImage("http://www.dfclzyc.com/img/b2.png", "", "#");
+                        banner.AddImage("http://www.dfclzyc.com/img/b3.png", "", "#");
+                        banner.AddImage("http://www.dfclzyc.com/img/b4.png", "", "#");
+                        banner.AddImage("http://www.dfclzyc.com/img/b5.png", "", "#");
+                        banner.create("banner", "210", "190");
+                        banner.play();
+                     </SCRIPT>
+
+<DIV style="background: rgb(255, 255, 255); overflow: hidden;">
+<H3><A style='background: url("/img/icon_news.png") no-repeat;' href="http://www.clwtq.com/asp/docs.asp?id=14">产品价格</A><EM 
+style="float: right;"><IMG src="img/more.png"></EM></H3>
+<DIV style="margin: 5px; line-height: 22px;">
+<LI> <A href="http://www.clwtq.com/asp/detail.asp?id=179" 
+target="_blank">粉粒物粒运输车价格<IMG border="0" src="img/new1.gif"></A> 
+</LI>
+<LI> <A href="http://www.clwtq.com/asp/detail.asp?id=155" 
+target="_blank">高压清洗车价格表<IMG border="0" src="img/new1.gif"></A> 
+</LI>
+<LI> <A href="http://www.clwtq.com/asp/detail.asp?id=140" 
+target="_blank">搅拌车(点击查看价格表)<IMG border="0" src="img/new1.gif"></A> 
+</LI>
+<LI> <A href="http://www.clwtq.com/asp/detail.asp?id=132" 
+target="_blank">消防车价格表(请点击查看)<IMG border="0" src="img/new1.gif"></A> 
+</LI>
+<LI> <A href="http://www.clwtq.com/asp/detail.asp?id=128" 
+target="_blank">随车起重车价格表(请点击查<IMG border="0" src="img/new1.gif"></A> 
+</LI>
+<LI> <A href="http://www.clwtq.com/asp/detail.asp?id=127" 
+target="_blank">垃圾车价格表(请点击查看)<IMG border="0" src="img/new1.gif"></A> 
+</LI>
+<LI> <A href="http://www.clwtq.com/asp/detail.asp?id=126" 
+target="_blank">自卸车价格表(请点击查看)<IMG border="0" src="img/new1.gif"></A> 
+</LI>
+<LI> <A href="http://www.clwtq.com/asp/detail.asp?id=124" 
+target="_blank">吸污车价格表(请点击查看)<IMG border="0" src="img/new1.gif"></A> 
+</LI>
+<LI> <A href="http://www.clwtq.com/asp/detail.asp?id=123" 
+target="_blank">吸粪车价格表(请点击查看)<IMG border="0" src="img/new1.gif"></A> 
+</LI>
+<LI> <A href="http://www.clwtq.com/asp/detail.asp?id=122" 
+target="_blank">挂桶式垃圾车价格表(请点击<IMG border="0" src="img/new1.gif"></A> 
+</LI>
+<LI> <A href="http://www.clwtq.com/asp/detail.asp?id=121" 
+target="_blank">摆臂拉圾车价格表(请点击查<IMG border="0" src="img/new1.gif"></A> 
+</LI>
+<LI> <A href="http://www.clwtq.com/asp/detail.asp?id=120" 
+target="_blank">洒水车价格表(请点击查看)<IMG border="0" src="img/new1.gif"></A> 
+</LI>
+<LI> <A href="http://www.clwtq.com/asp/detail.asp?id=119" 
+target="_blank">油罐车价格表(请点击查看)<IMG border="0" src="img/new1.gif"></A> 
+</LI></DIV></DIV></DIV><!--中-->
+<DIV style="background: rgb(255, 255, 255); border: 1px solid rgb(204, 204, 204); width: 550px; text-align: left; overflow: hidden; position: relative;">
+<H3><A style='background: url("/img/icon_about.png") no-repeat;' href="http://www.clwtq.com/asp/detail.asp?id=108">公司简介</A><EM 
+style="float: right;"><IMG src="img/more.png"></EM></H3>
+<DIV style="margin: 6px; height: 168px; line-height: 18px; overflow: hidden;" 
+id="home_about">
+<DIV style="text-align: center;" id="company_buttons"><A class="tt" href="http://www.clwtq.com/asp/detail.asp?id=115"><IMG 
+border="0" src="img/item0.png"><BR>资质荣誉 
+                           </A><A class="tt" href="http://www.clwtq.com/asp/detail.asp?id=137"><IMG 
+border="0" src="img/item1.png"><BR>企业文化 
+                           </A><A class="tt" href="http://www.clwtq.com/asp/detail.asp?id=88"><IMG 
+border="0" src="img/item2.png"><BR>服务支持 
+                           </A><A class="tt" href="http://www.clwtq.com/asp/detail.asp?id="><IMG 
+border="0" src="img/item3.png"><BR>组织机构 
+                           </A><A class="tt" href="http://www.clwtq.com/asp/detail.asp?id=114"><IMG 
+border="0" src="img/item4.png"><BR>实力展示 
+                           </A></DIV>                        　　  
+国家发改委定点生产各类专用汽车的专业厂家，大型专用汽车制造厂。国内知名园林绿化、石油化工、市政环卫、压力容器专用汽车制造商。注册商标“程力威”牌，国家发改委汽车公告产品代码：“CLW”和“SNJ”。东风、解放公司的重要合作伙伴，主要从事各类专用汽车的生产制造业务，同时也销售各大型厂家的整车及配件。公司拥有自行出口权，产品占据大量国外市场，其主导品种有<A 
+class="seo" 
+href="http://www.clwtq.com/asp/search.asp?kw=%C8%F7%CB%AE%B3%B5"><STRONG>洒水车</STRONG></A>、油罐车、<A 
+class="seo" 
+href="http://www.clwtq.com/asp/search.asp?kw=%C0%AC%BB%F8%B3%B5"><STRONG>垃圾车</STRONG></A>、<A 
+class="seo" 
+href="http://www.clwtq.com/asp/search.asp?kw=%CE%FC%B7%E0%B3%B5"><STRONG>吸粪车</STRONG></A>、吸污车<A 
+href="http://www.clwtq.com/asp/detail.asp?id=108">[详细]</A></DIV>
+<H3><A style='background: url("/img/icon_about.png") no-repeat;'>产品推荐</A></H3>
+<DIV style="padding: 3px; border: 1px solid rgb(204, 204, 204); overflow: hidden; position: relative;">
+<CENTER>
+<DIV><SPAN style="margin: 5px; width: 120px; height: 110px; text-align: center; color: gray; display: inline-block;"><A 
+href="http://www.clwtq.com/asp/productShow.asp?id=189"><IMG style="border: 2px solid rgb(204, 204, 204); width: 120px; height: 90px;" 
+src="img/20120422110250.jpg"><BR>东风145洒水车8</A></SPAN><SPAN 
+style="margin: 5px; width: 120px; height: 110px; text-align: center; color: gray; display: inline-block;"><A 
+href="http://www.clwtq.com/asp/productShow.asp?id=5"><IMG style="border: 2px solid rgb(204, 204, 204); width: 120px; height: 90px;" 
+src="img/20100528104535.jpg"><BR>东风天龙前四后八运</A></SPAN><SPAN 
+style="margin: 5px; width: 120px; height: 110px; text-align: center; color: gray; display: inline-block;"><A 
+href="http://www.clwtq.com/asp/productShow.asp?id=14"><IMG style="border: 2px solid rgb(204, 204, 204); width: 120px; height: 90px;" 
+src="img/20110304105240.jpg"><BR>东风145运油车</A></SPAN><SPAN 
+style="margin: 5px; width: 120px; height: 110px; text-align: center; color: gray; display: inline-block;"><A 
+href="http://www.clwtq.com/asp/productShow.asp?id=20"><IMG style="border: 2px solid rgb(204, 204, 204); width: 120px; height: 90px;" 
+src="img/20110303095359.jpg"><BR>东风金霸加油车</A></SPAN><SPAN 
+style="margin: 5px; width: 120px; height: 110px; text-align: center; color: gray; display: inline-block;"><A 
+href="http://www.clwtq.com/asp/productShow.asp?id=24"><IMG style="border: 2px solid rgb(204, 204, 204); width: 120px; height: 90px;" 
+src="img/20100528114141.jpg"><BR>东风平头单桥洒水车</A></SPAN><SPAN 
+style="margin: 5px; width: 120px; height: 110px; text-align: center; color: gray; display: inline-block;"><A 
+href="http://www.clwtq.com/asp/productShow.asp?id=26"><IMG style="border: 2px solid rgb(204, 204, 204); width: 120px; height: 90px;" 
+src="img/20110426151240.jpg"><BR>东风多利卡洒水车</A></SPAN><SPAN 
+style="margin: 5px; width: 120px; height: 110px; text-align: center; color: gray; display: inline-block;"><A 
+href="http://www.clwtq.com/asp/productShow.asp?id=28"><IMG style="border: 2px solid rgb(204, 204, 204); width: 120px; height: 90px;" 
+src="img/20110304105651.jpg"><BR>东风小霸王洒水车</A></SPAN><SPAN 
+style="margin: 5px; width: 120px; height: 110px; text-align: center; color: gray; display: inline-block;"><A 
+href="http://www.clwtq.com/asp/productShow.asp?id=36"><IMG style="border: 2px solid rgb(204, 204, 204); width: 120px; height: 90px;" 
+src="img/2693eg.jpg"><BR>福田前四后八化工液</A></SPAN><SPAN 
+style="margin: 5px; width: 120px; height: 110px; text-align: center; color: gray; display: inline-block;"><A 
+href="http://www.clwtq.com/asp/productShow.asp?id=45"><IMG style="border: 2px solid rgb(204, 204, 204); width: 120px; height: 90px;" 
+src="img/2518dv.jpg"><BR>解放平头化工液体运</A></SPAN><SPAN 
+style="margin: 5px; width: 120px; height: 110px; text-align: center; color: gray; display: inline-block;"><A 
+href="http://www.clwtq.com/asp/productShow.asp?id=73"><IMG style="border: 2px solid rgb(204, 204, 204); width: 120px; height: 90px;" 
+src="img/J30522121.jpg"><BR>东风康霸吸污车</A></SPAN><SPAN 
+style="margin: 5px; width: 120px; height: 110px; text-align: center; color: gray; display: inline-block;"><A 
+href="http://www.clwtq.com/asp/productShow.asp?id=83"><IMG style="border: 2px solid rgb(204, 204, 204); width: 120px; height: 90px;" 
+src="img/2528dv.jpg"><BR>东风小金霸吸粪车</A></SPAN><SPAN 
+style="margin: 5px; width: 120px; height: 110px; text-align: center; color: gray; display: inline-block;"><A 
+href="http://www.clwtq.com/asp/productShow.asp?id=179"><IMG style="border: 2px solid rgb(204, 204, 204); width: 120px; height: 90px;" 
+src="img/$NoticeMini.jpg"><BR>程力威牌CLW51</A></SPAN></DIV> 
+</CENTER></DIV>
+<DIV>
+<DIV style="width: 49.8%; overflow: hidden; float: left;">
+<H3><A style='background: url("/img/icon_news.png") no-repeat;' href="http://www.clwtq.com/asp/docs.asp?id=1">企业新闻</A><EM 
+style="float: right;"><IMG src="img/more.png"></EM></H3>
+<DIV style="margin: 5px; height: 210px;" class="newslist">
+<LI> <A href="http://www.clwtq.com/asp/detail.asp?id=206" 
+target="_blank">延安罐车和客车相撞<IMG border="0" src="img/new1.gif"></A> 
+</LI>
+<LI> <A href="http://www.clwtq.com/asp/detail.asp?id=205" 
+target="_blank">东风专用车出口欧盟怎么办商<IMG border="0" src="img/new1.gif"></A> 
+</LI>
+<LI> <A href="http://www.clwtq.com/asp/detail.asp?id=204" 
+target="_blank">随州专用车在给用户送车的路<IMG border="0" src="img/new1.gif"></A> 
+</LI>
+<LI> <A href="http://www.clwtq.com/asp/detail.asp?id=201" 
+target="_blank">如何选择最优惠最适合您的消<IMG border="0" src="img/new1.gif"></A> 
+</LI>
+<LI> <A href="http://www.clwtq.com/asp/detail.asp?id=198" 
+target="_blank">湖北程力提醒司机朋友春天雨<IMG border="0" src="img/new1.gif"></A> 
+</LI>
+<LI> <A href="http://www.clwtq.com/asp/detail.asp?id=196" 
+target="_blank">“寻根节”期间，程力环卫车<IMG border="0" src="img/new1.gif"></A> 
+</LI>
+<LI> <A href="http://www.clwtq.com/asp/detail.asp?id=195" 
+target="_blank">湖北程力洒水车最给力<IMG border="0" src="img/new1.gif"></A> 
+</LI>
+<LI> <A href="http://www.clwtq.com/asp/detail.asp?id=193" 
+target="_blank">青海西宁环卫洒水车出动协助<IMG border="0" src="img/new1.gif"></A> 
+</LI></DIV></DIV>
+<DIV style="width: 49.8%; overflow: hidden; float: left;">
+<H3><A style='background: url("/img/icon_news.png") no-repeat;' href="http://www.clwtq.com/asp/docs.asp?id=16">行业资讯</A><EM 
+style="float: right;"><IMG src="img/more.png"></EM></H3>
+<DIV style="margin: 5px; height: 210px;" class="newslist">
+<LI> <A href="http://www.clwtq.com/asp/detail.asp?id=199" 
+target="_blank">请不要小瞧车辆反光标--湖<IMG border="0" src="img/new1.gif"></A> 
+</LI>
+<LI> <A href="http://www.clwtq.com/asp/detail.asp?id=194" 
+target="_blank">安徽、山西等各县发放抗旱拉<IMG border="0" src="img/new1.gif"></A> 
+</LI>
+<LI> <A href="http://www.clwtq.com/asp/detail.asp?id=190" 
+target="_blank">湖北程力吸污车被广大用户誉<IMG border="0" src="img/new1.gif"></A> 
+</LI>
+<LI> <A href="http://www.clwtq.com/asp/detail.asp?id=189" 
+target="_blank">选购洒水车不但要看价格，还<IMG border="0" src="img/new1.gif"></A> 
+</LI>
+<LI> <A href="http://www.clwtq.com/asp/detail.asp?id=188" 
+target="_blank">什么叫多功能洒水车?湖北程<IMG border="0" src="img/new1.gif"></A> 
+</LI>
+<LI> <A href="http://www.clwtq.com/asp/detail.asp?id=187" 
+target="_blank">用最优惠的价格购买最理想的<IMG border="0" src="img/new1.gif"></A> 
+</LI>
+<LI> <A href="http://www.clwtq.com/asp/detail.asp?id=182" target="_blank">另一番精彩 
+上海车展卡车室<IMG border="0" src="img/new1.gif"></A> 
+</LI>
+<LI> <A href="http://www.clwtq.com/asp/detail.asp?id=170" 
+target="_blank">国家发展改革委宣布提高成品<IMG border="0" src="img/new1.gif"></A> 
+</LI></DIV></DIV></DIV></DIV></DIV></CENTER></DIV>
