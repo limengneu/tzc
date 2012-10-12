@@ -10,7 +10,7 @@ package com.tzc.biz.dao;
 
 import org.springframework.stereotype.Repository;
 
-import com.tzc.biz.model.Vedio;
+import com.tzc.biz.model.CarInfo;
 
 /**
  * @描述：
@@ -20,6 +20,6 @@ import com.tzc.biz.model.Vedio;
  */
 
 @Repository
-public class VedioDao  extends BaseDao<Vedio> {
+public class CarinfoDao  extends BaseDao<CarInfo> {
 
 }

@@ -17,7 +17,9 @@ import javax.persistence.Entity;
  */
 @Entity
 public class CarInfo extends BaseModel{
-
+	
+	@Column
+	private String productCategory;//产品名称
 	@Column
 	private String productName;//产品名称
 	@Column
@@ -395,6 +397,18 @@ public class CarInfo extends BaseModel{
 	 */
 	public void setSpecialPerformance(String specialPerformance) {
 		this.specialPerformance = specialPerformance;
+	}
+	/**
+	 * @return the productCategory
+	 */
+	public String getProductCategory() {
+		return productCategory;
+	}
+	/**
+	 * @param productCategory the productCategory to set
+	 */
+	public void setProductCategory(String productCategory) {
+		this.productCategory = productCategory;
 	}
 	
 	

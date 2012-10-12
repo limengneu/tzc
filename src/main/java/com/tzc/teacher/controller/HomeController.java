@@ -17,10 +17,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.servlet.ModelAndView;
 
-import com.tzc.biz.query.VedioQuery;
-import com.tzc.biz.service.VedioService;
-import com.tzc.common.paginator.Paginator;
-import com.tzc.common.paginator.PaginatorConstants;
+import com.tzc.biz.service.CarInfoService;
 import com.tzc.teacher.utils.UrlPatternConsts;
 
 /**
@@ -34,18 +31,13 @@ public class HomeController {
 	
 
 	@Autowired
-	private VedioService vedioService;
+	private CarInfoService vedioService;
 	
 	
 	@RequestMapping(value = "/", method = RequestMethod.GET)
 	public ModelAndView home(HttpServletRequest request, ModelAndView mav){
 		mav.setViewName("home");
-		VedioQuery vedioQuery=vedioService.findListByPage("status","s",1, PaginatorConstants.DEFAULT_PAGE_SIZE);
-		
-		Paginator paginator=new Paginator(UrlPatternConsts.VEDIO_List,1,PaginatorConstants.DEFAULT_PAGE_SIZE,vedioQuery.getSize());
-		
-		mav.addObject("paginator", paginator);
-		mav.addObject("vedios", vedioQuery.getVedios());
+
 	
 		return mav;
 	}
@@ -53,12 +45,7 @@ public class HomeController {
 	@RequestMapping(value = UrlPatternConsts.VEDIO_List, method = RequestMethod.GET)
 	public ModelAndView vedioList(HttpServletRequest request, ModelAndView mav,@PathVariable Integer page){
 		mav.setViewName("home");
-		VedioQuery vedioQuery=vedioService.findListByPage("status","s",page, PaginatorConstants.DEFAULT_PAGE_SIZE);
 	
-		Paginator paginator=new Paginator(UrlPatternConsts.VEDIO_List,page,PaginatorConstants.DEFAULT_PAGE_SIZE,vedioQuery.getSize());
-		
-		mav.addObject("paginator", paginator);
-		mav.addObject("vedios", vedioQuery.getVedios());
 		return mav;
 	}
 

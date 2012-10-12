@@ -1,0 +1,5 @@
+<div id="left">
+#parse("control/contact.vm")
+#parse("control/menu.vm")
+#parse("control/contact.vm")
+</div>

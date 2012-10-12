@@ -30,9 +30,9 @@
 
 <body>
 <center>
-#parse('layout/header.vm')
+#parse('layout/admin/header.vm')
 $screenContent
-#parse('layout/footer.vm')
+#parse('layout/admin/footer.vm')
 </center>
 </body>
 </html>

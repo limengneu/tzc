@@ -19,5 +19,11 @@ public class UrlPatternConsts {
 	public static final String VEDIO_VIEW = "/vedio/{vedioId}";
 	
 	public static final String VEDIO_List = "/vedios/{page}";
+	
+	public static final String CARINFO_DETAIL = "/cardetail/{carid}";
+	
+	public static final String ADD_CARINFO = "/admin/add";
+	
+	public static final String ADD_CARINFO_VIEW = "/admin/view";
 
 }

@@ -1,0 +1,23 @@
+<div style="background: rgb(255, 255, 255); border: 1px solid rgb(204, 204, 204); width: 550px; text-align: left; overflow: hidden; position: relative;">
+<h3>
+	 <a style='background: url("/img/icon_about.png") no-repeat;' href="http://www.clwtq.com/asp/detail.asp?id=108">公司简介</a>
+	 <em style="float: right;"><img src="img/more.png"></em>
+</h3>
+<div style="margin: 6px; height: 168px; line-height: 18px; overflow: hidden;" id="home_about">
+<div style="text-align: center;" id="company_buttons">
+	<a class="tt" href="http://www.clwtq.com/asp/detail.asp?id=115"><img border="0" src="img/item0.png"><br>资质荣誉 </a>
+	<a class="tt" href="http://www.clwtq.com/asp/detail.asp?id=137"><img border="0" src="img/item1.png"><br>企业文化 </a>
+	<a class="tt" href="http://www.clwtq.com/asp/detail.asp?id=88"><img border="0" src="img/item2.png"><br>服务支持 </a>
+	<a class="tt" href="http://www.clwtq.com/asp/detail.asp?id="><img border="0" src="img/item3.png"><br>组织机构 </a>
+    <a class="tt" href="http://www.clwtq.com/asp/detail.asp?id=114"><img border="0" src="img/item4.png"><br>实力展示 </a>
+</div>                        　　  
+国家发改委定点生产各类专用汽车的专业厂家，大型专用汽车制造厂。国内知名园林绿化、石油化工、市政环卫、压力容器专用汽车制造商。注册商标“程力威”牌，国家发改委汽车公告产品代码：“clw”和“snj”。东风、解放公司的重要合作伙伴，主要从事各类专用汽车的生产制造业务，同时也销售各大型厂家的整车及配件。公司拥有自行出口权，产品占据大量国外市场，其主导品种有
+<a class="seo" href="http://www.clwtq.com/asp/search.asp?kw=%c8%f7%cb%ae%b3%b5"><strong>洒水车</strong></a>、油罐车、
+<a class="seo" href="http://www.clwtq.com/asp/search.asp?kw=%c0%ac%bb%f8%b3%b5"><strong>垃圾车</strong></a>、
+<a class="seo" href="http://www.clwtq.com/asp/search.asp?kw=%ce%fc%b7%e0%b3%b5"><strong>吸粪车</strong></a>、吸污车
+<a href="http://www.clwtq.com/asp/detail.asp?id=108">[详细]</a>
+</div>
+#parse("control/centerproduct.vm")
+#parse("control/centernew.vm")
+#parse("control/news.vm")
+</div>

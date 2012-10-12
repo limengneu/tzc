@@ -1,0 +1,186 @@
+
+  <div id="pdetail" style="background:#ffffff;"> 
+  <center>
+      <table  height=632px  width=742px border="0" cellpadding="4" cellspacing="1" style="line-height:16px;font-family:微软雅黑,新宋体,Tahoma;
+        word-wrap: break-word; font-size:9pt; word-break: break-all;background:#b8c2c8;  ">
+          <caption style="background:#EEEEFF;padding:10px; font-size:20px; 
+          font-weight:bold;">
+            录入特种车</caption>
+          <tbody>
+			
+			<tr align="left" bgcolor="#ffffff" height="20" valign="center">
+              <td width="15%">
+                 选择特种车类型：
+			  </td>
+              <td width="35%">
+                <select name="$carInfo.productCategory">
+					<option >请选择车类型</option>
+					<option value"ygc" #if($carInfo.productCategory=="ygc") selected #end >油罐车系列</option>
+					<option value="ssc" #if($carInfo.productCategory=="ssc") selected #end >洒水车系列</option>
+					<option value="hggc" #if($carInfo.productCategory=="hggc") selected #end >化工液罐车系列</option>
+					<option value="szsnc" #if($carInfo.productCategory=="szsnc") selected #end >散装水泥车系列</option>
+					<option value="xfxwc" #if($carInfo.productCategory=="xfxwc") selected #end >吸粪吸污车系列</option>
+					<option value="ljc" #if($carInfo.productCategory=="ljc") selected #end >垃圾车系列</option>
+                    <option value"hltc"#if($carInfo.productCategory=="hltc") selected #end >混凝土搅拌车系列</option>
+					<option value="qzc" #if($carInfo.productCategory=="qzc") selected #end >随车起重运输车系列</option>
+					<option value="gyqxc"#if($carInfo.productCategory=="gyqxc") selected #end >高压清洗车系列</option>
+					<option value="gzyc"#if($carInfo.productCategory=="gzyc") selected #end >高空作业车系列</option>
+					<option value="qzc"#if($carInfo.productCategory=="qzc") selected #end >清障车系列</option>
+					<option value="fbc"#if($carInfo.productCategory=="fbc") selected #end >防暴车系列</option>
+                    <option value"slc"#if($carInfo.productCategory=="slc") selected #end >扫路车系列</option>
+					<option value="jlc"#if($carInfo.productCategory=="jlc") selected #end >教练车系列</option>
+					<option value="xfc"#if($carInfo.productCategory=="xfc") selected #end >消防车系列</option>
+					<option value="zyc"#if($carInfo.productCategory=="zyc") selected #end >专用车配件</option>
+					<option value="ycgc"#if($carInfo.productCategory=="ycgc") selected #end >液化气储罐系列</option>
+				</select>    
+			  </td>
+          </tr>
+			<tr align="left" bgcolor="#ffffff" height="20" valign="center">
+              <td width="15%">
+                  产品名称：</td>
+              <td width="35%">
+                  <input type="text" name="$carInfo.productCategory" value="" /></td>
+              <td width="15%">
+                  公告批次：</td>
+              <td width="35%">
+                 <input type="text" name="$carInfo.productCategory" value=""/></td>
+          </tr>
+          <tr align="left" bgcolor="#F7FAFE" height="20" valign="center">
+              <td>底盘型号：</td>
+              <td>
+                  <input type="text" name="$carInfo.productCategory" value=""/></td>
+              <td>
+                  排放标准：</td>
+              <td><input type="text" name="$carInfo.productCategory" value=""/> </td>
+          </tr>
+          <tr align="left" bgcolor="#ffffff" height="20" valign="center">
+              <td>
+                  总质量：</td>
+              <td>
+                  <input type="text" name="$carInfo.productCategory" value=""/></td>
+              <td>
+                  接近/离去角：</td>
+              <td>
+                  <input type="text" name="$carInfo.productCategory" value=""/></td>
+          </tr>
+          <tr align="left" bgcolor="#F7FAFE" height="20" valign="center">
+              <td>
+                  额定质量：</td>
+              <td>
+                 <input type="text" name="$carInfo.productCategory" value=""/></td>
+              <td>
+                  前悬后悬：</td>
+              <td>
+                 <input type="text" name="$carInfo.productCategory" value=""/> </td>
+          </tr>
+          <tr align="left" bgcolor="#ffffff" height="20" valign="center">
+              <td>
+                  整备质量：</td>
+              <td>
+                 <input type="text" name="$carInfo.productCategory" value=""/></td>
+              <td>
+                  最高车速：</td>
+              <td>
+                  <input type="text" name="$carInfo.productCategory" value=""/></td>
+          </tr>
+
+          <tr align="left" bgcolor="#F7FAFE" height="20" valign="center">
+              <td>
+                  轴数：</td>
+              <td>
+                 <input type="text" name="$carInfo.productCategory" value=""/></td>
+              <td>
+                  前轮距：</td>
+              <td>
+                <input type="text" name="$carInfo.productCategory" value=""/></td>
+          </tr>
+          <tr align="left" bgcolor="#ffffff" height="20" valign="center">
+              <td>
+                  轴距：</td>
+              <td>
+                  <input type="text" name="$carInfo.productCategory" value=""/></td>
+              <td>
+                  后轮距：</td>
+              <td>
+              <input type="text" name="$carInfo.productCategory" value=""/></td>
+          </tr>
+          <tr align="left" bgcolor="#F7FAFE" height="20" valign="center">
+              <td>
+                  轮胎数：</td>
+              <td>
+                  <input type="text" name="$carInfo.productCategory" value=""/></td>
+              <td>
+                  轮胎规格：</td>
+              <td>
+                 <input type="text" name="$carInfo.productCategory" value=""/></td>
+          </tr>
+          <tr align="left" bgcolor="#ffffff" height="20" valign="center">
+              <td>
+                  燃料种类：</td>
+              <td>
+                 <input type="text" name="$carInfo.productCategory" value=""/></td>
+              <td>
+                  弹簧片数：</td>
+              <td>
+                 <input type="text" name="$carInfo.productCategory" value=""/></td>
+          </tr>
+          <tr align="left" bgcolor="#F7FAFE" height="20" valign="center">
+              <td>
+                  轴荷：</td>
+              <td>
+                 <input type="text" name="$carInfo.productCategory" value=""/></td>
+              <td>
+                  前排乘客：</td>
+              <td>
+                 <input type="text" name="$carInfo.productCategory" value=""/></td>
+          </tr>
+          
+          <tr align="left" bgcolor="#FFFFFF" height="20" valign="center">
+              <td>
+                  外型尺寸：</td>
+              <td colspan="3">
+                  <input type="text" name="$carInfo.productCategory" value=""/></td>
+          </tr>
+          
+          <tr align="left" bgcolor="#F7FAFE" height="20" valign="center">
+              <td>
+                  货厢尺寸：</td>
+              <td colspan="3">
+                  <input type="text" name="$carInfo.productCategory" value=""/></td>
+          </tr>
+          <tr>
+          <td colspan="4" style="background:#FFFFFF;">
+                <table cellspacing="1" cellpadding="3" width="100%" style=" text-align:left;background:#b8c2c8;">
+                <tbody><tr style="background:#F7FAFE;">
+                    <td>发动机型号</td>
+                    <td>发动机排量(ML)</td>
+                    <td>发动机功率(KW)</td> 
+                </tr><tr>
+                    <td style="background:#FFFFFF;"><input type="text" name="$carInfo.productCategory" value=""/></td>
+                    <td style="background:#FFFFFF;"><input type="text" name="$carInfo.productCategory" value=""/></td>
+                    <td style="background:#FFFFFF;"><input type="text" name="$carInfo.productCategory" value=""/></td> 
+                </tr>
+                </tbody></table>
+ 
+          </td>
+          </tr>
+          <tr bgcolor="#F7FAFE">
+              <td align="left" valign="center">
+                  整车备注：</td>
+              <td align="left" colspan="3" valign="center">
+              <input type="text" name="$carInfo.productCategory" value=""/>   
+			  </td>
+          </tr>
+          <tr bgcolor="#FFFFFF">
+              <td align="left" valign="center">
+                  专用性能：</td>
+              <td align="left" colspan="3" valign="center">
+                  <input type="text" name="$carInfo.productCategory" value=""/></td>
+          </tr>
+      </tbody>
+</table>
+	            <caption style="background:#EEEEFF;padding:10px; font-size:20px; font-weight:bold;">
+            <button type="submit" value="提交">提交</button>
+				</caption>
+  </center>
+  </div>

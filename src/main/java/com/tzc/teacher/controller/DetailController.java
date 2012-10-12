@@ -10,10 +10,16 @@ package com.tzc.teacher.controller;
 
 import javax.servlet.http.HttpServletRequest;
 
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.servlet.ModelAndView;
+
+import com.tzc.biz.model.CarInfo;
+import com.tzc.biz.service.CarInfoService;
+import com.tzc.teacher.utils.UrlPatternConsts;
 
 /**
  * @描述：
@@ -22,7 +28,10 @@ import org.springframework.web.servlet.ModelAndView;
  * @创建时间：Aug 20, 20121:34:00 PM
  */
 @Controller
-public class CoursesController {
+public class DetailController {
+	
+	@Autowired
+	private CarInfoService carInfoService;
 	/**
 	 * 
 	 * @方法功能说明：
@@ -31,22 +40,14 @@ public class CoursesController {
 	 * @参数：
 	 * @return:void
 	 */
-	@RequestMapping(value = "save", method = RequestMethod.POST)
-	public void save() {
+	@RequestMapping(value = UrlPatternConsts.CARINFO_DETAIL, method = RequestMethod.GET)
+	public void detail(HttpServletRequest request, ModelAndView mav,@PathVariable Integer carid) {
+		mav.setViewName("car/detail");
+		CarInfo carInfo=carInfoService.findCarInfoById(carid);
+		
+		mav.addObject("carInfo", carInfo);
 	}
 
-	/**
-	 * 
-	 * @方法功能说明：
-	 * @修改者名字: limeng
-	 * @修改时间：Aug 20, 20121:40:44 PM
-	 * @参数：
-	 * @return:void
-	 */
-	@RequestMapping(value = "/courses/create", method = RequestMethod.GET)
-	public ModelAndView create(HttpServletRequest request, ModelAndView mav) {
-		mav.setViewName("/courses/create");
-		return mav;
-	}
+
 
 }

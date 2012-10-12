@@ -29,14 +29,13 @@ function BannerShow(){
     this.Address=new Array();
     this.index=-1;
     //添加图片
-    this.AddImage=function(img,title,address){
+    this.addimage=function(img,title,address){
         this.Img[this.Img.length]=img;
         this.Title[this.Title.length]=title;
         this.Address[this.Address.length]=address;
     }
     //开始播放
     this.playNext=function(){
-        
         this.index++;
         if(this.index >= this.Img.length) this.index=0;
         for(var i=0;i<this.Img.length;i++){                

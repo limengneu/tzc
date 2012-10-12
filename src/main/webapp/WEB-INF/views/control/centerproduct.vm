@@ -1,0 +1,55 @@
+<h3><a style='background: url("/img/icon_about.png") no-repeat;'>产品推荐</a></h3>
+<div style="padding: 3px; border: 1px solid rgb(204, 204, 204); overflow: hidden; position: relative;">
+<center>
+<div>
+	<span style="margin: 5px; width: 120px; height: 110px; text-align: center; color: gray; display: inline-block;">
+		<a href="http://www.clwtq.com/asp/productshow.asp?id=189">
+			<img style="border: 2px solid rgb(204, 204, 204); width: 120px; height: 90px;" src="img/20120422110250.jpg"><br>东风145洒水车8</a>
+    </span>
+	<span style="margin: 5px; width: 120px; height: 110px; text-align: center; color: gray; display: inline-block;">
+		<a href="http://www.clwtq.com/asp/productshow.asp?id=5">
+			<img style="border: 2px solid rgb(204, 204, 204); width: 120px; height: 90px;" src="img/20100528104535.jpg"><br>东风天龙前四后八运</a>
+    </span>
+	<span style="margin: 5px; width: 120px; height: 110px; text-align: center; color: gray; display: inline-block;">
+		<a href="http://www.clwtq.com/asp/productshow.asp?id=14">
+			<img style="border: 2px solid rgb(204, 204, 204); width: 120px; height: 90px;" src="img/20110304105240.jpg"><br>东风145运油车</a>
+     </span>
+	 <span style="margin: 5px; width: 120px; height: 110px; text-align: center; color: gray; display: inline-block;">
+		<a href="http://www.clwtq.com/asp/productshow.asp?id=20">
+			<img style="border: 2px solid rgb(204, 204, 204); width: 120px; height: 90px;" src="img/20110303095359.jpg"><br>东风金霸加油车</a>
+     </span>
+	 <span style="margin: 5px; width: 120px; height: 110px; text-align: center; color: gray; display: inline-block;">
+		<a href="http://www.clwtq.com/asp/productshow.asp?id=24">
+			<img style="border: 2px solid rgb(204, 204, 204); width: 120px; height: 90px;" src="img/20100528114141.jpg"><br>东风平头单桥洒水车</a>
+     </span>
+	 <span style="margin: 5px; width: 120px; height: 110px; text-align: center; color: gray; display: inline-block;">
+		<a href="http://www.clwtq.com/asp/productshow.asp?id=26">
+			<img style="border: 2px solid rgb(204, 204, 204); width: 120px; height: 90px;" src="img/20110426151240.jpg"><br>东风多利卡洒水车</a>
+     </span>
+	 <span style="margin: 5px; width: 120px; height: 110px; text-align: center; color: gray; display: inline-block;">
+		<a href="http://www.clwtq.com/asp/productshow.asp?id=28">
+			<img style="border: 2px solid rgb(204, 204, 204); width: 120px; height: 90px;" src="img/20110304105651.jpg"><br>东风小霸王洒水车</a>
+      </span>
+	  <span style="margin: 5px; width: 120px; height: 110px; text-align: center; color: gray; display: inline-block;">
+		<a href="http://www.clwtq.com/asp/productshow.asp?id=36">
+			<img style="border: 2px solid rgb(204, 204, 204); width: 120px; height: 90px;" src="img/2693eg.jpg"><br>福田前四后八化工液</a>
+      </span>
+	  <span style="margin: 5px; width: 120px; height: 110px; text-align: center; color: gray; display: inline-block;">
+		<a href="http://www.clwtq.com/asp/productshow.asp?id=45">
+			<img style="border: 2px solid rgb(204, 204, 204); width: 120px; height: 90px;" src="img/2518dv.jpg"><br>解放平头化工液体运</a>
+       </span>
+	   <span style="margin: 5px; width: 120px; height: 110px; text-align: center; color: gray; display: inline-block;">
+		<a href="http://www.clwtq.com/asp/productshow.asp?id=73">
+			<img style="border: 2px solid rgb(204, 204, 204); width: 120px; height: 90px;" src="img/j30522121.jpg"><br>东风康霸吸污车</a>
+        </span>
+		<span style="margin: 5px; width: 120px; height: 110px; text-align: center; color: gray; display: inline-block;">
+			<a href="http://www.clwtq.com/asp/productshow.asp?id=83">
+				<img style="border: 2px solid rgb(204, 204, 204); width: 120px; height: 90px;" src="img/2528dv.jpg"><br>东风小金霸吸粪车</a>
+       </span>
+	   <span style="margin: 5px; width: 120px; height: 110px; text-align: center; color: gray; display: inline-block;">
+		<a href="http://www.clwtq.com/asp/productshow.asp?id=179">
+			<img style="border: 2px solid rgb(204, 204, 204); width: 120px; height: 90px;" src="img/noticemini.jpg"><br>程力威牌clw51</a>
+      </span>
+   </div> 
+ </center>
+</div>
