@@ -67,6 +67,19 @@ public class CarController {
 		
 		return mav;
 	}
+	
+	@RequestMapping(value = UrlPatternConsts.CARINFO_CULTURE, method = RequestMethod.GET)
+	public ModelAndView culture(HttpServletRequest request, ModelAndView mav) {
+		mav.setViewName("car/culture");
+		
+		return mav;
+	}
+	@RequestMapping(value = UrlPatternConsts.CARINFO_HONOUR, method = RequestMethod.GET)
+	public ModelAndView honour(HttpServletRequest request, ModelAndView mav) {
+		mav.setViewName("car/honour");
+		
+		return mav;
+	}
 	@RequestMapping(value = UrlPatternConsts.CARINFO_CONTACT, method = RequestMethod.GET)
 	public ModelAndView contact(HttpServletRequest request, ModelAndView mav) {
 		mav.setViewName("car/contact");

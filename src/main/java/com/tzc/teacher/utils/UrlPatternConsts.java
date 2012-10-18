@@ -20,6 +20,11 @@ public class UrlPatternConsts {
 	
 	public static final String CARINFO_FLOW = "/car/flow"; 
 	
+	public static final String CARINFO_CULTURE = "/car/culture"; 
+	
+	
+	public static final String CARINFO_HONOUR = "/car/honour"; 
+	
 	public static final String CARINFO_CONTACT = "/car/contact"; 
 	
 	public static final String CARINFO_PRICE = "/car/price"; 
