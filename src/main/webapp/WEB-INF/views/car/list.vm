@@ -1,0 +1,71 @@
+<!--三块开始-->
+<div id="main">
+<!--left-->
+#parse("control/leftpart.vm")
+<!--右边大块-->
+<div id="body"> 
+    <div id="addr"><b>您的位置：</b><a href="/asp/index.asp">首页</a> - 产品展示 - 洒水车系列</div>
+    <div id="info">洒水车：（运水车、喷洒车、绿化车、水罐车、撒水车）我司专业生产东风小霸王洒水车、小霸王洒水车加强型、多利卡洒水车、EQ140洒水车、153洒水车、145消防洒水车、1208双桥洒水车、南京跃进多功能洒水车，并且提供洒水车图片、洒水车价格、洒水车技术参数等，程力汽车为国内知名园林绿化、石油化工、市政环卫专用汽车制造商。<br>
+			 <font color="#000000"><strong><font color="#ff0000" size="4">更多详细车型与价格请致电:18607226629 0722-4792229</font></strong></font><p></p>
+   </div>
+    
+    <div style="position:relative;overflow:hidden;width:100%;b">
+
+
+        <!--$ products.listview-->
+
+	 <div id="myshow7006500007055475" style="text-align:center">
+		
+		#foreach($carInfo in ${carInfoQuery.carInfos})
+		<span class="itemDiv">
+			<span class="imgDiv">
+				<a href="/car/${carInfo.id}">
+					<img src="$imageServer${carInfo.productListImage}" alt="">
+                 </a>
+				 
+             </span>
+			 <a href="/car/${carInfo.id}">${carInfo.productListName}</a>
+          </span>
+		  
+		#end
+	 <center style="margin:10px;">
+		共<span style="color:red">${carInfoQuery.pageCount}</span>
+		页 | 第<span style="color:red">${carInfoQuery.currentPage}</span>
+		页
+		#if($paginator && $paginator.linkList.size() > 1)
+		| 页码:[
+		#foreach($link in ${paginator.linkList})
+		        #if($link.isCurrentPage())
+			             <a href="$link.href"  style="margin-left:5px;color:red;">$link.name</a>
+					#else					
+						<a href="$link.href"  style="margin-left:5px;color:blue;">$link.name</a>
+					#end
+		#end
+		] | 
+		#if($paginator.hasPreviousLink())
+				#set($previousLink = $paginator.previousLink)
+		<a href="$previousLink.href" class="page-prev"><span>$previousLink.name</span></a>
+		#end
+		
+		#if($paginator.hasNextLink())
+				#set($nextLink = $paginator.nextLink)
+				<a href="$nextLink.href" class="page-next"><span>$nextLink.name</span></a>
+				#end
+		#end
+	</center>
+</div>
+
+
+    </div>
+	
+<center>
+<a href="#top" style="margin:30px;">回顶端</a>
+<a href="/"></a>
+</center>
+    
+   
+        </div>
+
+
+
+</div>

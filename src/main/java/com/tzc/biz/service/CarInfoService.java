@@ -15,6 +15,7 @@ import org.springframework.stereotype.Component;
 
 import com.tzc.biz.dao.CarinfoDao;
 import com.tzc.biz.model.CarInfo;
+import com.tzc.biz.query.CarInfoQuery;
 
 /**
  * @描述：
@@ -43,9 +44,25 @@ public class CarInfoService {
 	public CarInfo findCarInfoById(Integer vedioId) {
 		return carInfoDao.find(vedioId);
 	}
+	
+	public List<CarInfo> findAllCar() {
+		return carInfoDao.findAllByValue();
+	}
 
 	public List<CarInfo> findCarInfos(String column, String value) {
 		return carInfoDao.findListByValue(column, value);
+	}
+	
+	public CarInfoQuery findCarByPage(String category, Integer page,Integer pagesize) {
+		CarInfoQuery carInfoQuery=new CarInfoQuery();
+		int count=carInfoDao.countByPage("productCategory", category).intValue();
+		 List<CarInfo> carInfos=carInfoDao.findListByPage("productCategory", category, page, pagesize);
+		 int totalpage=count/pagesize;
+		 totalpage = count % pagesize == 0 ? totalpage : totalpage + 1;
+		 carInfoQuery.setPageCount(totalpage);
+		carInfoQuery.setCarInfos(carInfos);
+		carInfoQuery.setItemCount(count);
+		return carInfoQuery;
 	}
 
 }

@@ -16,13 +16,16 @@ package com.tzc.teacher.utils;
  */
 public class UrlPatternConsts {
 	
-	public static final String VEDIO_VIEW = "/vedio/{vedioId}";
+	public static final String CARINFO_DETAIL = "/car/{carid}";
 	
-	public static final String VEDIO_List = "/vedios/{page}";
+	public static final String CARINFO_LIST = "/category/{cateid}/{page}";
 	
-	public static final String CARINFO_DETAIL = "/cardetail/{carid}";
+	public static final String CARINFO_LIST_NOPAGE = "/category/{cateid}";
 	
 	public static final String ADD_CARINFO = "/admin/add";
+
+	
+	public static final String INIT_CARINFO = "/admin/init";
 	
 	public static final String ADD_CARINFO_VIEW = "/admin/view";
 

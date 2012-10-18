@@ -21,6 +21,11 @@
      <class>org.apache.velocity.tools.generic.DisplayTool</class>
 </tool>
 <tool>
+     <key>render</key>
+     <scope>application</scope>
+     <class>org.apache.velocity.tools.generic.RenderTool</class>
+</tool>
+<tool>
      <key>lists</key>
      <scope>application</scope>
      <class>org.apache.velocity.tools.generic.ListTool</class>

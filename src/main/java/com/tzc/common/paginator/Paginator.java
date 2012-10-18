@@ -198,7 +198,7 @@ public class Paginator extends BaseNavigator {
 	private Map<String, Object>  buildArgumentMap(int i) {
 		Map<String, Object> argumentMap = new HashMap<String, Object>(
 				optionalArgumentMap);
-		argumentMap.put("page", page);
+		argumentMap.put("page", i);
 		return argumentMap;
 	}
 

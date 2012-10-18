@@ -1,6 +1,6 @@
 <div id="head">
   <div id="menu">
-	<a href="http://www.clwtq.com/asp/index.asp">首 页</a>
+	<a href="$hostServer">首 页</a>
      <a href="http://www.clwtq.com/asp/detail.asp?id=108">公司简介</a>
      <a href="http://www.clwtq.com/asp/docs.asp?id=1">企业新闻</a>
 	 <a href="http://www.clwtq.com/asp/product.asp">产品展示</a>
@@ -12,7 +12,7 @@
  </div>
 </div>
  <div id="banner">    
-       <img src="http://hbszdfzyc.com/Uploadfiles/hbszdfzyc/door.jpg">
+       <img src="$staticServer/img/door.jpg">
   </div>
 
 </div>

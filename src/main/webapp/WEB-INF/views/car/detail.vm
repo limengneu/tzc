@@ -1,62 +1,245 @@
- <div class="container">
-<form class="form-horizontal">
-        <fieldset>
-          <div class="control-group">
-            <label class="control-label" for="input01">Text input</label>
-            <div class="controls">
-              <input type="text" class="input-xlarge" id="input01">
-              <p class="help-block">In addition to freeform text, any HTML5 text-based input appears like so.</p>
-            </div>
-          </div>
-          <div class="control-group">
-            <label class="control-label" for="optionsCheckbox">Checkbox</label>
-            <div class="controls">
-              <label class="checkbox">
-                <input type="checkbox" id="optionsCheckbox" value="option1">
-                Option one is this and that—be sure to include why it's great
-              </label>
-            </div>
-          </div>
-          <div class="control-group">
-            <label class="control-label" for="select01">Select list</label>
-            <div class="controls">
-              <select id="select01">
-                <option>something</option>
-                <option>2</option>
-                <option>3</option>
-                <option>4</option>
-                <option>5</option>
-              </select>
-            </div>
-          </div>
-          <div class="control-group">
-            <label class="control-label" for="multiSelect">Multicon-select</label>
-            <div class="controls">
-              <select multiple="multiple" id="multiSelect">
-                <option>1</option>
-                <option>2</option>
-                <option>3</option>
-                <option>4</option>
-                <option>5</option>
-              </select>
-            </div>
-          </div>
-          <div class="control-group">
-            <label class="control-label" for="fileInput">File input</label>
-            <div class="controls">
-              <input class="input-file" id="fileInput" type="file">
-            </div>
-          </div>
-          <div class="control-group">
-            <label class="control-label" for="textarea">Textarea</label>
-            <div class="controls">
-              <textarea class="input-xlarge" id="textarea" rows="3"></textarea>
-            </div>
-          </div>
-          <div class="form-actions">
-            <button type="submit" class="btn btn-primary">Save changes</button>
-            <button class="btn">Cancel</button>
-          </div>
-        </fieldset>
-</form>
-	</div>
+<!--三块开始-->
+<div id="main">
+<!--left-->
+#parse("control/leftpart.vm")
+<!--右边大块-->
+<div id="body">  
+			<div id="location"><strong>您的位置：</strong> <a href="/">首页</a> - 产品展示  - 程力威牌CLW5251GFLT3型低密度粉粒物料运输车</div>
+			<div style="margin:5px;"> 
+	   <center>
+		<h1 class="page_title">程力威牌CLW5251GFLT3型低密度粉粒物料运输车</h1>
+		<hr>
+		<div style="position:relative;width:531px;height:300px;overflow:hidden;margin-bottom:4px;border:3px solid #EEEEFF;background:#EEEEFF;">
+			<div style="position:relative;width:400px;height:300px;float:left;">
+				<span style="width:400px;height:300px;border:0px solid Gray;display:inline-block;position:relative;overflow:hidden;line-height:500px;text-align:center;color:#FFFFFF;font-family:Tahome;margin:0px;padding:0px;">
+					<img id="imageview" src="$imageServer${carInfo.productDetailImage1}" style="width: 100%; height: 100%; border: 0px; ">
+				    <span style="position:absolute;width:100%;height:100%;left:0px;top:0px;font-family:Tahome;font-weight:bold;font-size:30px;filter:alpha(style=0,opacity=1);z-index:88;background:#FFFFFF;">
+				    </span>
+				    <span style="filter:DropShadow(Color=#555555,OffX=1,OffY=1,Positive=1) alpha(style=0,opacity=35);  z-index:99;position:absolute;width:100%;height:100%;left:0px;top:0px;font-family:Tahome;font-weight:bold;font-size:30px;">
+					     <span style="line-height:500px;color:white;"></span>
+				   </span>
+               </span>				
+			</div>
+			<div style="position:relative;width:130px;height:300px;float:right;">
+				<table cellspacing="0" cellpadding="0">
+				 <tbody>
+				    <tr><td><img src="$imageServer${carInfo.productDetailImage1}" id="p1" style="width:128px;height:98px;margin:0px;border:1px solid #FFFFFF;" onmouseout="this.style.border=&quot;1px solid #FFFFFF&quot;;" onmouseover="imageview.src=this.src;this.style.border=&quot;1px solid #FF2222&quot;;"></td></tr>
+				    <tr><td><img src="$imageServer${carInfo.productDetailImage2}" id="p2" style="width: 128px; height: 98px; margin: 0px; border: 1px solid rgb(255, 255, 255); " onmouseout="this.style.border=&quot;1px solid #FFFFFF&quot;;" onmouseover="imageview.src=this.src;this.style.border=&quot;1px solid #FF2222&quot;;"></td></tr>
+				    <tr><td><img src="$imageServer${carInfo.productDetailImage3}" id="p3" style="width:128px;height:98px;margin:0px;border:1px solid #FFFFFF;" onmouseout="this.style.border=&quot;1px solid #FFFFFF&quot;;" onmouseover="imageview.src=this.src;this.style.border=&quot;1px solid #FF2222&quot;;"></td></tr>
+				 </tbody>
+              </table>
+			</div>
+		</div>
+	    </center>
+<div id="pdetail" style="background:#ffffff;">    
+  <center>
+      <table border="0" cellpadding="4" cellspacing="1" style="line-height:16px;font-family:微软雅黑,新宋体,Tahoma;
+        word-wrap: break-word; font-size:9pt; word-break: break-all;background:#b8c2c8;  ">
+          <caption style="background:#EEEEFF;padding:10px; font-size:20px; 
+          font-weight:bold;">
+          程力威牌CLW5251GFLT3型低密度粉粒物料运输车-主要技术参数</caption>
+        
+          <tbody><tr align="left" bgcolor="#ffffff" height="20" valign="center">
+              <td width="15%">
+                  产品名称：</td>
+              <td width="35%">
+                  ${carInfo.productName}</td>
+              <td width="15%">
+                  公告批次：</td>
+              <td width="35%">
+                  ${carInfo.noticeNo}</td>
+          </tr>
+          <tr align="left" bgcolor="#F7FAFE" height="20" valign="center">
+              <td>
+                  底盘型号：</td>
+              <td>
+                 ${carInfo.chassisStyle}</td>
+              <td>
+                  排放标准：</td>
+              <td>${carInfo.emission} </td>
+          </tr>
+          <tr align="left" bgcolor="#ffffff" height="20" valign="center">
+              <td>
+                  总质量：</td>
+              <td>
+                 ${carInfo.quality} </td>
+              <td>
+                  接近/离去角：</td>
+              <td>
+                  ${carInfo.corner}</td>
+          </tr>
+          <tr align="left" bgcolor="#F7FAFE" height="20" valign="center">
+              <td>
+                  额定质量：</td>
+              <td>
+                   ${carInfo.realQuality}</td>
+              <td>
+                  前悬后悬：</td>
+              <td>
+                 ${carInfo.swing}</td>
+          </tr>
+          <tr align="left" bgcolor="#ffffff" height="20" valign="center">
+              <td>
+                  整备质量：</td>
+              <td>
+                  ${carInfo.equipQuality}</td>
+              <td>
+                  最高车速：</td>
+              <td>
+                  ${carInfo.maxSheep}</td>
+          </tr>
+
+          <tr align="left" bgcolor="#F7FAFE" height="20" valign="center">
+              <td>
+                  轴数：</td>
+              <td>
+                   ${carInfo.axes}</td>
+              <td>
+                  前轮距：</td>
+              <td>
+                ${carInfo.beforeWheelbase}</td>
+          </tr>
+          <tr align="left" bgcolor="#ffffff" height="20" valign="center">
+              <td>
+                  轴距：</td>
+              <td>
+                  ${carInfo.wheelbase}</td>
+              <td>
+                  后轮距：</td>
+              <td>
+                   ${carInfo.afterWheelbase}</td>
+          </tr>
+          <tr align="left" bgcolor="#F7FAFE" height="20" valign="center">
+              <td>
+                  轮胎数：</td>
+              <td>
+                 ${carInfo.tireNumbers}</td>
+              <td>
+                  轮胎规格：</td>
+              <td>
+                 ${carInfo.tireStyle}</td>
+          </tr>
+          <tr align="left" bgcolor="#ffffff" height="20" valign="center">
+              <td>
+                  燃料种类：</td>
+              <td>
+                 ${carInfo.fuelStyle}</td>
+              <td>
+                  弹簧片数：</td>
+              <td>
+                 ${carInfo.springs}</td>
+          </tr>
+          <tr align="left" bgcolor="#F7FAFE" height="20" valign="center">
+              <td>
+                  轴荷：</td>
+              <td>
+                  ${carInfo.axleLoad}</td>
+              <td>
+                  前排乘客：</td>
+              <td>
+                 ${carInfo.passenger}</td>
+          </tr>
+          
+          <tr align="left" bgcolor="#FFFFFF" height="20" valign="center">
+              <td>
+                  外型尺寸：</td>
+              <td colspan="3">
+                 ${carInfo.dimensions}</td>
+          </tr>
+          
+          <tr align="left" bgcolor="#F7FAFE" height="20" valign="center">
+              <td>
+                  货厢尺寸：</td>
+              <td colspan="3">
+                  ${carInfo.compartmentSize}</td>
+          </tr>
+          
+          <tr>
+          <td colspan="4" style="background:#FFFFFF;">
+                <table cellspacing="1" cellpadding="3" width="100%" style=" text-align:left;background:#b8c2c8;">
+                <tbody><tr style="background:#F7FAFE;">
+                    <td>发动机型号</td>
+                    <td>发动机排量(ML)</td>
+                    <td>发动机功率(KW)</td> 
+                </tr><tr>
+                    <td style="background:#FFFFFF;">${carInfo.engineStyle_richTextContent}</td>
+                    <td style="background:#FFFFFF;">${carInfo.engineDisplacement_richTextContent}</td>
+                    <td style="background:#FFFFFF;">${carInfo.enginePower_richTextContent}</td> 
+                </tr>
+                </tbody></table>
+ 
+          </td>
+          
+          </tr>
+          
+          
+          <tr bgcolor="#F7FAFE">
+              <td align="left" valign="center">
+                  整车备注：</td>
+              <td align="left" colspan="3" valign="center">
+                   ${carInfo.vehicleNotes}
+			  </td>
+          </tr>
+          <tr bgcolor="#FFFFFF">
+              <td align="left" valign="center">
+                  专用性能：</td>
+              <td align="left" colspan="3" valign="center">
+                  ${carInfo.specialPerformance}  
+			  </td>
+          </tr>
+          
+          <tr>
+              <td align="left" bgcolor="#f1f5fe" colspan="4" height="20" valign="center">
+                  需要更多资料及产品图片请直接与我公司联系，我们会为您提供最好的服务!</td>
+          </tr>
+          
+      </tbody>
+	  
+	  </table>
+	  <center>
+		 <img src="$imageServer${carInfo.productDetailImage2}" title="后部照片" border="0"><br>
+		<img src="$imageServer${carInfo.productDetailImage3}" title="后部照片" border="0"> <br>
+      </center>
+  
+   
+  
+  
+  
+  
+  </center>
+ 
+ 
+  </div>
+ 
+ <script type="text/javascript">
+	    	//动态改变旧的表格样式
+	    	var rawhtml=document.getElementById("pdetail").innerHTML;
+	    	var reg1=/#eeeeee/g;
+	    	var reg2=/#666666/g;
+	    	rawhtml=rawhtml.replace(reg1,"#ffffff");
+	    	rawhtml=rawhtml.replace(reg2,"#ffffff");
+	    	document.getElementById("pdetail").innerHTML=rawhtml;
+	    	
+	    	function imgfunc(){
+		    	//动态调整图片位置
+		    	var reg3=/<img.+?src=\"(.+?)\".+?>/igm;
+		    	var ph=document.getElementById("pdetail").innerHTML;
+		    	if(reg3.test(ph)){
+		    		document.getElementById("p2").src=RegExp.$1;
+		    	}else{
+		    		return;
+		    	}
+	
+			if(reg3.test(ph)){
+		    		document.getElementById("p3").src=RegExp.$1;
+		    	} 
+	    	}
+	    	imgfunc();
+	    	ApplyByID("imageview", "400px", "300px", "500px", "#FFFFFF", "30px", "Tahome", 35, "<span style='line-height:500px;color:white;'></span>");
+	    </script>
+</div>
+	        </div>
+
+
+
+</div>

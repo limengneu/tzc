@@ -7,6 +7,8 @@
  */
 package com.tzc.teacher.controller;
 
+import java.util.List;
+
 import javax.servlet.http.HttpServletRequest;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -17,6 +19,7 @@ import org.springframework.web.servlet.ModelAndView;
 
 import com.tzc.biz.model.CarInfo;
 import com.tzc.biz.service.CarInfoService;
+import com.tzc.common.crawler.parser.PageParserService;
 import com.tzc.teacher.utils.UrlPatternConsts;
 
 /**
@@ -29,7 +32,8 @@ public class AdminController {
 	@Autowired
 	private CarInfoService carInfoService;
 	
-	
+	@Autowired
+	private PageParserService pagePasrserService;
 	/**
 	 * 
 	 * @方法功能说明：
@@ -59,5 +63,19 @@ public class AdminController {
         carInfoService.saveCarInfo(carInfo);
 		
 		mav.addObject("carInfo", carInfo);
+	}
+	
+
+	
+	
+	@RequestMapping(value = UrlPatternConsts.INIT_CARINFO, method = RequestMethod.GET)
+	public ModelAndView init(HttpServletRequest request, ModelAndView mav,Integer carInfo) {
+		mav.setViewName("admin/init");
+
+
+	     int count=	pagePasrserService.saveProductInfo();
+		 mav.addObject("carCount", count);
+		
+		return mav;
 	}
 }

@@ -22,6 +22,10 @@
 		</constructor-arg>
 	</bean>
 
+    <bean id="networkGrabService" class="com.tzc.biz.common.service.NetworkGrabService">
+        <property name="httpClient" ref="httpClient" />
+	</bean>
+
 	<bean id="thridVedioService" class="com.tzc.biz.thrid.impl.ThridVedioServiceImpl">
 		<property name="appkey" value="3000000224" />
 		<property name="secret" value="b885ea102ec7547a" />

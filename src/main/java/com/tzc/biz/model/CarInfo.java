@@ -17,9 +17,22 @@ import javax.persistence.Entity;
  */
 @Entity
 public class CarInfo extends BaseModel{
-	
 	@Column
-	private String productCategory;//产品名称
+	private String productCategory;//产品类目
+	@Column
+	private String productCategoryName;//产品类目名称
+	@Column
+	private String productOldId;//产品ID
+	@Column
+	private String productListImage;//list页面图片
+	@Column
+	private String productDetailImage1;//detail页面图片1
+	@Column
+	private String productDetailImage2;//detail页面图片2
+	@Column
+	private String productDetailImage3;//detail页面图片3
+	@Column
+	private String productListName;//list页面产品名称
 	@Column
 	private String productName;//产品名称
 	@Column
@@ -70,7 +83,7 @@ public class CarInfo extends BaseModel{
 	private String engineDisplacement;//发动机排量(ML)
 	@Column
 	private String enginePower;//发动机功率(KW)
-	@Column
+	@Column(length = 4800)
 	private String vehicleNotes;//整车备注
 	@Column
 	private String specialPerformance;//专用性能
@@ -344,6 +357,10 @@ public class CarInfo extends BaseModel{
 	public String getEngineStyle() {
 		return engineStyle;
 	}
+	
+	public String getEngineStyle_richTextContent() {
+		return engineStyle;
+	}
 	/**
 	 * @param engineStyle the engineStyle to set
 	 */
@@ -356,6 +373,11 @@ public class CarInfo extends BaseModel{
 	public String getEngineDisplacement() {
 		return engineDisplacement;
 	}
+	
+	
+	public String getEngineDisplacement_richTextContent() {
+		return engineDisplacement;
+	}
 	/**
 	 * @param engineDisplacement the engineDisplacement to set
 	 */
@@ -366,6 +388,10 @@ public class CarInfo extends BaseModel{
 	 * @return the enginePower
 	 */
 	public String getEnginePower() {
+		return enginePower;
+	}
+	
+	public String getEnginePower_richTextContent() {
 		return enginePower;
 	}
 	/**
@@ -410,7 +436,89 @@ public class CarInfo extends BaseModel{
 	public void setProductCategory(String productCategory) {
 		this.productCategory = productCategory;
 	}
-	
-	
+	/**
+	 * @return the productListImage
+	 */
+	public String getProductListImage() {
+		return productListImage;
+	}
+	/**
+	 * @param productListImage the productListImage to set
+	 */
+	public void setProductListImage(String productListImage) {
+		this.productListImage = productListImage;
+	}
+	/**
+	 * @return the productDetailImage1
+	 */
+	public String getProductDetailImage1() {
+		return productDetailImage1;
+	}
+	/**
+	 * @param productDetailImage1 the productDetailImage1 to set
+	 */
+	public void setProductDetailImage1(String productDetailImage1) {
+		this.productDetailImage1 = productDetailImage1;
+	}
+	/**
+	 * @return the productDetailImage2
+	 */
+	public String getProductDetailImage2() {
+		return productDetailImage2;
+	}
+	/**
+	 * @param productDetailImage2 the productDetailImage2 to set
+	 */
+	public void setProductDetailImage2(String productDetailImage2) {
+		this.productDetailImage2 = productDetailImage2;
+	}
+	/**
+	 * @return the productDetailImage3
+	 */
+	public String getProductDetailImage3() {
+		return productDetailImage3;
+	}
+	/**
+	 * @param productDetailImage3 the productDetailImage3 to set
+	 */
+	public void setProductDetailImage3(String productDetailImage3) {
+		this.productDetailImage3 = productDetailImage3;
+	}
+	/**
+	 * @return the productListName
+	 */
+	public String getProductListName() {
+		return productListName;
+	}
+	/**
+	 * @param productListName the productListName to set
+	 */
+	public void setProductListName(String productListName) {
+		this.productListName = productListName;
+	}
+	/**
+	 * @return the productOldId
+	 */
+	public String getProductOldId() {
+		return productOldId;
+	}
+	/**
+	 * @param productOldId the productOldId to set
+	 */
+	public void setProductOldId(String productOldId) {
+		this.productOldId = productOldId;
+	}
+	/**
+	 * @return the productCategoryName
+	 */
+	public String getProductCategoryName() {
+		return productCategoryName;
+	}
+	/**
+	 * @param productCategoryName the productCategoryName to set
+	 */
+	public void setProductCategoryName(String productCategoryName) {
+		this.productCategoryName = productCategoryName;
+	}
 	
 }

@@ -13,11 +13,12 @@
 			<property name="tools">
 				<map>
 					<entry key="vedioServer" value="http://player.56.com/3000000224/"/>
+					<entry key="imageServer" value="http://127.0.0.1:8080/image"/>
+					<entry key="staticServer" value="http://127.0.0.1:8080"/>
+					<entry key="hostServer" value="http://127.0.0.1:8080"/>
 				</map>
 			</property>
 		</bean>
-
-		
 	</mvc:interceptors>
 	
 </beans>

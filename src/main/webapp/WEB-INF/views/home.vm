@@ -10,7 +10,7 @@
 
 <!--中-->
 
-#parse("control/centerpart.vm")
+#parse("control/middlepart.vm")
 
 </div>
 

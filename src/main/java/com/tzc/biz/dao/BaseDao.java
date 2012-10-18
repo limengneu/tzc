@@ -78,6 +78,13 @@ public abstract class BaseDao<T extends BaseModel> {
 	}
 	
 	@SuppressWarnings("unchecked")
+	public List<T> findAllByValue() {
+		Query query = em.createQuery("SELECT o FROM "
+				+ entityClass.getSimpleName()+" o ");
+		return query.getResultList();
+	}
+	
+	@SuppressWarnings("unchecked")
 	public List<T> findListByPage(String column,  String value,Integer page,Integer pageSize) {
 		
 		Query query = em.createQuery("SELECT o FROM "

@@ -1,35 +1,27 @@
-<IMG src="img/home_menu.png">
+<img src="$staticServer/img/home_menu.png">
 
-<DIV id="leftmenu">
-<LI class="b"><A>全部产品</A></LI>
-<LI class="s"><A href="http://www.clwtq.com/asp/product.asp?id=1">油罐车系列</A></LI>
-<LI class="s"><A href="http://www.clwtq.com/asp/product.asp?id=2">洒水车系列</A></LI>
-<LI class="s"><A 
-href="http://www.clwtq.com/asp/product.asp?id=3">化工液罐车系列</A></LI>
-<LI class="s"><A 
-href="http://www.clwtq.com/asp/product.asp?id=4">散装水泥车系列</A></LI>
-<LI class="s"><A 
-href="http://www.clwtq.com/asp/product.asp?id=6">吸粪吸污车系列</A></LI>
-<LI class="s"><A href="http://www.clwtq.com/asp/product.asp?id=8">垃圾车系列</A></LI>
-<LI class="s"><A 
-href="http://www.clwtq.com/asp/product.asp?id=9">混凝土搅拌车系列</A></LI>
-<LI class="s"><A 
-href="http://www.clwtq.com/asp/product.asp?id=10">随车起重运输车系列</A></LI>
-<LI class="s"><A 
-href="http://www.clwtq.com/asp/product.asp?id=11">高压清洗车系列</A></LI>
-<LI class="s"><A 
-href="http://www.clwtq.com/asp/product.asp?id=12">高空作业车系列</A></LI>
-<LI class="s"><A 
-href="http://www.clwtq.com/asp/product.asp?id=13">清障车系列</A></LI>
-<LI class="s"><A 
-href="http://www.clwtq.com/asp/product.asp?id=14">防暴车系列</A></LI>
-<LI class="s"><A 
-href="http://www.clwtq.com/asp/product.asp?id=16">扫路车系列</A></LI>
-<LI class="s"><A 
-href="http://www.clwtq.com/asp/product.asp?id=17">教练车系列</A></LI>
-<LI class="s"><A 
-href="http://www.clwtq.com/asp/product.asp?id=18">消防车系列</A></LI>
-<LI class="s"><A 
-href="http://www.clwtq.com/asp/product.asp?id=21">专用车配件</A></LI>
-<LI class="s"><A 
-href="http://www.clwtq.com/asp/product.asp?id=22">液化气储罐系列</A></LI></DIV>
+<div id="leftmenu">
+<li class="b"><a>全部产品</a></li>
+<li class="s"><a href="$hostServer/category/xfc">消防车系列</a></li>
+<li class="s"><a href="${hostServer}/category/ygc">油罐车系列</a></li>
+<li class="s"><a href="${hostServer}/category/ssc">洒水车系列</a></li>
+<li class="s"><a href="${hostServer}/category/hgytysc">化工液罐车系列</a></li>
+<li class="s"><a href="${hostServer}/category/bgc">半挂车系列</a></li>
+<li class="s"><a href="${hostServer}/category/ljc">垃圾车系列</a></li>
+<li class="s"><a href="${hostServer}/category/jbc">混凝土搅拌车系列</a></li>
+<li class="s"><a href="${hostServer}/category/scqzc">随车起重运输车系列</a></li>
+<li class="s"><a href="${hostServer}/category/gyqxc">高压清洗车系列</a></li>
+<li class="s"><a href="${hostServer}/category/gkzyc">高空作业车系列</a></li>
+<li class="s"><a href="${hostServer}/category/qzc">清障车系列</a></li>
+<li class="s"><a href="${hostServer}/category/fbc">防暴车系列</a></li>
+<li class="s"><a href="${hostServer}/category/slc">扫路车系列</a></li>
+<li class="s"><a href="${hostServer}/category/jlc">教练车系列</a></li>
+<li class="s"><a href="${hostServer}/category/ncc">冷藏车系列</a></li>
+<li class="s"><a href="${hostServer}/category/zxc">自卸车系列</a></li>
+<li class="s"><a href="${hostServer}/category/xwc">吸污车系列</a></li>
+<li class="s"><a href="${hostServer}/category/pbysc">平板运输车系列</a></li>
+<li class="s"><a href="${hostServer}/category/csysc">仓栅式运输车系列</a></li>
+<li class="s"><a href="${hostServer}/category/xsysc">厢式运输车系列</a></li>
+<li class="s"><a href="${hostServer}/category/flwlysc">粉粒物料运输车</a></li>
+<li class="s"><a href="${hostServer}/category/zyc">专用车配件</a></li>
+</div>

@@ -19,6 +19,7 @@
 	<resources mapping="/js/**" location="/statics/js/" />
 	<resources mapping="/img/**" location="/statics/img/" />
 	<resources mapping="/swf/**" location="/statics/swf/" />
+	<resources mapping="/image/**" location="/statics/image/" />
 
 
 
