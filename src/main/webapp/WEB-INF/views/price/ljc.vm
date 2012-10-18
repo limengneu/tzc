@@ -1,0 +1,315 @@
+<div id="main">
+      
+        #parse("control/leftpart.vm")
+        
+        <div id="body">
+            
+     <div id="location"><strong>您的位置：</strong> <a href="/">首页</a> - <a href="/car/price">产品价格</a> -垃圾车价格表(请点击查看)</div>
+      <div style="margin:20px;" id="news">
+        <center>
+          <h2> 垃圾车价格表(请点击查看)</h2>
+        </center>
+        <hr>
+        <div style="font-size:14px;color:#335EA8;line-height:22px; text-indent:0px;"> <p>&nbsp;</p>
+<div align="center">
+<table border="1" cellspacing="0" cellpadding="0" width="567">
+<tbody>
+<tr>
+<td valign="top" width="555" colspan="5"><b>
+<p align="center"><br><br><a class="seo" href="/asp/search.asp?kw=%C0%AC%BB%F8%B3%B5"><strong>垃圾车</strong></a>价格(欧三标准)</p>
+</b><p align="center"><b>另外公司有少量欧二车辆请来电查询</b></p></td></tr>
+<tr>
+<td valign="top" width="25">
+<p align="center">序号</p></td>
+<td valign="top" width="135">
+<p align="center">产品名称</p></td>
+<td valign="top" width="73">
+<p align="center">容积</p></td>
+<td valign="top" width="59">
+<p align="center">价格<br>（万元）</p></td>
+<td valign="top" width="235">
+<p align="center">备&nbsp; 注</p></td></tr>
+<tr>
+<td valign="top" colspan="5">
+<p align="left"><b>一、自卸式、密封自卸式<a class="seo" href="/asp/search.asp?kw=%C0%AC%BB%F8%B3%B5"><strong>垃圾车</strong></a>系列价格</b><b></b></p></td></tr>
+<tr>
+<td valign="top" width="25">
+<p align="center">1</p></td>
+<td valign="top" width="135">
+<p align="left">东风小霸王自卸式<a class="seo" href="/asp/search.asp?kw=%C0%AC%BB%F8%B3%B5"><strong>垃圾车</strong></a></p></td>
+<td valign="top" width="73">
+<p align="center">&nbsp; 4m<sup>3</sup></p></td>
+<td valign="top" width="59">
+<p align="center">9.5</p></td>
+<td valign="top" width="235">
+<p align="left">柴油机、双顶自卸。适用于生活小区</p></td></tr>
+<tr>
+<td valign="top" width="25">
+<p align="center">2</p></td>
+<td valign="top" width="135">
+<p align="left">东风小霸王滑盖密封式<a class="seo" href="/asp/search.asp?kw=%C0%AC%BB%F8%B3%B5"><strong>垃圾车</strong></a></p></td>
+<td valign="top" width="73">
+<p align="center">&nbsp;5m<sup>3</sup></p></td>
+<td valign="top" width="59">
+<p align="center">9.7</p></td>
+<td valign="top" width="235">
+<p align="left">柴油机、双顶自卸。密封滑盖</p></td></tr>
+<tr>
+<td valign="top" width="25">
+<p align="center">7</p></td>
+<td valign="top" width="135">
+<p align="left">东风小霸王密封式自卸<a class="seo" href="/asp/search.asp?kw=%C0%AC%BB%F8%B3%B5"><strong>垃圾车</strong></a></p></td>
+<td valign="top" width="73">
+<p align="center">4m<sup>3</sup></p></td>
+<td valign="top" width="59">
+<p align="center">9.5</p></td>
+<td valign="top" rowspan="4">
+<p align="left">双顶自卸，货厢带自动液压密封盖，控制十分方便。该车是运输建筑垃圾、生活垃圾的理想交通工具，当转运城区、市内垃圾时，密封式的货厢可防止二次污染。</p></td></tr>
+<tr>
+<td valign="top" width="25">
+<p align="center">8</p></td>
+<td valign="top" width="135">
+<p align="left">东风多利卡密封式自卸<a class="seo" href="/asp/search.asp?kw=%C0%AC%BB%F8%B3%B5"><strong>垃圾车</strong></a></p></td>
+<td valign="top" width="73">
+<p align="center">6m<sup>3</sup></p></td>
+<td valign="top" width="59">
+<p align="center">11.7</p></td></tr>
+<tr>
+<td valign="top" width="25">
+<p align="center">9</p></td>
+<td valign="top" width="135">
+<p align="left">EQ140密封式自卸<a class="seo" href="/asp/search.asp?kw=%C0%AC%BB%F8%B3%B5"><strong>垃圾车</strong></a>（汽油）</p></td>
+<td valign="top" width="73">
+<p align="center">10m<sup>3</sup></p></td>
+<td valign="top" width="59">
+<p align="center">11.2</p></td></tr>
+<tr>
+<td valign="top" width="25">
+<p align="center">10</p></td>
+<td valign="top" width="135">
+<p align="left">EQ140密封式自卸<a class="seo" href="/asp/search.asp?kw=%C0%AC%BB%F8%B3%B5"><strong>垃圾车</strong></a>（柴油）</p></td>
+<td valign="top" width="73">
+<p align="center">10m<sup>3</sup></p></td>
+<td valign="top" width="59">
+<p align="center">12.8</p></td></tr>
+<tr>
+<td valign="top" width="25">
+<p align="center">19</p></td>
+<td valign="top" width="135">
+<p align="left">微型密封式<a class="seo" href="/asp/search.asp?kw=%C0%AC%BB%F8%B3%B5"><strong>垃圾车</strong></a></p></td>
+<td valign="top" width="73">
+<p align="center">2m<sup>3</sup></p></td>
+<td valign="top" width="59">
+<p align="center">5.8</p></td>
+<td valign="top" rowspan="2" width="235">
+<p align="left">机动灵活，穿街走巷，是大街小巷收集垃圾的理想交通工具。</p></td></tr>
+<tr>
+<td valign="top" width="25">
+<p align="center">20</p></td>
+<td valign="top" width="135">
+<p align="left">微型翻转式<a class="seo" href="/asp/search.asp?kw=%C0%AC%BB%F8%B3%B5"><strong>垃圾车</strong></a></p></td>
+<td valign="top" width="73">
+<p align="center">2m<sup>3</sup></p></td>
+<td valign="top" width="59">
+<p align="center">5.8</p></td></tr>
+<tr>
+<td valign="top" colspan="5">
+<p align="left"><b>二、摆臂式<a class="seo" href="/asp/search.asp?kw=%C0%AC%BB%F8%B3%B5"><strong>垃圾车</strong></a>系列价格</b><b></b></p></td></tr>
+<tr>
+<td valign="top" width="25">
+<p align="center">3</p></td>
+<td valign="top" width="135">
+<p align="left">东风小霸王摆臂式<a class="seo" href="/asp/search.asp?kw=%C0%AC%BB%F8%B3%B5"><strong>垃圾车</strong></a></p></td>
+<td valign="top" width="73">
+<p align="center">3m<sup>3</sup> </p></td>
+<td valign="top" width="59">
+<p align="center">10.9</p></td>
+<td valign="top" rowspan="4" width="235">
+<p align="left">车厢可卸式<a class="seo" href="/asp/search.asp?kw=%C0%AC%BB%F8%B3%B5"><strong>垃圾车</strong></a>，由专用汽车底盘、货斗、摆臂和液压装置组成。货斗有方形和船形，方形用于地坑式，船形置于地面，适用于公共场所、街道、生活区收集垃圾。 </p></td></tr>
+<tr>
+<td valign="top" width="25">
+<p align="center">4</p></td>
+<td valign="top" width="135">
+<p align="left">EQ140摆臂式<a class="seo" href="/asp/search.asp?kw=%C0%AC%BB%F8%B3%B5"><strong>垃圾车</strong></a>（汽油车）</p></td>
+<td valign="top" width="73">
+<p align="center">&nbsp;8m<sup>3</sup></p></td>
+<td valign="top" width="59">
+<p align="center">14.5</p></td></tr>
+<tr>
+<td valign="top" width="25">
+<p align="center">5</p></td>
+<td valign="top" width="135">
+<p align="left">EQ140摆臂式<a class="seo" href="/asp/search.asp?kw=%C0%AC%BB%F8%B3%B5"><strong>垃圾车</strong></a>（柴油车）</p></td>
+<td valign="top" width="73">
+<p align="center">&nbsp;8m<sup>3</sup></p></td>
+<td valign="top" width="59">
+<p align="center">15.5</p></td></tr>
+<tr>
+<td valign="top" width="25">
+<p align="center">6</p></td>
+<td valign="top" width="135">
+<p align="left">EQ145摆臂式<a class="seo" href="/asp/search.asp?kw=%C0%AC%BB%F8%B3%B5"><strong>垃圾车</strong></a></p></td>
+<td valign="top" width="73">
+<p align="center">7-8m<sup>3</sup> </p></td>
+<td valign="top" width="59">
+<p align="center">19.7</p></td></tr>
+<tr>
+<td valign="top" colspan="5">
+<p align="left"><b>三、挂桶式<a class="seo" href="/asp/search.asp?kw=%C0%AC%BB%F8%B3%B5"><strong>垃圾车</strong></a>系列价格</b><b></b></p></td></tr>
+<tr>
+<td valign="top" width="25">
+<p align="center">12</p></td>
+<td valign="top" width="135">
+<p align="left">东风小霸王挂桶式<a class="seo" href="/asp/search.asp?kw=%C0%AC%BB%F8%B3%B5"><strong>垃圾车</strong></a></p></td>
+<td valign="top" width="73">
+<p align="center">6m<sup>3</sup></p></td>
+<td valign="top" width="59">
+<p align="center">10.5</p></td>
+<td valign="top" rowspan="3" width="235">
+<p align="left">适用于全国通用标准的垃圾桶：铁桶、塑料桶，并大量供应垃圾挂桶。</p></td></tr>
+<tr>
+<td valign="top" width="25">
+<p align="center">13</p></td>
+<td valign="top" width="135">
+<p align="left">EQ140挂桶式<a class="seo" href="/asp/search.asp?kw=%C0%AC%BB%F8%B3%B5"><strong>垃圾车</strong></a>（汽油机）</p></td>
+<td valign="top" width="73">
+<p align="center">10m<sup>3</sup></p></td>
+<td valign="top" width="59">
+<p align="center">11.5</p></td></tr>
+<tr>
+<td valign="top" width="25">
+<p align="center">14</p></td>
+<td valign="top" width="135">
+<p align="left">EQ140挂桶式<a class="seo" href="/asp/search.asp?kw=%C0%AC%BB%F8%B3%B5"><strong>垃圾车</strong></a>（柴油机）</p></td>
+<td valign="top" width="73">
+<p align="center">10m<sup>3</sup></p></td>
+<td valign="top" width="59">
+<p align="center">12.8</p></td></tr>
+<tr>
+<td valign="top" colspan="5">
+<p align="left"><b>四、车厢可卸式<a class="seo" href="/asp/search.asp?kw=%C0%AC%BB%F8%B3%B5"><strong>垃圾车</strong></a>系列价格</b><b></b></p></td></tr>
+<tr>
+<td valign="top" width="25">
+<p align="center">15</p></td>
+<td valign="top" width="135">
+<p align="left">东风小霸王拉臂式垃圾</p></td>
+<td valign="top" width="73">
+<p align="center">&nbsp;3m<sup>3</sup></p></td>
+<td valign="top" width="59">
+<p align="center">8.8</p></td>
+<td valign="top" rowspan="4" width="235">
+<p align="left">也称车厢可卸式<a class="seo" href="/asp/search.asp?kw=%C0%AC%BB%F8%B3%B5"><strong>垃圾车</strong></a>，由专用汽车底盘、货厢、拉臂和液压装置组成。货厢上带盖（倒垃圾时可翻开），适用于生活小区收集垃圾 ，方便宜用，收集容量大，调换货厢快捷方便。</p></td></tr>
+<tr>
+<td valign="top" width="25">
+<p align="center">16</p></td>
+<td valign="top" width="135">
+<p align="left">东风多利卡车厢可卸式垃圾</p></td>
+<td valign="top" width="73">
+<p align="center">6m<sup>3</sup></p></td>
+<td valign="top" width="59">
+<p align="center">15.7</p></td></tr>
+<tr>
+<td valign="top" width="25">
+<p align="center">17</p></td>
+<td valign="top" width="135">
+<p align="left">EQ140拉臂式<a class="seo" href="/asp/search.asp?kw=%C0%AC%BB%F8%B3%B5"><strong>垃圾车</strong></a>（汽油车）</p></td>
+<td valign="top" width="73">
+<p align="center">6-7m<sup>3</sup></p></td>
+<td valign="top" width="59">
+<p align="center">12.7</p></td></tr>
+<tr>
+<td valign="top" width="25">
+<p align="center">18</p></td>
+<td valign="top" width="135">
+<p align="left">东风EQ145拉臂式<a class="seo" href="/asp/search.asp?kw=%C0%AC%BB%F8%B3%B5"><strong>垃圾车</strong></a></p></td>
+<td valign="top" width="73">
+<p align="center">7-8m<sup>3</sup></p></td>
+<td valign="top" width="59">
+<p align="center">19.7</p></td></tr>
+<tr>
+<td valign="top" colspan="5">
+<p align="left"><b>五、压缩式<a class="seo" href="/asp/search.asp?kw=%C0%AC%BB%F8%B3%B5"><strong>垃圾车</strong></a>系列价格</b><b></b></p></td></tr>
+<tr>
+<td valign="top" width="25">
+<p align="center">21</p></td>
+<td valign="top" width="135">
+<p align="left">东风小霸王压缩式<a class="seo" href="/asp/search.asp?kw=%C0%AC%BB%F8%B3%B5"><strong>垃圾车</strong></a></p></td>
+<td valign="top" width="73">
+<p align="center">5m<sup>3</sup></p></td>
+<td valign="top" width="59">
+<p align="center">13.5</p></td>
+<td valign="top" rowspan="7" width="235">
+<p align="left">采用机电液一体化技术，借助机、电、液联合自动控制系统、电脑控制系统及手动操作系统，通过车厢、填装器和推铲等专用装置，实现垃圾倒入、压碎或压扁、强力装填，把垃圾挤入车厢并压实和推卸。其主要特点是垃圾收集方式简便、高效、具有自动反复压缩以及蠕动压缩功能，压缩比高，装载量大，作业自动化，动力性、环保性好，整车利用交率高，并可通用全国垃圾桶。</p></td></tr>
+<tr>
+<td valign="top" width="25">
+<p align="center">22</p></td>
+<td valign="top" width="135">
+<p align="left">东风多利卡压缩式<a class="seo" href="/asp/search.asp?kw=%C0%AC%BB%F8%B3%B5"><strong>垃圾车</strong></a></p></td>
+<td valign="top" width="73">
+<p align="center">&nbsp;6m<sup>3</sup></p></td>
+<td valign="top" width="59">
+<p align="center">15.85</p></td></tr>
+<tr>
+<td valign="top" width="25">
+<p align="center">23</p></td>
+<td valign="top" width="135">
+<p align="left">东风三平柴压缩式<a class="seo" href="/asp/search.asp?kw=%C0%AC%BB%F8%B3%B5"><strong>垃圾车</strong></a></p></td>
+<td valign="top" width="73">
+<p align="center">8m<sup>3</sup></p></td>
+<td valign="top" width="59">
+<p align="center">18.8</p></td></tr>
+<tr>
+<td valign="top" width="25">
+<p align="center">24</p></td>
+<td valign="top" width="135">
+<p align="left">东风EQ140压缩式<a class="seo" href="/asp/search.asp?kw=%C0%AC%BB%F8%B3%B5"><strong>垃圾车</strong></a></p></td>
+<td valign="top" width="73">
+<p align="center">10m<sup>3</sup></p></td>
+<td valign="top" width="59">
+<p align="center">19.8</p></td></tr>
+<tr>
+<td valign="top" width="25">
+<p align="center">25</p></td>
+<td valign="top" width="135">
+<p align="left">东风EQ145压缩式<a class="seo" href="/asp/search.asp?kw=%C0%AC%BB%F8%B3%B5"><strong>垃圾车</strong></a></p></td>
+<td valign="top" width="73">
+<p align="center">12m<sup>3</sup></p></td>
+<td valign="top" width="59">
+<p align="center">26.8</p></td></tr>
+<tr>
+<td valign="top" width="25">
+<p align="center">26</p></td>
+<td valign="top" width="135">
+<p align="left">东风EQ153压缩式<a class="seo" href="/asp/search.asp?kw=%C0%AC%BB%F8%B3%B5"><strong>垃圾车</strong></a></p></td>
+<td valign="top" width="73">
+<p align="center">&nbsp;15m<sup>3</sup></p></td>
+<td valign="top" width="59">
+<p align="center">32.7</p></td></tr>
+<tr>
+<td valign="top" width="25">
+<p align="center">27</p></td>
+<td valign="top" width="135">
+<p align="left">东风EQ1208压缩式<a class="seo" href="/asp/search.asp?kw=%C0%AC%BB%F8%B3%B5"><strong>垃圾车</strong></a></p></td>
+<td valign="top" width="73">
+<p align="center">20m<sup>3</sup></p></td>
+<td valign="top" width="59">
+<p align="center">36.8</p></td></tr>
+<tr>
+<td valign="top" width="535" colspan="5">
+<p align="left"><b>备注：</b></p>
+<p align="left"><b>一、</b>以上<a class="seo" href="/asp/search.asp?kw=%C0%AC%BB%F8%B3%B5"><strong>垃圾车</strong></a>辆可按用户要求进行改装，可自带底盘来我公司加工（由本公司提供改装合格证）另特别推出<a class="seo" href="/asp/search.asp?kw=%C0%AC%BB%F8%B3%B5"><strong>垃圾车</strong></a>带<a class="seo" href="/asp/search.asp?kw=%C8%F7%CB%AE%B3%B5"><strong>洒水车</strong></a>多功能车，是环卫、园林绿化、公路建设维护理想之选。</p>
+<p align="left">二、我公司另售各类<a class="seo" href="/asp/search.asp?kw=%C8%F7%CB%AE%B3%B5"><strong>洒水车</strong></a>泵、油车泵、取力器、快速接关、<a class="seo" href="/asp/search.asp?kw=%C0%AC%BB%F8%B3%B5"><strong>垃圾车</strong></a>挂桶、垃圾斗等配套件。</p>
+<p align="left">三、湖北程力为国内最知名<a class="seo" href="/asp/search.asp?kw=%C0%AC%BB%F8%B3%B5"><strong>垃圾车</strong></a>生产厂，可为用户提供各种类型<a class="seo" href="/asp/search.asp?kw=%C0%AC%BB%F8%B3%B5"><strong>垃圾车</strong></a>，也可为用户设计制作各类<a class="seo" href="/asp/search.asp?kw=%C0%AC%BB%F8%B3%B5"><strong>垃圾车</strong></a>，价格以咨询为准。</p>
+<p align="center">&nbsp;</p>
+<p align="left">★　以上价格仅供参考；时价请咨询程力公司销售代表。</p></td></tr></tbody></table></div> </div>
+      </div>
+
+<center>
+<a href="#top" style="margin:30px;color:red;">回顶端</a>
+<a href="/">回首页</a>
+</center>
+    
+        </div>
+       
+        
+      </div>

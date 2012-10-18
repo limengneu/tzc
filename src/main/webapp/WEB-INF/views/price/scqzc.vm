@@ -1,0 +1,586 @@
+<div id="main">
+      
+         #parse("control/leftpart.vm")
+        
+        <div id="body">
+            
+     <div id="location"><strong>您的位置：</strong> <a href="/">首页</a> - <a href="/car/price">产品价格</a> -随车起重车价格表(请点击查看)</div>
+      <div style="margin:20px;" id="news">
+        <center>
+          <h2> 随车起重车价格表(请点击查看)</h2>
+        </center>
+        <hr>
+        <div style="font-size:14px;color:#335EA8;line-height:22px; text-indent:0px;"> <p>. </p>
+<div align="center">
+<table border="1" cellspacing="0" cellpadding="0" width="80%">
+<tbody>
+<tr>
+<td valign="top">
+<div align="center">
+<table border="0" cellspacing="1" cellpadding="0" width="651">
+<tbody>
+<tr>
+<td width="649" colspan="10">
+<p align="left">&nbsp;&nbsp;&nbsp;</p></td></tr>
+<tr>
+<td width="26">
+<p align="center"><b>序号</b></p></td>
+<td width="106">
+<p align="center"><b>产品名称</b></p></td>
+<td width="58">
+<p align="center"><b>上户</b></p></td>
+<td width="38">
+<p align="center"><b>起吊</b><b><br></b><b>质量</b><b>(T)</b></p></td>
+<td width="42">
+<p align="center"><b>吊臂</b><b><br></b><b>节数</b></p></td>
+<td width="33">
+<p align="center"><b>作业</b><b><br></b><b>半径</b></p></td>
+<td width="42">
+<p align="center"><b>举升</b><b><br></b><b>高度</b><b>(</b><b>米</b><b>)</b></p></td>
+<td width="66">
+<p align="center"><b>货箱</b><b><br></b><b>尺寸</b><b>(</b><b>米</b><b>)</b></p></td>
+<td width="34">
+<p align="center"><b>价格</b></p></td>
+<td width="196">
+<p align="center"><b>备注</b><b> </b></p></td></tr>
+<tr>
+<td width="649" colspan="10">
+<p align="left">&nbsp;<b>随车吊最新价格表</b></p></td></tr>
+<tr>
+<td rowspan="2">
+<p align="center">1</p></td>
+<td rowspan="2">
+<p align="left"><a href="http://www.dfclzyc.com/xhtml/newsfile/2008-09-05/20080905104941.shtml" target="_blank"><font color="#333333">东风金霸随车起重运输车 </font></a></p></td>
+<td rowspan="2">
+<p align="center">2.5</p></td>
+<td rowspan="2">
+<p align="center">2.0</p></td>
+<td>
+<p align="center">2节直臂</p></td>
+<td>
+<p align="center">5.8</p></td>
+<td>
+<p align="center">6.8</p></td>
+<td rowspan="2">
+<p align="center">3.5</p></td>
+<td>
+<p align="left">12.9</p></td>
+<td rowspan="2" width="196">
+<p align="left">玉柴机90马力欧三柴油机</p></td></tr>
+<tr>
+<td>
+<p align="center">2节折臂</p></td>
+<td>
+<p align="center">5.2</p></td>
+<td>
+<p align="center">7.8</p></td>
+<td>
+<p align="left">13.5</p></td></tr>
+<tr>
+<td rowspan="2">
+<p align="center">2</p></td>
+<td rowspan="2">
+<p align="left"><a href="http://www.dfclzyc.com/xhtml/newsfile/2008-09-05/20080905105354.shtml" target="_blank"><font color="#333333">东风多利卡随车起重运输车</font></a></p></td>
+<td rowspan="2">
+<p align="center">2.8</p></td>
+<td rowspan="2">
+<p align="center">3.2</p></td>
+<td>
+<p align="center">2节直臂</p></td>
+<td>
+<p align="center">5.8</p></td>
+<td>
+<p align="center">7.5</p></td>
+<td rowspan="2">
+<p align="center">5.2</p></td>
+<td>
+<p align="left">16.5</p></td>
+<td rowspan="2" width="196">
+<p align="left">朝柴140马力欧三柴油机</p></td></tr>
+<tr>
+<td>
+<p align="center">2节折臂</p></td>
+<td>
+<p align="center">5.1</p></td>
+<td>
+<p align="center">8.2</p></td>
+<td>
+<p align="left">18.3</p></td></tr>
+<tr>
+<td rowspan="2">
+<p align="center">3</p></td>
+<td rowspan="2">
+<p align="left"><a href="http://www.dfclzyc.com/xhtml/newsfile/2008-05-31/20080531091848.shtml" target="_blank"><font color="#333333">东风尖头140随车起重运输车</font></a></p></td>
+<td rowspan="2">
+<p align="center">4.0</p></td>
+<td rowspan="2">
+<p align="center">3.2</p></td>
+<td>
+<p align="center">2节直臂</p></td>
+<td>
+<p align="center">5.8</p></td>
+<td>
+<p align="center">7.5</p></td>
+<td rowspan="2">
+<p align="center">3.2</p></td>
+<td>
+<p align="left">13.9</p></td>
+<td rowspan="2" width="196">
+<p align="left">汽油机 135马力，玉柴143马力加2.5万元</p></td></tr>
+<tr>
+<td>
+<p align="center">2节折臂</p></td>
+<td>
+<p align="center">5.1</p></td>
+<td>
+<p align="center">8.2</p></td>
+<td>
+<p align="left">15.8</p></td></tr>
+<tr>
+<td rowspan="2">
+<p align="center">4</p></td>
+<td rowspan="2">
+<p align="left"><a href="http://www.dfclzyc.com/xhtml/newsfile/2008-09-05/20080905105723.shtml" target="_blank"><font color="#333333">东风尖头140/47随车起重运输车</font></a></p></td>
+<td rowspan="2">
+<p align="center">4.0</p></td>
+<td rowspan="2">
+<p align="center">3.2</p></td>
+<td>
+<p align="center">2节直臂</p></td>
+<td>
+<p align="center">5.8</p></td>
+<td>
+<p align="center">7.5</p></td>
+<td rowspan="2">
+<p align="center">4.3</p></td>
+<td>
+<p align="left">14.5</p></td>
+<td rowspan="2" width="196">
+<p align="left">汽油机135马力 </p></td></tr>
+<tr>
+<td>
+<p align="center">2节折臂</p></td>
+<td>
+<p align="center">5.1</p></td>
+<td>
+<p align="center">8.2</p></td>
+<td>
+<p align="left">16.5</p></td></tr>
+<tr>
+<td rowspan="2">
+<p align="center">5</p></td>
+<td rowspan="2">
+<p align="left"><a href="http://www.dfclzyc.com/xhtml/newsfile/2008-09-05/20080905105723.shtml" target="_blank"><font color="#333333">东风尖头140/47随车起重运输车 </font></a></p></td>
+<td rowspan="2">
+<p align="center">4.0</p></td>
+<td rowspan="2">
+<p align="center">3.2</p></td>
+<td>
+<p align="center">2节直臂</p></td>
+<td>
+<p align="center">5.8</p></td>
+<td>
+<p align="center">7.5</p></td>
+<td rowspan="2">
+<p align="center">4.5</p></td>
+<td>
+<p align="left">15.9</p></td>
+<td rowspan="2" width="196">
+<p align="left">玉柴143马力柴油机 </p></td></tr>
+<tr>
+<td>
+<p align="center">2节折臂</p></td>
+<td>
+<p align="center">5.1</p></td>
+<td>
+<p align="center">8.2</p></td>
+<td>
+<p align="left">17.9</p></td></tr>
+<tr>
+<td rowspan="4">
+<p align="center">6</p></td>
+<td rowspan="4">
+<p align="left"><a href="http://www.dfclzyc.com/xhtml/newsfile/2008-09-05/20080905110409.shtml" target="_blank"><font color="#333333">东风平头145随车起重运输车</font></a></p></td>
+<td rowspan="4">
+<p align="center">4.4</p></td>
+<td rowspan="2">
+<p align="center">3.2</p></td>
+<td>
+<p align="center">2节直臂</p></td>
+<td>
+<p align="center">5.8</p></td>
+<td>
+<p align="center">7.5</p></td>
+<td rowspan="4">
+<p align="center">5.2</p></td>
+<td>
+<p align="left">21.5</p></td>
+<td rowspan="4" width="196">
+<p align="left">玉柴180马力，康明斯160马力加3000元，康明斯180马力加1万元 </p></td></tr>
+<tr>
+<td>
+<p align="center">2节折臂</p></td>
+<td>
+<p align="center">5.1</p></td>
+<td>
+<p align="center">8.2</p></td>
+<td>
+<p align="left">23.2</p></td></tr>
+<tr>
+<td>
+<p align="center">4.0</p></td>
+<td>
+<p align="center">3节直臂</p></td>
+<td>
+<p align="center">7.7</p></td>
+<td>
+<p align="center">8.8</p></td>
+<td>
+<p align="left">24.8</p></td></tr>
+<tr>
+<td>
+<p align="center">5.0</p></td>
+<td>
+<p align="center">3节直臂</p></td>
+<td>
+<p align="center">8.7</p></td>
+<td>
+<p align="center">10.5</p></td>
+<td>
+<p align="left">25.6</p></td></tr>
+<tr>
+<td rowspan="3">
+<p align="center">7</p></td>
+<td rowspan="3">
+<p align="left"><a href="http://www.dfclzyc.com/xhtml/newsfile/2008-05-13/20080513111004.shtml" target="_blank"><font color="#333333">东风平头1120随车起重运输车</font></a></p></td>
+<td rowspan="3">
+<p align="center">4.0/4.7</p></td>
+<td>
+<p align="center">3.2</p></td>
+<td>
+<p align="center">2节直臂</p></td>
+<td>
+<p align="center">5.8</p></td>
+<td>
+<p align="center">7.5</p></td>
+<td rowspan="3">
+<p align="center">5.8</p></td>
+<td>
+<p align="left">22.6</p></td>
+<td rowspan="3" width="196">
+<p align="left">康明斯、玉柴机 180马力柴油机 </p></td></tr>
+<tr>
+<td>
+<p align="center">4.0</p></td>
+<td>
+<p align="center">3节直臂</p></td>
+<td>
+<p align="center">7.7</p></td>
+<td>
+<p align="center">8.8</p></td>
+<td>
+<p align="left">25.3</p></td></tr>
+<tr>
+<td>
+<p align="center">5.0</p></td>
+<td>
+<p align="center">3节直臂</p></td>
+<td>
+<p align="center">8.8</p></td>
+<td>
+<p align="center">10.5</p></td>
+<td>
+<p align="left">25.8</p></td></tr>
+<tr>
+<td rowspan="3">
+<p align="center">8</p></td>
+<td rowspan="3">
+<p align="left"><a href="http://www.dfclzyc.com/xhtml/newsfile/2008-12-16/20081216110944.shtml" target="_blank"><font color="#333333">东风双桥随车起重运输车</font></a></p></td>
+<td rowspan="3">
+<p align="center">8.4/9.4</p></td>
+<td>
+<p align="center">6.3 </p></td>
+<td>
+<p align="center">3节直臂</p></td>
+<td>
+<p align="center">9.0</p></td>
+<td>
+<p align="center">11.0</p></td>
+<td rowspan="3">
+<p align="center">6.2</p></td>
+<td>
+<p align="left">32.9</p></td>
+<td rowspan="3" width="196">
+<p align="left">康明斯210马力柴油机 </p></td></tr>
+<tr>
+<td>
+<p align="center">8.0</p></td>
+<td>
+<p align="center">4节直臂</p></td>
+<td>
+<p align="center">11.5</p></td>
+<td>
+<p align="center">13.5</p></td>
+<td>
+<p align="left">38.3</p></td></tr>
+<tr>
+<td>
+<p align="center">10.0</p></td>
+<td>
+<p align="center">4节直臂</p></td>
+<td>
+<p align="center">12</p></td>
+<td>
+<p align="center">14</p></td>
+<td>
+<p align="left">41.5</p></td></tr>
+<tr>
+<td rowspan="6">
+<p align="center">9</p></td>
+<td rowspan="6">
+<p align="left"><a href="http://www.dfclzyc.com/xhtml/newsfile/2008-06-13/20080613160310.shtml" target="_blank"><font color="#333333">东风天龙后双桥随车起重运输车</font></a></p></td>
+<td rowspan="6">
+<p align="center">9/10</p></td>
+<td>
+<p align="center">5.0</p></td>
+<td>
+<p align="center">3节直臂</p></td>
+<td>
+<p align="center">8.7</p></td>
+<td>
+<p align="center">10.5</p></td>
+<td rowspan="6">
+<p align="center">7.35-8.35</p></td>
+<td>
+<p align="left">36.9</p></td>
+<td rowspan="6" width="196">
+<p align="left">康明斯230马力柴油机，1100钢丝胎，康明斯245马力加3000元 </p></td></tr>
+<tr>
+<td>
+<p align="center">6.3</p></td>
+<td>
+<p align="center">3节直臂</p></td>
+<td>
+<p align="center">9.0</p></td>
+<td>
+<p align="center">11.0</p></td>
+<td>
+<p align="left">37.9</p></td></tr>
+<tr>
+<td>
+<p align="center">6.3</p></td>
+<td>
+<p align="center">4节直臂</p></td>
+<td>
+<p align="center">11.0</p></td>
+<td>
+<p align="center">12.8</p></td>
+<td>
+<p align="left">38.6</p></td></tr>
+<tr>
+<td>
+<p align="center">8.0</p></td>
+<td>
+<p align="center">4节直臂</p></td>
+<td>
+<p align="center">11.5</p></td>
+<td>
+<p align="center">13.5</p></td>
+<td>
+<p align="left">43.5</p></td></tr>
+<tr>
+<td>
+<p align="center">10.0</p></td>
+<td>
+<p align="center">4节直臂</p></td>
+<td>
+<p align="center">12.0</p></td>
+<td>
+<p align="center">14.0</p></td>
+<td>
+<p align="left">46.5</p></td></tr>
+<tr>
+<td>
+<p align="center">12.0</p></td>
+<td>
+<p align="center">4节直臂</p></td>
+<td>
+<p align="center">12.5</p></td>
+<td>
+<p align="center">14.5</p></td>
+<td>
+<p align="left">48.6</p></td></tr>
+<tr>
+<td rowspan="6">
+<p align="center">10</p></td>
+<td rowspan="6">
+<p align="left"><a href="http://www.dfclzyc.com/xhtml/newsfile/2008-06-13/20080613155425.shtml" target="_blank"><font color="#333333">东风天龙前四后八随车起重运输车</font></a></p></td>
+<td rowspan="6">
+<p align="center">12/13.9</p></td>
+<td>
+<p align="center">5.0</p></td>
+<td>
+<p align="center">3节直臂</p></td>
+<td>
+<p align="center">8.7</p></td>
+<td>
+<p align="center">10.5</p></td>
+<td rowspan="6">
+<p align="center">8.3</p></td>
+<td>
+<p align="left">42.9</p></td>
+<td rowspan="6" width="196">
+<p align="left">康明斯290马力柴油机,1100钢丝胎，康明斯315马力加1.5万元 </p></td></tr>
+<tr>
+<td>
+<p align="center">6.3</p></td>
+<td>
+<p align="center">3节直臂</p></td>
+<td>
+<p align="center">9.0</p></td>
+<td>
+<p align="center">11.0</p></td>
+<td>
+<p align="left">44.5</p></td></tr>
+<tr>
+<td>
+<p align="center">6.3</p></td>
+<td>
+<p align="center">4节直臂</p></td>
+<td>
+<p align="center">11.0</p></td>
+<td>
+<p align="center">12.8</p></td>
+<td>
+<p align="left">45.3</p></td></tr>
+<tr>
+<td>
+<p align="center">8.0</p></td>
+<td>
+<p align="center">4节直臂</p></td>
+<td>
+<p align="center">11.5</p></td>
+<td>
+<p align="center">13.5</p></td>
+<td>
+<p align="left">49.5</p></td></tr>
+<tr>
+<td>
+<p align="center">10.0</p></td>
+<td>
+<p align="center">4节直臂</p></td>
+<td>
+<p align="center">12.0</p></td>
+<td>
+<p align="center">14.0</p></td>
+<td>
+<p align="left">52.8</p></td></tr>
+<tr>
+<td>
+<p align="center">12.0</p></td>
+<td>
+<p align="center">4节直臂</p></td>
+<td>
+<p align="center">12.5</p></td>
+<td>
+<p align="center">14.5</p></td>
+<td>
+<p align="left">54.9</p></td></tr>
+<tr>
+<td rowspan="3">
+<p align="center">11</p></td>
+<td rowspan="3">
+<p align="left"><a href="http://www.dfclzyc.com/xhtml/newsfile/2008-06-13/20080613161528.shtml" target="_blank"><font color="#333333">解放单桥随车起重运输车</font></a></p></td>
+<td rowspan="3">
+<p align="center">6.7</p></td>
+<td>
+<p align="center">3.2</p></td>
+<td>
+<p align="center">2节直臂</p></td>
+<td>
+<p align="center">5.5</p></td>
+<td>
+<p align="center">6.8</p></td>
+<td rowspan="3">
+<p align="center">5.5</p></td>
+<td>
+<p align="left">26.6</p></td>
+<td rowspan="3" width="196">
+<p align="left">锡柴180马力柴油机</p></td></tr>
+<tr>
+<td>
+<p align="center">5.0</p></td>
+<td>
+<p align="center">3节直臂</p></td>
+<td>
+<p align="center">8.7</p></td>
+<td>
+<p align="center">10.5</p></td>
+<td>
+<p align="left">29.9</p></td></tr>
+<tr>
+<td>
+<p align="center">6.3</p></td>
+<td>
+<p align="center">3节直臂</p></td>
+<td>
+<p align="center">9.0</p></td>
+<td>
+<p align="center">11.0</p></td>
+<td>
+<p align="left">31.6</p></td></tr>
+<tr>
+<td rowspan="3">
+<p align="center">12</p></td>
+<td rowspan="3">
+<p align="left"><a href="http://www.dfclzyc.com/xhtml/newsfile/2008-06-13/20080613160827.shtml" target="_blank"><font color="#333333">解放小三随车起重运输车</font></a></p></td>
+<td rowspan="3">
+<p align="center">5.75</p></td>
+<td>
+<p align="center">3.2</p></td>
+<td>
+<p align="center">2节直臂</p></td>
+<td>
+<p align="center">5.5</p></td>
+<td>
+<p align="center">6.8</p></td>
+<td rowspan="3">
+<p align="center">7.7-7.9</p></td>
+<td>
+<p align="left">23.5</p></td>
+<td rowspan="3" width="196">
+<p align="left">锡柴180马力柴油机</p></td></tr>
+<tr>
+<td>
+<p align="center">5.0</p></td>
+<td>
+<p align="center">3节直臂</p></td>
+<td>
+<p align="center">8.7</p></td>
+<td>
+<p align="center">10.5</p></td>
+<td>
+<p align="left">26.9</p></td></tr>
+<tr>
+<td>
+<p align="center">6.3</p></td>
+<td>
+<p align="center">3节直臂</p></td>
+<td>
+<p align="center">9.0</p></td>
+<td>
+<p align="center">11.0</p></td>
+<td>
+<p align="left">28.5</p></td></tr></tbody></table></div>
+<p align="left"></p></td></tr></tbody></table></div> </div>
+      </div>
+
+<center>
+<a href="#top" style="margin:30px;color:red;">回顶端</a>
+<a href="/">回首页</a>
+</center>
+    
+        </div>
+       
+        
+      </div>

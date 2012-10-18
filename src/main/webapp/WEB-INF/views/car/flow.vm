@@ -1,0 +1,76 @@
+<div id="main">
+      
+ #parse("control/leftpart.vm")
+        
+        <div id="body">
+            
+      <div id="addr"><b>您的位置：</b><a href="/">首页</a>-公司相关-购车流程</div>
+      <div style="margin:20px;" id="news">
+        <center>
+          <h2> 购车流程</h2>
+        </center>
+        <hr>
+        <div style="font-size:14px;color:#335EA8;line-height:22px; text-indent:0px;"> <table border="0" cellspacing="0" cellpadding="0" width="95%" align="center">
+<tbody>
+<tr>
+<td>
+<p align="center"><img style="WIDTH: 500px; HEIGHT: 34px" src="http://www.clqc8.com/cl/step.gif" width="600" height="41"></p></td></tr>
+<tr>
+<td>&nbsp;</td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0" width="95%" align="center" height="459">
+<tbody>
+<tr>
+<td bgcolor="#f0f0f0" height="30" width="3%">
+<div align="center"><span class="STYLE72">|</span></div></td>
+<td bgcolor="#f0f0f0" height="30" width="97%"><strong>第一步 电话洽谈：通过电话联系或实地考察洽谈车型、产品价格</strong></td></tr>
+<tr>
+<td height="69">&nbsp;</td>
+<td height="69"><span class="STYLE73">公司地址：湖北省随州市南郊平原岗程力汽车工业园<br>邮&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 编：441300</span></td></tr>
+<tr>
+<td height="13">&nbsp;</td>
+<td height="13">&nbsp;</td></tr>
+<tr>
+<td bgcolor="#f0f0f0" height="30">
+<div align="center"><span class="STYLE72">|</span></div></td>
+<td bgcolor="#f0f0f0" height="30"><strong>第二步 签订合同：签订购销合同；预付合同定金</strong></td></tr>
+<tr>
+<td height="43">&nbsp;</td>
+<td height="43"><span class="STYLE73">情况 A：本地签订车辆购销合同，通过银行电汇、现金转帐等方式支付预付款；<br>情况 B：传真签订车辆购销合同，通过银行电汇、现金转帐等方式支付预付款；</span></td></tr>
+<tr>
+<td height="72">&nbsp;&nbsp; </td>
+<td height="72"><span class="STYLE73">单位名称： <a class="seo" href="/asp/search.asp?kw=%BA%FE%B1%B1%B3%CC%C1%A6%D7%A8%D3%C3%C6%FB%B3%B5%D3%D0%CF%DE%B9%AB%CB%BE"><strong>湖北程力专用汽车有限公司</strong></a>　 <br>开 户 行： 随州市建行曾都支行<br>帐　　号： <span style="FONT-FAMILY: ’Times New Roman’; FONT-SIZE: 14pt; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA; mso-fareast-font-family: 宋体" lang="EN-US"><font size="2">4200 1813 6620 5000 3420<br>税　　号：4213 0276 4141 823<br></font></span></span></td></tr>
+<tr>
+<td height="13">&nbsp;</td>
+<td height="13">&nbsp;</td></tr>
+<tr>
+<td bgcolor="#f0f0f0" height="30">
+<div align="center"><span class="STYLE72">|</span></div></td>
+<td bgcolor="#f0f0f0" height="30"><strong>第三步 安排生产：按合同规定车辆型号提取底盘、安排生产</strong></td></tr>
+<tr>
+<td height="13">&nbsp;</td>
+<td height="13">&nbsp;</td></tr>
+<tr>
+<td bgcolor="#f0f0f0" height="30">
+<div align="center"><span class="STYLE72">|</span></div></td>
+<td bgcolor="#f0f0f0" height="30"><strong>第四步 交付验收：车辆交付验收，支付车辆余款</strong></td></tr>
+<tr>
+<td height="60">&nbsp;</td>
+<td height="60"><span class="STYLE73">情况 A：需方按合同预定时间内到供方(厂家)验收车辆,检验合格将余款付清自提车辆,我公司为您代办全套行车手续;<br>情况 B：在预定交车时间内，由供方提供司机，需方支付运费，将车送往需方指定地区对车辆进行验收，检验合格支付车辆余款；</span></td></tr>
+<tr>
+<td height="13">&nbsp;</td>
+<td height="13">&nbsp;</td></tr>
+<tr>
+<td bgcolor="#f0f0f0" height="30">
+<div align="center"><span class="STYLE72">|</span></div></td>
+<td bgcolor="#f0f0f0" height="30"><strong>第五步 签字确认：需方需在送车单上盖章签字，确认收到车辆完好无损、手续齐全（仅限于代送车辆）</strong></td></tr></tbody></table> </div>
+      </div>
+
+<center>
+<a href="#top" style="margin:30px;color:red;">回顶端</a>
+<a href="/">回首页</a>
+</center>
+    
+        </div>
+       
+        
+      </div>

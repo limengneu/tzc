@@ -1,0 +1,255 @@
+<div id="main">
+      
+     #parse("control/leftpart.vm")
+        
+        <div id="body">
+            
+     <div id="location"><strong>您的位置：</strong> <a href="/">首页</a> - <a href="/car/price">产品价格</a> -吸污车价格表(请点击查看)</div>
+      <div style="margin:20px;" id="news">
+        <center>
+          <h2> 吸污车价格表(请点击查看)</h2>
+        </center>
+        <hr>
+        <div style="font-size:14px;color:#335EA8;line-height:22px; text-indent:0px;"> <p>&nbsp;</p>
+<div align="center">
+<table border="1" cellspacing="0" cellpadding="0" width="605">
+<tbody>
+<tr>
+<td valign="top" width="527" colspan="5"></td></tr>
+<tr>
+<td valign="top" width="25">
+<p align="center">1</p></td>
+<td valign="top" width="135">
+<p align="left">东风小霸王吸污车</p></td>
+<td valign="top" width="67">
+<p align="center">&nbsp; 3-4.5T</p></td>
+<td valign="top" width="66">
+<p align="center">12.8</p></td>
+<td valign="top" width="234">
+<p align="left">多功能，平头云内柴油机</p></td></tr>
+<tr>
+<td valign="top" width="25">
+<p align="center">2</p></td>
+<td valign="top" width="135">
+<p align="left">东风小霸王加强型吸污车</p></td>
+<td valign="top" width="67">
+<p align="center">4.5-5T </p></td>
+<td valign="top" width="66">
+<p align="center">13.2</p></td>
+<td valign="top" width="234">
+<p align="left">多功能，平头云内/朝柴柴油机</p></td></tr>
+<tr>
+<td valign="top" width="25">
+<p align="center">3</p></td>
+<td valign="top" width="135">
+<p align="left">东风多利卡吸污车</p></td>
+<td valign="top" width="67">
+<p align="center">&nbsp;&nbsp; 5-6T</p></td>
+<td valign="top" width="66">
+<p align="center">14.6</p></td>
+<td valign="top" width="234">
+<p align="left">多功能，平头朝阳柴油机</p></td></tr>
+<tr>
+<td valign="top" width="25">
+<p align="center">7</p></td>
+<td valign="top" width="135">
+<p align="left">东风EQ140吸污车</p></td>
+<td valign="top" width="67">
+<p align="center">7-8T</p></td>
+<td valign="top" width="66">
+<p align="center">16.5</p></td>
+<td valign="top" width="234">
+<p align="left">长头，汽油机，多功能</p></td></tr>
+<tr>
+<td valign="top" width="25">
+<p align="center">8</p></td>
+<td valign="top" width="135">
+<p align="left">东风EQ140吸污车</p></td>
+<td valign="top" width="67">
+<p align="center">7-8T</p></td>
+<td valign="top" width="66">
+<p align="center">17.9</p></td>
+<td valign="top" width="234">
+<p align="left">长头，玉林柴油机，多功能</p></td></tr>
+<tr>
+<td valign="top" width="25">
+<p align="center">11</p></td>
+<td valign="top" width="135">
+<p align="left">东风EQ145吸污车</p></td>
+<td valign="top" width="67">
+<p align="center">&nbsp;10-12T</p></td>
+<td valign="top" width="66">
+<p align="center">22.5</p></td>
+<td valign="top" width="234">
+<p align="left">多功能，康明斯加强型160PS，平头带卧</p></td></tr>
+<tr>
+<td valign="top" width="25">
+<p align="center">12</p></td>
+<td valign="top" width="135">
+<p align="left">东风EQ153吸污车</p></td>
+<td valign="top" width="67">
+<p align="center">13-15T</p></td>
+<td valign="top" width="66">
+<p align="center">24.8</p></td>
+<td valign="top" width="234">
+<p align="left">多功能，康明斯加强型180PS，平头带卧</p></td></tr>
+<tr>
+<td valign="top" width="535" colspan="5">
+<p align="left">吸污车专用性能：<br>◎　采用国内技术领先的吸污专用泵，吸力大，吸程远，可吸下水道中石子、砖块等较大物体，吸程10米。<br>◎　专用部分：由取力器、传动轴、专用真空吸污泵、高压成型粪罐、管网系统组成，并装有视粪窗和洗手装置。 <br>◎　自吸自排，后盖可打开并自卸罐体中杂质。<br>◎　排放有加压排放和自流排放两种方式。 <br>◎　具有抽吸效率高、自吸、自排及直灌等特点，操作快速、简便。 </p></td></tr>
+<tr>
+<td valign="top">
+<p align="left">&nbsp;</p></td>
+<td valign="top">
+<p align="left">&nbsp;</p></td>
+<td valign="top">
+<p align="left">&nbsp;</p></td>
+<td valign="top">
+<p align="left">&nbsp;</p></td>
+<td valign="top">
+<p align="left">&nbsp;</p></td></tr>
+<tr>
+<td valign="top" width="555" colspan="5">
+<p align="center"><b><a class="seo" href="/asp/search.asp?kw=%CE%FC%B7%E0%B3%B5"><strong>吸粪车</strong></a>价格及产品介绍</b><b><br><br></b><b>（请点击产品察看详细参数）</b><b></b></p></td></tr>
+<tr>
+<td valign="top" width="25">
+<p align="center">序号</p></td>
+<td valign="top" width="135">
+<p align="center">产品名称</p></td>
+<td valign="top" width="67">
+<p align="center">容积</p></td>
+<td valign="top" width="66">
+<p align="center">价格<br>（万元）</p></td>
+<td valign="top" width="234">
+<p align="center">备注</p></td></tr>
+<tr>
+<td valign="top" width="25">
+<p align="center">1</p></td>
+<td valign="top" width="135">
+<p align="left">东风小霸王<a class="seo" href="/asp/search.asp?kw=%CE%FC%B7%E0%B3%B5"><strong>吸粪车</strong></a></p></td>
+<td valign="top" width="67">
+<p align="center">&nbsp; 2-3.5T</p></td>
+<td valign="top" width="66">
+<p align="center">9.6</p></td>
+<td valign="top" width="234">
+<p align="left">多功能，平头云内柴油机</p></td></tr>
+<tr>
+<td valign="top" width="25">
+<p align="center">2</p></td>
+<td valign="top" width="135">
+<p align="left">东风小霸王加强型<a class="seo" href="/asp/search.asp?kw=%CE%FC%B7%E0%B3%B5"><strong>吸粪车</strong></a></p></td>
+<td valign="top" width="67">
+<p align="center">3.5-4T </p></td>
+<td valign="top" width="66">
+<p align="center">9.9</p></td>
+<td valign="top" width="234">
+<p align="left">多功能，平头云内/朝柴柴油机</p></td></tr>
+<tr>
+<td valign="top" width="25">
+<p align="center">3</p></td>
+<td valign="top" width="135">
+<p align="left">东风多利卡<a class="seo" href="/asp/search.asp?kw=%CE%FC%B7%E0%B3%B5"><strong>吸粪车</strong></a></p></td>
+<td valign="top" width="67">
+<p align="center">4-5T</p></td>
+<td valign="top" width="66">
+<p align="center">13.6</p></td>
+<td valign="top" width="234">
+<p align="left">多功能，平头朝阳柴油机</p></td></tr>
+<tr>
+<td valign="top" width="25">
+<p align="center">4</p></td>
+<td valign="top" width="135">
+<p align="left">东风天锦<a class="seo" href="/asp/search.asp?kw=%CE%FC%B7%E0%B3%B5"><strong>吸粪车</strong></a></p></td>
+<td valign="top" width="67">
+<p align="center">5-6T </p></td>
+<td valign="top" width="66">
+<p align="center">17.9</p></td>
+<td valign="top" width="234">
+<p align="left">多功能，加强型，平头朝阳柴油机带卧</p></td></tr>
+<tr>
+<td valign="top" width="25">
+<p align="center">7</p></td>
+<td valign="top" width="135">
+<p align="left">东风EQ140<a class="seo" href="/asp/search.asp?kw=%CE%FC%B7%E0%B3%B5"><strong>吸粪车</strong></a></p></td>
+<td valign="top" width="67">
+<p align="center">6-6.5T</p></td>
+<td valign="top" width="66">
+<p align="center">12.5</p></td>
+<td valign="top" width="234">
+<p align="left">长头，汽油机，多功能</p></td></tr>
+<tr>
+<td valign="top" width="25">
+<p align="center">8</p></td>
+<td valign="top" width="135">
+<p align="left">东风EQ140<a class="seo" href="/asp/search.asp?kw=%CE%FC%B7%E0%B3%B5"><strong>吸粪车</strong></a></p></td>
+<td valign="top" width="67">
+<p align="center">6-6.5T</p></td>
+<td valign="top" width="66">
+<p align="center">13.9</p></td>
+<td valign="top" width="234">
+<p align="left">长头，玉林柴油机，多功能</p></td></tr>
+<tr>
+<td valign="top" width="25">
+<p align="center">11</p></td>
+<td valign="top" width="135">
+<p align="left">东风EQ145<a class="seo" href="/asp/search.asp?kw=%CE%FC%B7%E0%B3%B5"><strong>吸粪车</strong></a></p></td>
+<td valign="top" width="67">
+<p align="center">&nbsp;7-8T</p></td>
+<td valign="top" width="66">
+<p align="center">16.8</p></td>
+<td valign="top" width="234">
+<p align="left">多功能，康明斯加强型160PS，平头带卧</p></td></tr>
+<tr>
+<td valign="top" width="25">
+<p align="center">12</p></td>
+<td valign="top" width="135">
+<p align="left">东风EQ153<a class="seo" href="/asp/search.asp?kw=%CE%FC%B7%E0%B3%B5"><strong>吸粪车</strong></a></p></td>
+<td valign="top" width="67">
+<p align="center">8-9T</p></td>
+<td valign="top" width="66">
+<p align="center">19.8</p></td>
+<td valign="top" width="234">
+<p align="left">多功能，康明斯加强型180PS，平头带卧</p></td></tr>
+<tr>
+<td valign="top" width="25">
+<p align="center">13</p></td>
+<td valign="top" width="135">
+<p align="left">解放141长头<a class="seo" href="/asp/search.asp?kw=%CE%FC%B7%E0%B3%B5"><strong>吸粪车</strong></a></p></td>
+<td valign="top" width="67">
+<p align="center">6-6.5T</p></td>
+<td valign="top" width="66">
+<p align="center">13.9</p></td>
+<td valign="top" width="234">
+<p align="left">长头，大连、无锡机，多功能</p></td></tr>
+<tr>
+<td valign="top" width="25">
+<p align="center">14</p></td>
+<td valign="top" width="135">
+<p align="left">东风小霸王吸粪洒水货运三用车</p></td>
+<td valign="top" width="67">
+<p align="center">3000-4000L</p></td>
+<td valign="top" width="66">
+<p align="center">8.9</p></td>
+<td valign="top" width="234">
+<p align="left">一车三用，同时具有洒水、吸粪、拉货三种功能。</p></td></tr>
+<tr>
+<td valign="top" width="527" colspan="5">
+<p align="left"><a class="seo" href="/asp/search.asp?kw=%CE%FC%B7%E0%B3%B5"><strong>吸粪车</strong></a>专用性能：<br>◎　真空泵，自吸自排，带视粪窗，清洗口，自流阀<br>◎　抽吸粪便，污水、污泥浆和混有较小悬浮杂物的液体，排放有加压排放和自流排放两种方式。<br>◎　具有抽吸效率高、自吸、自排及直灌等特点，操作快速、简便。<br>◎　重直吸程可达7米以上。</p></td></tr>
+<tr>
+<td valign="top" width="535" colspan="5">
+<p align="left"><b>备注：</b></p>
+<p align="left">一、以上价格均做参考，不同配置价格不同，请电话咨询程力公司销售代表</p>
+<p align="left">二、程力公司为国内知名环卫车生产商，可为用户提供根据用户要求改装的</p>
+<p align="left">车型。</p>
+<p align="left">&nbsp;</p>
+<p align="left">★　以上价格仅供参考；时价请咨询程力公司销售代表。<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p></td></tr></tbody></table></div> </div>
+      </div>
+
+<center>
+<a href="#top" style="margin:30px;color:red;">回顶端</a>
+<a href="/">回首页</a>
+</center>
+    
+        </div>
+       
+        
+      </div>

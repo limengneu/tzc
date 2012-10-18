@@ -1,0 +1,424 @@
+<div id="main">
+      
+    #parse("control/leftpart.vm")
+        
+        <div id="body">
+            
+     <div id="location"><strong>您的位置：</strong> <a href="/">首页</a> - <a href="/car/price">产品价格</a> -消防车价格表(请点击查看)</div>
+      <div style="margin:20px;" id="news">
+        <center>
+          <h2> 消防车价格表(请点击查看)</h2>
+        </center>
+        <hr>
+        <div style="font-size:14px;color:#335EA8;line-height:22px; text-indent:0px;"> <p>
+</p><table border="1" cellspacing="0" cellpadding="0" width="605">
+<tbody>
+<tr>
+<td valign="top" colspan="5">
+<p align="center"><b>消防车价格及产品介绍</b><b><br><br></b><b>（请点击产品察看详细参数）</b><b></b></p></td></tr>
+<tr>
+<td valign="top" width="37">
+<p align="center">序号</p></td>
+<td valign="top" width="190">
+<p align="center">产品名称</p></td>
+<td valign="top" width="65">
+<p align="center">容积</p></td>
+<td valign="top" width="51">
+<p align="center">价格<br>（万元）</p></td>
+<td valign="top" width="261">
+<p align="center">备注</p></td></tr>
+<tr>
+<td valign="top" width="37">
+<p align="center">1</p></td>
+<td valign="top" width="190">
+<p align="left">东风小霸王消防车</p></td>
+<td valign="top" width="65">
+<p align="center">2T</p></td>
+<td valign="top" width="51">
+<p align="center">13.8</p></td>
+<td valign="top" width="261">
+<p align="left">多功能，平头云内柴油机</p></td></tr>
+<tr>
+<td valign="top" width="37">
+<p align="center">2</p></td>
+<td valign="top" width="190">
+<p align="left">东风小霸王加强型消防车</p></td>
+<td valign="top" width="65">
+<p align="center">2.5T </p></td>
+<td valign="top" width="51">
+<p align="center">14.8</p></td>
+<td valign="top" width="261">
+<p align="left">多功能，平头云内/朝柴柴油机</p></td></tr>
+<tr>
+<td valign="top" width="37">
+<p align="center">3</p></td>
+<td valign="top" width="190">
+<p align="left">东风EQ140消防车</p></td>
+<td valign="top" width="65">
+<p align="center">3T</p></td>
+<td valign="top" width="51">
+<p align="center">17.8</p></td>
+<td valign="top" width="261">
+<p align="left">长头，汽油机，多功能</p></td></tr>
+<tr>
+<td valign="top" width="37">
+<p align="center">4</p></td>
+<td valign="top" width="190">
+<p align="left">东风EQ140消防车</p></td>
+<td valign="top" width="65">
+<p align="center">3T</p></td>
+<td valign="top" width="51">
+<p align="center">18.6</p></td>
+<td valign="top" width="261">
+<p align="left">长头，玉林柴油机，多功能</p></td></tr>
+<tr>
+<td valign="top" width="37">
+<p align="center">5</p></td>
+<td valign="top" width="190">
+<p align="left">东风EQ140/47消防车</p></td>
+<td valign="top" width="65">
+<p align="center">3.5T</p></td>
+<td valign="top" width="51">
+<p align="center">18.8</p></td>
+<td valign="top" width="261">
+<p align="left">长头，汽油机，多功能，加长型</p></td></tr>
+<tr>
+<td valign="top" width="37">
+<p align="center">6</p></td>
+<td valign="top" width="190">
+<p align="left">东风EQ140/47消防车</p></td>
+<td valign="top" width="65">
+<p align="center">3.5T</p></td>
+<td valign="top" width="51">
+<p align="center">19.6</p></td>
+<td valign="top" width="261">
+<p align="left">长头，玉林柴油机，多功能，加长型</p></td></tr>
+<tr>
+<td valign="top" width="37">
+<p align="center">7</p></td>
+<td valign="top" width="190">
+<p align="left">东风EQ145消防车</p></td>
+<td valign="top" width="65">
+<p align="center">&nbsp;4T</p></td>
+<td valign="top" width="51">
+<p align="center">29.8</p></td>
+<td valign="top" width="261">
+<p align="left">多功能，康明斯加强型160PS，平头带卧</p></td></tr>
+<tr>
+<td valign="top" width="37">
+<p align="center">8</p></td>
+<td valign="top" width="190">
+<p align="left">东风EQ153消防车</p></td>
+<td valign="top" width="65">
+<p align="center">5T</p></td>
+<td valign="top" width="51">
+<p align="center">39.8</p></td>
+<td valign="top" width="261">
+<p align="left">多功能，康明斯加强型180PS，平头带卧</p></td></tr>
+<tr>
+<td valign="top" width="37">
+<p align="center">9</p></td>
+<td valign="top" width="190">
+<p align="left">东风1208双桥消防车</p></td>
+<td valign="top" width="65">
+<p align="center">8T</p></td>
+<td valign="top" width="51">
+<p align="center">48.6</p></td>
+<td valign="top" width="261">
+<p align="left">多功能，平头带卧，康明斯加强型210PS，双桥</p></td></tr>
+<tr>
+<td valign="top" width="37">
+<p align="center">10</p></td>
+<td valign="top" width="190">
+<p align="left">东风145消防<a class="seo" href="/asp/search.asp?kw=%C8%F7%CB%AE%B3%B5"><strong>洒水车</strong></a></p></td>
+<td valign="top" width="65">
+<p align="center">&nbsp;8-10T</p></td>
+<td valign="top" width="51">
+<p align="center">21.8</p></td>
+<td valign="top" rowspan="3" width="261">
+<p align="left">采用消防车的消防取力器，消防泵，兼具洒水和消防车功能，消防射程可达50米</p></td></tr>
+<tr>
+<td valign="top" width="37">
+<p align="center">11</p></td>
+<td valign="top" width="190">
+<p align="left">东风153消防<a class="seo" href="/asp/search.asp?kw=%C8%F7%CB%AE%B3%B5"><strong>洒水车</strong></a></p></td>
+<td valign="top" width="65">
+<p align="center">10-12T</p></td>
+<td valign="top" width="51">
+<p align="center">24.8</p></td></tr>
+<tr>
+<td valign="top" width="37">
+<p align="center">12</p></td>
+<td valign="top" width="190">
+<p align="left">东风1208消防<a class="seo" href="/asp/search.asp?kw=%C8%F7%CB%AE%B3%B5"><strong>洒水车</strong></a></p></td>
+<td valign="top" width="65">
+<p align="center">12-16T</p></td>
+<td valign="top" width="51">
+<p align="center">30.8</p></td></tr>
+<tr>
+<td valign="top" colspan="5">
+<p align="left"><strong>消防车专用配置.</strong> 
+</p><table border="1" cellspacing="0" cellpadding="0" width="605">
+<tbody>
+<tr>
+<td valign="top" width="54">
+<p align="center">类别</p></td>
+<td valign="top" width="60">
+<p align="center">序号</p></td>
+<td valign="top" width="164">
+<p align="center">名称</p></td>
+<td valign="top" width="63">
+<p align="center">单位</p></td>
+<td valign="top" width="59">
+<p align="center">数量</p></td>
+<td valign="top" width="161">
+<p align="center">备注</p></td></tr>
+<tr>
+<td valign="top" rowspan="16" width="54">
+<p align="center">灭</p>
+<p align="center">火</p>
+<p align="center">装</p>
+<p align="center">备</p></td>
+<td valign="top" width="60">
+<p align="center">1</p></td>
+<td valign="top" width="164">
+<p align="center">消防吸水管</p></td>
+<td valign="top" width="63">
+<p align="center">m</p></td>
+<td valign="top" width="59">
+<p align="center">8</p></td>
+<td valign="top" width="161">
+<p align="center">φ100（2m）</p></td></tr>
+<tr>
+<td valign="top" width="60">
+<p align="center">2</p></td>
+<td valign="top" width="164">
+<p align="center">滤水器</p></td>
+<td valign="top" width="63">
+<p align="center">件</p></td>
+<td valign="top" width="59">
+<p align="center">1</p></td>
+<td valign="top" width="161">
+<p align="center">φ100</p></td></tr>
+<tr>
+<td valign="top" width="60">
+<p align="center">3</p></td>
+<td valign="top" width="164">
+<p align="center">消防水带（25型）</p></td>
+<td valign="top" width="63">
+<p align="center">m</p></td>
+<td valign="top" width="59">
+<p align="center">240</p></td>
+<td valign="top" width="161">
+<p align="center">φ65，80各（120m）</p></td></tr>
+<tr>
+<td valign="top" width="60">
+<p align="center">4</p></td>
+<td valign="top" width="164">
+<p align="center">分水器</p></td>
+<td valign="top" width="63">
+<p align="center">件</p></td>
+<td valign="top" width="59">
+<p align="center">1</p></td>
+<td valign="top" width="161">
+<p align="left">&nbsp; </p></td></tr>
+<tr>
+<td valign="top" width="60">
+<p align="center">5</p></td>
+<td valign="top" width="164">
+<p align="center">集水器</p></td>
+<td valign="top" width="63">
+<p align="center">件</p></td>
+<td valign="top" width="59">
+<p align="center">1</p></td>
+<td valign="top" width="161">
+<p align="left">&nbsp; </p></td></tr>
+<tr>
+<td valign="top" width="60">
+<p align="center">6</p></td>
+<td valign="top" width="164">
+<p align="center">异径接扣</p></td>
+<td valign="top" width="63">
+<p align="center">件</p></td>
+<td valign="top" width="59">
+<p align="center">2</p></td>
+<td valign="top" width="161">
+<p align="center">KJ65/80</p></td></tr>
+<tr>
+<td valign="top" width="60">
+<p align="center">7</p></td>
+<td valign="top" width="164">
+<p align="center">水带包布</p></td>
+<td valign="top" width="63">
+<p align="center">件</p></td>
+<td valign="top" width="59">
+<p align="center">4</p></td>
+<td valign="top" width="161">
+<p align="left">&nbsp; </p></td></tr>
+<tr>
+<td valign="top" width="60">
+<p align="center">8</p></td>
+<td valign="top" width="164">
+<p align="center">护带桥</p></td>
+<td valign="top" width="63">
+<p align="center">副</p></td>
+<td valign="top" width="59">
+<p align="center">1</p></td>
+<td valign="top" width="161">
+<p align="left">&nbsp; </p></td></tr>
+<tr>
+<td valign="top" width="60">
+<p align="center">9</p></td>
+<td valign="top" width="164">
+<p align="center">水带挂钩</p></td>
+<td valign="top" width="63">
+<p align="center">件</p></td>
+<td valign="top" width="59">
+<p align="center">2</p></td>
+<td valign="top" width="161">
+<p align="center">FG600</p></td></tr>
+<tr>
+<td valign="top" width="60">
+<p align="center">10</p></td>
+<td valign="top" width="164">
+<p align="center">地上消防栓扳手</p></td>
+<td valign="top" width="63">
+<p align="center">件</p></td>
+<td valign="top" width="59">
+<p align="center">1</p></td>
+<td valign="top" width="161">
+<p align="center">FB450</p></td></tr>
+<tr>
+<td valign="top" width="60">
+<p align="center">11</p></td>
+<td valign="top" width="164">
+<p align="center">地下消防栓扳手</p></td>
+<td valign="top" width="63">
+<p align="center">件</p></td>
+<td valign="top" width="59">
+<p align="center">1</p></td>
+<td valign="top" width="161">
+<p align="center">FBX800</p></td></tr>
+<tr>
+<td valign="top" width="60">
+<p align="center">12</p></td>
+<td valign="top" width="164">
+<p align="center">消防吸水管扳手</p></td>
+<td valign="top" width="63">
+<p align="center">件</p></td>
+<td valign="top" width="59">
+<p align="center">2</p></td>
+<td valign="top" width="161">
+<p align="center">TS400</p></td></tr>
+<tr>
+<td valign="top" width="60">
+<p align="center">13</p></td>
+<td valign="top" width="164">
+<p align="center">直流水枪</p></td>
+<td valign="top" width="63">
+<p align="center">支</p></td>
+<td valign="top" width="59">
+<p align="center">1</p></td>
+<td valign="top" width="161">
+<p align="center">QZ16卡式</p></td></tr>
+<tr>
+<td valign="top" width="60">
+<p align="center">14</p></td>
+<td valign="top" width="164">
+<p align="center">开关水枪</p></td>
+<td valign="top" width="63">
+<p align="center">支</p></td>
+<td valign="top" width="59">
+<p align="center">1</p></td>
+<td valign="top" width="161">
+<p align="center">QZG19卡式</p></td></tr>
+<tr>
+<td valign="top" width="60">
+<p align="center">15</p></td>
+<td valign="top" width="164">
+<p align="center">开花直流水枪</p></td>
+<td valign="top" width="63">
+<p align="center">支</p></td>
+<td valign="top" width="59">
+<p align="center">1</p></td>
+<td valign="top" width="161">
+<p align="center">QZH16卡式</p></td></tr>
+<tr>
+<td valign="top" width="60">
+<p align="center">16</p></td>
+<td valign="top" width="164">
+<p align="center">中压盘管</p></td>
+<td valign="top" width="63">
+<p align="center">m</p></td>
+<td valign="top" width="59">
+<p align="center">50</p></td>
+<td valign="top" width="161">
+<p align="center">φ32</p></td></tr>
+<tr>
+<td valign="top" rowspan="5" width="54">
+<p align="center">破拆救生工具</p></td>
+<td valign="top" width="60">
+<p align="center">17</p></td>
+<td valign="top" width="164">
+<p align="center">铁锹</p></td>
+<td valign="top" width="63">
+<p align="center">件</p></td>
+<td valign="top" width="59">
+<p align="center">1</p></td>
+<td valign="top" width="161">
+<p align="left">&nbsp; </p></td></tr>
+<tr>
+<td valign="top" width="60">
+<p align="center">18</p></td>
+<td valign="top" width="164">
+<p align="center">消防腰斧</p></td>
+<td valign="top" width="63">
+<p align="center">件</p></td>
+<td valign="top" width="59">
+<p align="center">1</p></td>
+<td valign="top" width="161">
+<p align="left">&nbsp; </p></td></tr>
+<tr>
+<td valign="top" width="60">
+<p align="center">19</p></td>
+<td valign="top" width="164">
+<p align="center">丁字镐</p></td>
+<td valign="top" width="63">
+<p align="center">件</p></td>
+<td valign="top" width="59">
+<p align="center">1</p></td>
+<td valign="top" width="161">
+<p align="left">&nbsp; </p></td></tr>
+<tr>
+<td valign="top" width="60">
+<p align="center">20</p></td>
+<td valign="top" width="164">
+<p align="center">铁铤</p></td>
+<td valign="top" width="63">
+<p align="center">件</p></td>
+<td valign="top" width="59">
+<p align="center">1</p></td>
+<td valign="top" width="161">
+<p align="left">&nbsp; </p></td></tr>
+<tr>
+<td valign="top" width="60">
+<p align="center">21</p></td>
+<td valign="top" width="164">
+<p align="center">太平斧</p></td>
+<td valign="top" width="63">
+<p align="center">件</p></td>
+<td valign="top" width="59">
+<p align="center">1</p></td>
+<td valign="top" width="161">
+<p align="left">&nbsp; </p></td></tr></tbody></table><p></p></td></tr></tbody></table><p></p> </div>
+      </div>
+
+<center>
+<a href="#top" style="margin:30px;color:red;">回顶端</a>
+<a href="/">回首页</a>
+</center>
+    
+        </div>
+       
+        
+      </div>

@@ -60,6 +60,43 @@ public class CarController {
 		return mav;
 	}
 
+	
+	@RequestMapping(value = UrlPatternConsts.CARINFO_FLOW, method = RequestMethod.GET)
+	public ModelAndView flow(HttpServletRequest request, ModelAndView mav) {
+		mav.setViewName("car/flow");
+		
+		return mav;
+	}
+	@RequestMapping(value = UrlPatternConsts.CARINFO_CONTACT, method = RequestMethod.GET)
+	public ModelAndView contact(HttpServletRequest request, ModelAndView mav) {
+		mav.setViewName("car/contact");
+		
+		return mav;
+	}
+	
+	@RequestMapping(value = UrlPatternConsts.CARINFO_PRICE, method = RequestMethod.GET)
+	public ModelAndView price(HttpServletRequest request, ModelAndView mav) {
+		mav.setViewName("car/price");
+		
+		return mav;
+	}
+	
+	
+	@RequestMapping(value = UrlPatternConsts.CARINFO_SERVICE, method = RequestMethod.GET)
+	public ModelAndView service(HttpServletRequest request, ModelAndView mav) {
+		mav.setViewName("car/service");
+		
+		return mav;
+	}
+	
+	
+	
+	@RequestMapping(value = UrlPatternConsts.CARINFO_INTRODUCE, method = RequestMethod.GET)
+	public ModelAndView introduce(HttpServletRequest request, ModelAndView mav) {
+		mav.setViewName("car/introduce");
+		
+		return mav;
+	}
 	/**
 	 * 
 	 * @方法功能说明：
@@ -81,6 +118,12 @@ public class CarController {
 	public ModelAndView list(HttpServletRequest request, ModelAndView mav,
 			@PathVariable String cateid, @PathVariable Integer page) {
 		listinner(mav, cateid, page);
+		return mav;
+	}
+	
+	@RequestMapping(value = UrlPatternConsts.CARINFO_CATEGORY, method = RequestMethod.GET)
+	public ModelAndView categorylist(HttpServletRequest request, ModelAndView mav) {
+		listinner(mav, "xfc", 1);
 		return mav;
 	}
 

@@ -18,7 +18,18 @@ public class UrlPatternConsts {
 	
 	public static final String CARINFO_DETAIL = "/car/{carid}";
 	
+	public static final String CARINFO_FLOW = "/car/flow"; 
+	
+	public static final String CARINFO_CONTACT = "/car/contact"; 
+	
+	public static final String CARINFO_PRICE = "/car/price"; 
+	
+	public static final String CARINFO_INTRODUCE = "/car/introduce";
+	
+	public static final String CARINFO_SERVICE = "/car/service";
+	
 	public static final String CARINFO_LIST = "/category/{cateid}/{page}";
+	public static final String CARINFO_CATEGORY = "/category";
 	
 	public static final String CARINFO_LIST_NOPAGE = "/category/{cateid}";
 	

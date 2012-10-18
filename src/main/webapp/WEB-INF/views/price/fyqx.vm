@@ -1,0 +1,138 @@
+ <div id="mf">
+
+<div id="main">
+      
+         #parse("control/leftpart.vm")
+        
+        <div id="body">
+            
+     <div id="location"><strong>您的位置：</strong> <a href="/">首页</a> - <a href="/car/price">产品价格</a> -高压清洗车价格表</div>
+      <div style="margin:20px;" id="news">
+        <center>
+          <h2> 高压清洗车价格表</h2>
+        </center>
+        <hr>
+        <div style="font-size:14px;color:#335EA8;line-height:22px; text-indent:0px;"> <p>
+</p><table style="WIDTH: 682px; HEIGHT: 478px" class="jj"  border="0" cellspacing="1" cellpadding="0"  bgcolor="#d5d5d5">
+<tbody>
+<tr bgcolor="#eaeaea">
+<td class="jj" height="45" width="33"><strong>&nbsp;序号</strong></td>
+<td height="45" width="171">
+<p>&nbsp;<strong>产品名称</strong></p></td>
+<td height="45" width="70">
+<div align="center"><strong>上户<br>吨位(T)</strong></div></td>
+<td height="45" width="69">&nbsp;<strong>容积(m3)</strong></td>
+<td height="45" width="84"><strong>价格(万元)</strong></td>
+<td height="45" width="306">
+<div align="center"><strong>备 注 </strong><strong></strong></div></td></tr>
+<tr bgcolor="#ffffff">
+<td height="35" colspan="6">&nbsp;<strong><font color="#ff0000">一、多功能高压清洗车价格（欧三）</font></strong></td></tr>
+<tr bgcolor="#f2f2f2">
+<td height="25" align="middle">1</td>
+<td height="25">
+<p><a href="http://www.dfclzyc.com/xhtml/newsfile/2008-12-11/20081211155553.shtml"><font color="#333333">东风小金霸高压清洗车</font></a></p></td>
+<td height="25" align="middle">2.5</td>
+<td height="25" align="middle">3</td>
+<td height="25" align="middle">19.8</td>
+<td height="25">玉柴机90马力柴油机，进口高压泵</td></tr>
+<tr bgcolor="#ffffff">
+<td bgcolor="#ffffff" height="25" align="middle">2</td>
+<td height="25">
+<p>东风多利卡高压清洗车</p></td>
+<td height="25" align="middle">3.0</td>
+<td height="25" align="middle">5</td>
+<td height="25" align="middle">22.8</td>
+<td height="25">朝柴120马力柴油机，康机140马力柴油机加2.5万元,进口高压泵</td></tr>
+<tr bgcolor="#f2f2f2">
+<td height="25" align="middle">3</td>
+<td height="25">
+<p><a href="http://www.dfclzyc.com/xhtml/newsfile/2008-05-29/20080529164807.shtml" target="_blank"><font color="#333333">东风尖头</font></a><a href="http://www.dfclzyc.com/xhtml/newsfile/2008-05-29/20080529164807.shtml" target="_blank"><font color="#333333">140高压清洗车</font></a></p></td>
+<td height="25" align="middle">4.2</td>
+<td height="25" align="middle">6</td>
+<td height="25" align="middle">19.9</td>
+<td height="25">汽油机135马力，进口高压泵加2.5万元</td></tr>
+<tr bgcolor="#ffffff">
+<td bgcolor="#ffffff" height="25" align="middle">4</td>
+<td height="25">
+<p><a href="http://www.dfclzyc.com/xhtml/newsfile/2008-12-11/20081211164052.shtml" target="_blank"><font color="#333333">东风尖头</font></a><a href="http://www.dfclzyc.com/xhtml/newsfile/2008-12-11/20081211164052.shtml" target="_blank"><font color="#333333">140高压清洗车</font></a></p></td>
+<td height="25" align="middle">4.3</td>
+<td height="25" align="middle">6</td>
+<td height="25" align="middle">22.3</td>
+<td height="25">玉柴140马力柴油机，进口高压泵加2.5万元</td></tr>
+<tr bgcolor="#f2f2f2">
+<td height="25" align="middle">5</td>
+<td height="25">
+<p><a href="http://www.dfclzyc.com/xhtml/newsfile/2008-05-30/20080530093916.shtml" target="_blank"><font color="#333333">东风平头</font></a><a href="http://www.dfclzyc.com/xhtml/newsfile/2008-05-30/20080530093916.shtml" target="_blank"><font color="#333333">145高压清洗车 </font></a></p></td>
+<td height="25" align="middle">4.5</td>
+<td height="25" align="middle">8</td>
+<td height="25" align="middle">30.6</td>
+<td height="25">玉柴机160马力柴油机，康明期160马力加0.8万元，康明机180马力加1.5万元，进口高压泵加2.5万元</td></tr>
+<tr bgcolor="#ffffff">
+<td bgcolor="#ffffff" height="25" align="middle">6</td>
+<td height="25">
+<p><a href="http://www.dfclzyc.com/xhtml/newsfile/2008-06-03/20080603164035.shtml" target="_blank"><font color="#333333">东风平头</font></a><a href="http://www.dfclzyc.com/xhtml/newsfile/2008-06-03/20080603164035.shtml" target="_blank"><font color="#333333">153高压清洗车</font></a></p></td>
+<td height="25" align="middle">7.5</td>
+<td height="25" align="middle">12</td>
+<td height="25" align="middle">32.8</td>
+<td height="25">玉柴180马力,康明斯180马力加1万元，进口高压泵加2.5万元</td></tr>
+<tr bgcolor="#f2f2f2">
+<td height="35" colspan="6"><strong>&nbsp;<font color="#ff0000">二、多功能高压清洗车价格（欧二）</font></strong></td></tr>
+<tr bgcolor="#ffffff">
+<td bgcolor="#ffffff" height="25" align="middle">8</td>
+<td height="25">
+<p><a href="http://www.dfclzyc.com/xhtml/newsfile/2007-8-21/2007821142258.shtml" target="_blank"><font color="#333333">东风小霸王高压清洗车</font></a></p></td>
+<td height="25" align="middle">1.5</td>
+<td height="25" align="middle">3</td>
+<td height="25" align="middle">16.8</td>
+<td height="25">云内95马力柴油机，进口高压泵</td></tr>
+<tr bgcolor="#f2f2f2">
+<td height="25" align="middle">9</td>
+<td height="25">
+<p>东风多利卡高压清洗车</p></td>
+<td height="25" align="middle">2.5</td>
+<td height="25" align="middle">5</td>
+<td height="25" align="middle">20.2</td>
+<td height="25">朝柴120马力柴油机，进口高压泵</td></tr>
+<tr bgcolor="#ffffff">
+<td bgcolor="#ffffff" height="25" align="middle">10</td>
+<td height="25">
+<p><a href="http://www.dfclzyc.com/xhtml/newsfile/2007-8-21/2007821142307.shtml" target="_blank"><font color="#333333">东风尖头</font></a><a href="http://www.dfclzyc.com/xhtml/newsfile/2007-8-21/2007821142309.shtml" target="_blank"><font color="#333333">140高压清洗车</font></a></p></td>
+<td height="25" align="middle">4.5</td>
+<td height="25" align="middle">6</td>
+<td height="25" align="middle">19.3</td>
+<td height="25">汽油机135马力，进口高压泵加2.5万元</td></tr>
+<tr bgcolor="#f2f2f2">
+<td height="25" align="middle">11</td>
+<td height="25">
+<p><a href="http://www.dfclzyc.com/xhtml/newsfile/2007-8-21/2007821142309.shtml"><font color="#333333">东风尖头140高压清洗车</font></a></p></td>
+<td height="25" align="middle">4.5</td>
+<td height="25" align="middle">6</td>
+<td height="25" align="middle">19.9</td>
+<td height="25">玉柴机143马力柴油机，进口高压泵加2．5万元</td></tr>
+<tr bgcolor="#ffffff">
+<td bgcolor="#ffffff" height="25" align="middle">12</td>
+<td height="25">
+<p><a href="http://www.dfclzyc.com/xhtml/newsfile/2007-8-21/2007821142311.shtml" target="_blank"><font color="#333333">东风平头</font></a><a href="http://www.dfclzyc.com/xhtml/newsfile/2007-8-21/2007821142311.shtml" target="_blank"><font color="#333333">145高压清洗车</font></a></p></td>
+<td height="25" align="middle">5.0</td>
+<td height="25" align="middle">8</td>
+<td height="25" align="middle">25.6</td>
+<td height="25">康明斯160马力柴油机，进口高压泵加2．5万元</td></tr>
+<tr bgcolor="#f2f2f2">
+<td height="25" align="middle">13</td>
+<td height="25">
+<p><a href="http://www.dfclzyc.com/xhtml/newsfile/2007-8-21/2007821142314.shtml" target="_blank"><font color="#333333">东风平头</font></a><a href="http://www.dfclzyc.com/xhtml/newsfile/2007-8-21/2007821142314.shtml" target="_blank"><font color="#333333">153高压清洗车</font></a></p></td>
+<td height="25" align="middle">7.5</td>
+<td height="25" align="middle">10</td>
+<td height="25" align="middle">28.3</td>
+<td height="25">康明斯180马力柴油机，进口高压泵加2．5万元</td></tr></tbody></table><p></p> </div>
+      </div>
+
+<center>
+<a href="#top" style="margin:30px;color:red;">回顶端</a>
+<a href="/">回首页</a>
+</center>
+    
+        </div>
+       
+       </div>  
+      </div>

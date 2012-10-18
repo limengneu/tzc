@@ -1,0 +1,32 @@
+<div id="main">
+      
+     #parse("control/leftpart.vm")
+        
+        <div id="body">
+            
+      <div id="addr"><b>您的位置：</b><a href="/">首页</a>-公司相关-联系我们</div>
+      <div style="margin:20px;" id="news">
+        <center>
+          <h2> 联系我们</h2>
+        </center>
+        <hr>
+        <div style="font-size:14px;color:#335EA8;line-height:22px; text-indent:0px;"> <div style="WIDTH: 100%; BACKGROUND: url(/img/20090819173722.PNG); HEIGHT: 500px">
+<div style="BORDER-BOTTOM: 1px; BORDER-LEFT: 1px; MARGIN: 30px; BORDER-TOP: 1px; BORDER-RIGHT: 1px">
+<p><font face="宋体"></font>&nbsp;</p><font face="宋体">
+<p><font face="宋体">公司地址：湖北省·随州市·南郊平原岗·程力汽车工业园 </font></p>
+<p><font face="宋体">销售经理：李经理</font></p>
+<p><font face="宋体">联系电话：186 0722 6629&nbsp;&nbsp; 0722-4792229 </font></p>
+<p><font face="宋体">传真号码：0722-4792229 </font></p>
+<p><font face="宋体">电子信箱：2384958066@qq.com </font></p>
+<p><font face="宋体"></font>&nbsp;</p></font></div></div> </div>
+      </div>
+
+<center>
+<a href="#top" style="margin:30px;color:red;">回顶端</a>
+<a href="/">回首页</a>
+</center>
+    
+        </div>
+       
+        
+      </div>

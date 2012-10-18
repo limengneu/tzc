@@ -1,0 +1,62 @@
+<div id="main">
+      
+        #parse("control/leftpart.vm")
+        
+        <div id="body">
+            
+      <div id="addr"><b>您的位置：</b><a href="/">首页</a>-公司相关-售后服务</div>
+      <div style="margin:20px;" id="news">
+        <center>
+          <h2> 售后服务</h2>
+        </center>
+        <hr>
+        <div style="font-size:14px;color:#335EA8;line-height:22px; text-indent:0px;"> <div style="FONT-SIZE: 14px; COLOR: #335ea8; TEXT-INDENT: 24px; LINE-HEIGHT: 22px">
+<table cellspacing="0" cellpadding="0" width="100%" border="0">
+<tbody>
+<tr>
+<td valign="top" colspan="3" height="50">
+<div align="center"><font color="#ff0000"><b><font size="5">售后服务品质保证<br></font></b></font><br></div></td></tr>
+<tr>
+<td width="11%">
+<p><b><strong></strong></b></p></td>
+<td width="39%"><strong><a href="http://www.hbclqg.com/contact.asp" target="_blank"><font color="#000000">提供24小时客服中心热线电话服务</font></a></strong></td>
+<td width="50%"><b><a href="mailto:hbclqg@163.com"><font color="#000000">提供24小时客服中心电子邮件服务</font></a></b></td></tr></tbody></table>
+<p class="MsoNormal" style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; LAYOUT-GRID-MODE: char; TEXT-INDENT: 23.8pt; LINE-HEIGHT: 25px" align="left"><font color="#6f7d91">　</font></p>
+<table cellspacing="0" cellpadding="5" width="100%" border="0">
+<tbody>
+<tr>
+<td>
+<p><span style="FONT-SIZE: 10pt; COLOR: #993300; FONT-FAMILY: 宋体"><b>尊敬的客户：<br>　　 感谢您使用我东风汽车集团程力公司的产品。<br>　　 我们遵循的质量方针是："产品领先是我们永恒的目标，用户满意是我们不懈的追求，优质服务是我们最好的承诺。"<br>　　 为此，我们做出如下承诺：</b></span></p></td></tr>
+<tr>
+<td bgcolor="#f1f1f1"><span style="FONT-SIZE: 10pt"><font color="#800000">☆质量方针</font></span></td></tr>
+<tr>
+<td><span style="FONT-SIZE: 10pt">　　创优秀服务企业；造用户满意产品；树国内知名品牌。<br></span></td></tr>
+<tr>
+<td bgcolor="#f1f1f1"><span style="FONT-SIZE: 10pt"><font color="#800000">☆质量目标</font></span></td></tr>
+<tr>
+<td><span style="FONT-SIZE: 10pt">　　贯彻GB/T9001-2000标准，建立保持并持续改进质量管理体系；<br>　　 整车一次交检合格率≥92%，三年内每年递增1%以上；<br>　　 整车出厂合格率100%；<br>　　 顾客满意度≥90%，三年内每年递增1%以上。<br></span></td></tr>
+<tr>
+<td bgcolor="#f1f1f1"><font color="#800000"><span style="FONT-SIZE: 10pt"><font color="#800000">☆质量承诺</font></span></font></td></tr>
+<tr>
+<td>
+<p style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; LINE-HEIGHT: 132%"><span style="FONT-SIZE: 10pt">　　公司对产品100%负责；服务让顾客100%满意。<br></span></p></td></tr>
+<tr>
+<td bgcolor="#f1f1f1"><span style="FONT-SIZE: 10pt"><font color="#800000">☆质保范围</font></span></td></tr>
+<tr>
+<td>
+<p style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; LINE-HEIGHT: 132%"><span style="FONT-SIZE: 10pt">　　<b>一、培训人员：</b><br>　　 1、由我厂安排高级工程师组织集体培训，学习理论及进行实际操作；<br>　　 2、通过理论学习和实际操作后达到厂方技术要求；<br>　　 第一、掌握专用车的基本理论.性能以及功能；<br>　　 第二、按程序能熟练的操作；<br>　　 第三、能排除一般技术故障。<br><br>　　 <b>二、维修分支机构．地点．技术力量．联系方式：</b><br>　　 1、分支机构：“东风二汽技术服务站”；<br>　　 2、地点：所在省．地．市．县均有；<br>　　 3、技术力量：按二汽统一要求达到“工程师”等级的。<br><br>　　 <b>三、免费维修方案以及期限</b><br>　　 1、跟踪服务时间：终身；<br>　　 2、在交客户使用之日起，在正常使用范围内，行驶10000公里内或一年内免费修理(不包括易损件和电器部分)，</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体">超过一年，只收取零件费</span><span style="FONT-SIZE: 10pt">；<br>　　 3、</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体">服务到达时间：省内，二十四小时内到达；其它地区，二十四小时内派出人员</span><span style="FONT-SIZE: 10pt">；<br>　　 4、每年防汛期间按排工程技术人员定期或不定期走访做到有故障及时排除，无故障积极预防。<br><br>　　 <b>四、免费期后配件供应价格方式</b><br>　　 1、方式：在所在地二汽东风技术服务站统一供货,根据用户要求由厂方直接发货；<br>　　 2、配件只收工本费,不加其他费用。<br><br></span></p>
+<p style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; LINE-HEIGHT: 132%"><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体">　　<b>五、产品底盘故障，请按底盘厂家在就近服务站维修。</b></span></p></td></tr></tbody></table>
+<p></p>
+<div>湖北程力专用汽车一直致力于开拓国内、国际市场，其产品在中国国内东北三省、华北及长江南北等广大地区都倍受欢迎，享有很高声誉，在国内环卫绿化专用车市场占有率第一，而且远销泰国、刚果、印度、马来西亚等周边多个亚太国家及地区。 </div>
+<p class="unnamed1" align="center"><embed style="WIDTH: 550px; HEIGHT: 330px" src="/img/map.swf" type="application/x-shockwave-flash"> </p></div> </div>
+      </div>
+
+<center>
+<a href="#top" style="margin:30px;color:red;">回顶端</a>
+<a href="/">回首页</a>
+</center>
+    
+        </div>
+       
+        
+      </div>

@@ -4,7 +4,7 @@
 #parse("control/leftpart.vm")
 <!--右边大块-->
 <div id="body"> 
-	<div id="location"><strong>您的位置：</strong> <a href="/">首页</a> - 产品展示 - $!{category.productCategoryName}车</div>
+	<div id="location"><strong>您的位置：</strong> <a href="/">首页</a> - <a href="/category">产品展示</a> - $!{category.productCategoryName}车</div>
     <div id="info"> $!{category.productDescription}<br>
 			 <font color="#000000"><strong><font color="#ff0000" size="4">更多详细车型与价格请致电:18607226629 0722-4792229</font></strong></font><p></p>
    </div>

@@ -1,0 +1,600 @@
+<div id="main">
+      
+    #parse("control/leftpart.vm")
+        
+        <div id="body">
+            
+     <div id="location"><strong>您的位置：</strong> <a href="/">首页</a> - <a href="/car/price">产品价格</a> -搅拌车(点击查看价格表)</div>
+      <div style="margin:20px;" id="news">
+        <center>
+          <h2> 搅拌车(点击查看价格表)</h2>
+        </center>
+        <hr>
+        <div style="font-size:14px;color:#335EA8;line-height:22px; text-indent:0px;"> <div align="center">
+<table border="1" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td valign="top" width="643" colspan="8">
+<p align="center"><font size="3">搅拌车价格表(欧三标准)</font></p></td></tr>
+<tr>
+<td valign="top" width="643" colspan="8">
+<p align="center"><font size="3" face="Times New Roman">&nbsp;</font></p><font size="3" face="Times New Roman">
+<p><u>我厂生产的搅拌车系列产品<font face="Times New Roman">,</font>适用工况<font face="Times New Roman">:</font>主要适用于市政、港口、水利等建筑工地运输。常用载重<font face="Times New Roman">8-9</font>立方，优势特点：动力充足、油耗低、维修方便、油品适应性好。底盘坚固，传动效率高油耗低，通用性更好.以下车辆是国内热销车型,以品质成熟,经久耐用著称,深得全国用户的认可和信赖.</u></p>
+<p><u><font color="#000000">基本配置：对于油泵、马达、减速器和冷却器的选用，均采用了国内外著名品牌，确保整车的性能稳定。减速机：意大利邦飞利。液压泵、液压马达：美国伊顿。散热器：凯通。</font></u></p>
+<p><u>我厂全面通过<font face="Times New Roman">ISO9001-2000</font>国际质量体系认证，产品全面通过<font face="Times New Roman">3C</font>认证，国内信得过产品，湖北省著名品牌。</u></p></font></td></tr>
+<tr>
+<td valign="top" width="49">
+<p align="center"><font size="3">序号</font></p></td>
+<td valign="top" width="122">
+<p align="center"><font size="3">产品型号</font></p></td>
+<td valign="top" width="95">
+<p align="center"><font size="3">轴距</font></p></td>
+<td valign="top" width="95">
+<p align="center"><font size="3">发动机</font></p></td>
+<td valign="top" width="54">
+<p align="center"><font size="3">马力</font></p></td>
+<td valign="top" width="54">
+<p align="center"><font size="3">容积</font></p></td>
+<td valign="top" width="68">
+<p align="center"><font size="3">价格（万）</font></p></td>
+<td valign="top" width="105">
+<p align="center"><font size="3">备注</font></p></td></tr>
+<tr>
+<td valign="top" width="643" colspan="8">
+<p align="center"><font color="#880000" size="3">东风系列</font></p></td></tr>
+<tr>
+<td valign="top" width="49">
+<p align="center"><font size="3" face="Times New Roman">1</font></p></td>
+<td valign="top" width="122">
+<p align="center"><font size="3" face="Times New Roman">DFL5251GJBA-T26A-000-010</font></p></td>
+<td valign="top" width="95">
+<p align="center"><font size="3" face="Times New Roman">3800+1350</font></p></td>
+<td valign="top" width="95">
+<p align="center"><font size="3"><font face="Times New Roman">Dci340-30</font>雷诺</font></p></td>
+<td valign="top" width="54">
+<p align="center"><font size="3" face="Times New Roman">340</font></p></td>
+<td valign="top" width="54">
+<p align="center"><font size="3" face="Times New Roman">9</font></p></td>
+<td valign="top" width="68">
+<p align="center"><font size="3" face="Times New Roman">388000</font></p></td>
+<td valign="top" width="105">
+<p align="center"><font size="3">车型驱动形式6×4</font></p></td></tr>
+<tr>
+<td valign="top" width="49">
+<p align="center"><font size="3" face="Times New Roman">2</font></p></td>
+<td valign="top" width="122">
+<p align="center"><font size="3" face="Times New Roman">DFL5251GJBA-T26A-000-010</font></p></td>
+<td valign="top" width="95">
+<p align="center"><font size="3" face="Times New Roman">4000+1350</font></p></td>
+<td valign="top" width="95">
+<p align="center"><font size="3"><font face="Times New Roman">Dci340-30</font>雷诺</font></p></td>
+<td valign="top" width="54">
+<p align="center"><font size="3" face="Times New Roman">340</font></p></td>
+<td valign="top" width="54">
+<p align="center"><font size="3" face="Times New Roman">9</font></p></td>
+<td valign="top" width="68">
+<p align="center"><font size="3" face="Times New Roman"></font>390000&nbsp;</p></td>
+<td valign="top" width="105">
+<p align="center"><font size="3" face="Times New Roman">驱动&nbsp;6×4</font></p></td></tr>
+<tr>
+<td valign="top" width="49">
+<p align="center"><font size="3" face="Times New Roman">3</font></p></td>
+<td valign="top" width="122">
+<p align="center"><font size="3" face="Times New Roman">DFL5251GJBA-T26A-000-010</font></p></td>
+<td valign="top" width="95">
+<p align="center"><font size="3" face="Times New Roman">4000+1350</font></p></td>
+<td valign="top" width="95">
+<p align="center"><font size="3"><font face="Times New Roman">Dci340-30</font>雷诺</font></p></td>
+<td valign="top" width="54">
+<p align="center"><font size="3" face="Times New Roman">375</font></p></td>
+<td valign="top" width="54">
+<p align="center"><font size="3" face="Times New Roman">9</font></p></td>
+<td valign="top" width="68">
+<p align="center">392000&nbsp;</p></td>
+<td valign="top" width="105">
+<p align="center"><font size="3" face="Times New Roman">6×4&nbsp;</font></p></td></tr>
+<tr>
+<td valign="top" width="49">
+<p align="center"><font size="3" face="Times New Roman">4</font></p></td>
+<td valign="top" width="122">
+<p align="center"><font size="3" face="Times New Roman">DFL5250GJBA-K47-000-010</font></p></td>
+<td valign="top" width="95">
+<p align="center"><font size="3" face="Times New Roman">3650+1350</font></p></td>
+<td valign="top" width="95">
+<p align="center"><font size="3"><font face="Times New Roman">ISLe340-30</font>康机</font></p></td>
+<td valign="top" width="54">
+<p align="center"><font size="3" face="Times New Roman">340</font></p></td>
+<td valign="top" width="54">
+<p align="center"><font size="3" face="Times New Roman">9</font></p></td>
+<td valign="top" width="68">
+<p align="center">385000&nbsp;</p></td>
+<td valign="top" width="105">
+<p align="center"><font size="3" face="Times New Roman">&nbsp;6×4</font></p></td></tr>
+<tr>
+<td valign="top" width="49">
+<p align="center"><font size="3" face="Times New Roman">5</font></p></td>
+<td valign="top" width="122">
+<p align="center"><font size="3" face="Times New Roman">DFL1310A-K80-000-010J</font></p></td>
+<td valign="top" width="95">
+<p align="center"><font size="3" face="Times New Roman">1850+3400+1350</font></p></td>
+<td valign="top" width="95">
+<p align="center"><font size="3"><font face="Times New Roman">dci340-30</font>雷诺</font></p></td>
+<td valign="top" width="54">
+<p align="center"><font size="3" face="Times New Roman">340</font></p></td>
+<td valign="top" width="54">
+<p align="center"><font size="3" face="Times New Roman">12</font></p></td>
+<td valign="top" width="68">
+<p align="center"><font size="3" face="Times New Roman"></font>450000&nbsp;</p></td>
+<td valign="top" width="105">
+<p align="center"><font size="3" face="Times New Roman">&nbsp;</font></p></td></tr>
+<tr>
+<td valign="top" width="49">
+<p align="center"><font size="3" face="Times New Roman">6</font></p></td>
+<td valign="top" width="122">
+<p align="center"><font size="3">东风日产柴油机</font></p></td>
+<td valign="top" width="95">
+<p align="center"><font size="3" face="Times New Roman">&nbsp;</font></p></td>
+<td valign="top" width="95">
+<p align="center"><font size="3" face="Times New Roman">&nbsp;</font></p></td>
+<td valign="top" width="54">
+<p align="center"><font size="3" face="Times New Roman">320</font></p></td>
+<td valign="top" width="54">
+<p align="center"><font size="3" face="Times New Roman">9</font></p></td>
+<td valign="top" width="68">
+<p align="center">560000&nbsp;</p></td>
+<td valign="top" width="105">
+<p align="center"><font size="3" face="Times New Roman">6×4&nbsp;</font></p></td></tr>
+<tr>
+<td valign="top" width="49">
+<p align="center"><font size="3" face="Times New Roman">7</font></p></td>
+<td valign="top" width="122">
+<p align="center"><font size="3">东风日产柴油机</font></p></td>
+<td valign="top" width="95">
+<p align="center"><font size="3" face="Times New Roman">&nbsp;</font></p></td>
+<td valign="top" width="95">
+<p align="center"><font size="3" face="Times New Roman">&nbsp;</font></p></td>
+<td valign="top" width="54">
+<p align="center"><font size="3" face="Times New Roman">340</font></p></td>
+<td valign="top" width="54">
+<p align="center"><font size="3" face="Times New Roman">9</font></p></td>
+<td valign="top" width="68">
+<p align="center">620000&nbsp;</p></td>
+<td valign="top" width="105">
+<p align="center"><font size="3" face="Times New Roman">&nbsp;6×4</font></p></td></tr>
+<tr>
+<td valign="top" width="643" colspan="8">
+<p align="center"><font color="#880000" size="3">解放系列</font></p></td></tr>
+<tr>
+<td valign="top" width="49">
+<p align="center"><font size="3" face="Times New Roman">1</font></p></td>
+<td valign="top" width="122">
+<p align="center"><font size="3" face="Times New Roman">CA3312P2K2T4E</font></p></td>
+<td valign="top" width="95">
+<p align="center"><font size="3" face="Times New Roman">2000+3100+1350</font></p></td>
+<td valign="top" width="95">
+<p align="center"><font size="3" face="Times New Roman">CA6DL1-32E3CDEN</font></p></td>
+<td valign="top" width="54">
+<p align="center"><font size="3" face="Times New Roman">320PS</font></p></td>
+<td valign="top" width="54">
+<p align="center"><font size="3" face="Times New Roman">12</font></p></td>
+<td valign="top" width="68">
+<p align="center"><font size="3" face="Times New Roman"></font>450000&nbsp;</p></td>
+<td valign="top" width="105">
+<p align="center"><font size="3" face="Times New Roman">&nbsp;</font></p></td></tr>
+<tr>
+<td valign="top" width="49">
+<p align="center"><font size="3" face="Times New Roman">2</font></p></td>
+<td valign="top" width="122">
+<p align="center"><font size="3" face="Times New Roman">CA1252P2K2T1S2E</font></p></td>
+<td valign="top" width="95">
+<p align="center"><font size="3" face="Times New Roman">3900+1350</font></p></td>
+<td valign="top" width="95">
+<p align="center"><font size="3" face="Times New Roman">CA6DL2-35E3CB0S</font></p></td>
+<td valign="top" width="54">
+<p align="center"><font size="3" face="Times New Roman">350PS</font></p></td>
+<td valign="top" width="54">
+<p align="center"><font size="3" face="Times New Roman">9</font></p></td>
+<td valign="top" width="68">
+<p align="center"><font size="3" face="Times New Roman"></font>395000&nbsp;</p></td>
+<td valign="top" width="105">
+<p align="center"><font size="3" face="Times New Roman">6×4&nbsp;</font></p></td></tr>
+<tr>
+<td valign="top" width="49">
+<p align="center"><font size="3" face="Times New Roman">3</font></p></td>
+<td valign="top" width="122">
+<p align="center"><font size="3" face="Times New Roman">CA1252P2K2T1S2E</font></p></td>
+<td valign="top" width="95">
+<p align="center"><font size="3" face="Times New Roman">3900+1350</font></p></td>
+<td valign="top" width="95">
+<p align="center"><font size="3"><font face="Times New Roman">CA6DL1-32E3C</font>带<font face="Times New Roman">P</font></font></p></td>
+<td valign="top" width="54">
+<p align="center"><font size="3" face="Times New Roman">320</font></p></td>
+<td valign="top" width="54">
+<p align="center"><font size="3" face="Times New Roman">9</font></p></td>
+<td valign="top" width="68">
+<p align="center"><font size="3" face="Times New Roman">378000&nbsp;</font></p></td>
+<td valign="top" width="105">
+<p align="center"><font size="3" face="Times New Roman">6×4&nbsp;</font></p></td></tr>
+<tr>
+<td valign="top" width="643" colspan="8">
+<p align="center"><font color="#880000" size="3">欧曼系列</font></p></td></tr>
+<tr>
+<td valign="top" width="49">
+<p align="center"><font size="3" face="Times New Roman">1</font></p></td>
+<td valign="top" width="122">
+<p align="center"><font size="3" face="Times New Roman">BJ5253GJB-S</font></p></td>
+<td valign="top" width="95">
+<p align="center"><font size="3" face="Times New Roman">3825+1350</font></p></td>
+<td valign="top" width="95">
+<p align="center"><font size="3">欧康</font></p></td>
+<td valign="top" width="54">
+<p align="center"><font size="3" face="Times New Roman">280</font></p></td>
+<td valign="top" width="54">
+<p align="center"><font size="3" face="Times New Roman">9</font></p></td>
+<td valign="top" width="68">
+<p align="center">371000</p></td>
+<td valign="top" width="105">
+<p align="center"><font size="3" face="Times New Roman">6×4&nbsp;</font></p></td></tr>
+<tr>
+<td valign="top" width="49">
+<p align="center"><font size="3" face="Times New Roman">2</font></p></td>
+<td valign="top" width="122">
+<p align="center"><font size="3" face="Times New Roman">BJ5253GJB-S2</font></p></td>
+<td valign="top" width="95">
+<p align="center"><font size="3" face="Times New Roman">3975+1350</font></p></td>
+<td valign="top" width="95">
+<p align="center"><font size="3">潍柴</font></p></td>
+<td valign="top" width="54">
+<p align="center"><font size="3" face="Times New Roman">336</font></p></td>
+<td valign="top" width="54">
+<p align="center"><font size="3" face="Times New Roman">9</font></p></td>
+<td valign="top" width="68">
+<p align="center"><font size="3" face="Times New Roman"></font>395000&nbsp;</p></td>
+<td valign="top" width="105">
+<p align="center"><font size="3" face="Times New Roman">6×4&nbsp;</font></p></td></tr>
+<tr>
+<td valign="top" width="49">
+<p align="center"><font size="3" face="Times New Roman">3</font></p></td>
+<td valign="top" width="122">
+<p align="center"><font size="3" face="Times New Roman">BJ5253GJB-S1</font></p></td>
+<td valign="top" width="95">
+<p align="center"><font size="3" face="Times New Roman">1800+3450+1350</font></p></td>
+<td valign="top" width="95">
+<p align="center"><font size="3">潍柴</font></p></td>
+<td valign="top" width="54">
+<p align="center"><font size="3" face="Times New Roman">336</font></p></td>
+<td valign="top" width="54">
+<p align="center"><font size="3" face="Times New Roman">12</font></p></td>
+<td valign="top" width="68"><font size="3" face="Times New Roman">465000</font></td>
+<td valign="top" width="105">
+<p align="center"><font size="3" face="Times New Roman">&nbsp;</font></p></td></tr>
+<tr>
+<td valign="top" width="49">
+<p align="center"><font size="3" face="Times New Roman">4</font></p></td>
+<td valign="top" width="122">
+<p align="center"><font size="3" face="Times New Roman">BJ5253GJB-S1</font></p></td>
+<td valign="top" width="95">
+<p align="center"><font size="3" face="Times New Roman">1800+3450+1350</font></p></td>
+<td valign="top" width="95">
+<p align="center"><font size="3">潍柴</font></p></td>
+<td valign="top" width="54">
+<p align="center"><font size="3" face="Times New Roman">375</font></p></td>
+<td valign="top" width="54">
+<p align="center"><font size="3" face="Times New Roman">12</font></p></td>
+<td valign="top" width="68">
+<p align="center"><font size="3" face="Times New Roman"></font>475000&nbsp;</p></td>
+<td valign="top" width="105">
+<p align="center"><font size="3" face="Times New Roman">&nbsp;</font></p></td></tr>
+<tr>
+<td valign="top" width="49">
+<p align="center"><font size="3" face="Times New Roman">5</font></p></td>
+<td valign="top" width="122">
+<p align="center"><font size="3" face="Times New Roman">BJ5254GJB-S</font></p></td>
+<td valign="top" width="95">
+<p align="center"><font size="3" face="Times New Roman">3575+1350</font></p></td>
+<td valign="top" width="95">
+<p align="center"><font size="3">潍柴</font></p></td>
+<td valign="top" width="54">
+<p align="center"><font size="3" face="Times New Roman">336</font></p></td>
+<td valign="top" width="54">
+<p align="center"><font size="3" face="Times New Roman">9</font></p></td>
+<td valign="top" width="68">
+<p align="center"><font size="3" face="Times New Roman"></font>378000&nbsp;</p></td>
+<td valign="top" width="105">
+<p align="center"><font size="3" face="Times New Roman">6×4&nbsp;</font></p></td></tr>
+<tr>
+<td valign="top" width="49">
+<p align="center"><font size="3" face="Times New Roman">6</font></p></td>
+<td valign="top" width="122">
+<p align="center"><font size="3" face="Times New Roman">BJ5254GJB-S</font></p></td>
+<td valign="top" width="95">
+<p align="center"><font size="3" face="Times New Roman">3575+1350</font></p></td>
+<td valign="top" width="95">
+<p align="center"><font size="3">康明斯</font></p></td>
+<td valign="top" width="54">
+<p align="center"><font size="3" face="Times New Roman">340</font></p></td>
+<td valign="top" width="54">
+<p align="center"><font size="3" face="Times New Roman">9</font></p></td>
+<td valign="top" width="68">
+<p align="center"><font size="3" face="Times New Roman"></font>405000&nbsp;</p></td>
+<td valign="top" width="105">
+<p align="center"><font size="3" face="Times New Roman">6×4&nbsp;</font></p></td></tr>
+<tr>
+<td valign="top" width="643" colspan="8">
+<p align="center"><font color="#880000" size="3">重汽系列</font></p></td></tr>
+<tr>
+<td valign="top" width="49">
+<p align="center"><font size="3" face="Times New Roman">1</font></p></td>
+<td valign="top" width="122">
+<p align="center"><font size="3">斯太尔王</font></p></td>
+<td valign="top" width="95">
+<p align="center"><font size="3" face="Times New Roman">3800+1350</font></p></td>
+<td valign="top" width="95">
+<p align="center"><font size="3">潍柴</font></p></td>
+<td valign="top" width="54">
+<p align="center"><font size="3" face="Times New Roman">290</font></p></td>
+<td valign="top" width="54">
+<p align="center"><font size="3" face="Times New Roman">9</font></p></td>
+<td valign="top" width="68">
+<p align="center"><font size="3" face="Times New Roman"></font>352000&nbsp;</p></td>
+<td valign="top" width="105">
+<p align="center"><font size="3" face="Times New Roman">6×4&nbsp;</font></p></td></tr>
+<tr>
+<td valign="top" width="49">
+<p align="center"><font size="3" face="Times New Roman">2</font></p></td>
+<td valign="top" width="122">
+<p align="center"><font size="3">斯太尔王</font></p></td>
+<td valign="top" width="95">
+<p align="center"><font size="3" face="Times New Roman">3800+1350</font></p></td>
+<td valign="top" width="95">
+<p align="center"><font size="3">潍柴</font></p></td>
+<td valign="top" width="54">
+<p align="center"><font size="3" face="Times New Roman">336</font></p></td>
+<td valign="top" width="54">
+<p align="center"><font size="3" face="Times New Roman">9</font></p></td>
+<td valign="top" width="68"><font size="3" face="Times New Roman">358000</font></td>
+<td valign="top" width="105">
+<p align="center"><font size="3" face="Times New Roman">6×4&nbsp;</font></p></td></tr>
+<tr>
+<td valign="top" width="49">
+<p align="center"><font size="3" face="Times New Roman">3</font></p></td>
+<td valign="top" width="122">
+<p align="center"><font size="3">重汽豪沃</font></p></td>
+<td valign="top" width="95">
+<p align="center"><font size="3" face="Times New Roman">3800+1350</font></p></td>
+<td valign="top" width="95">
+<p align="center"><font size="3">潍柴</font></p></td>
+<td valign="top" width="54">
+<p align="center"><font size="3" face="Times New Roman">290</font></p></td>
+<td valign="top" width="54">
+<p align="center"><font size="3" face="Times New Roman">9</font></p></td>
+<td valign="top" width="68"><font size="3" face="Times New Roman">365000</font></td>
+<td valign="top" width="105">
+<p align="center"><font size="3" face="Times New Roman">&nbsp;6×4</font></p></td></tr>
+<tr>
+<td valign="top" width="49">
+<p align="center"><font size="3" face="Times New Roman">4</font></p></td>
+<td valign="top" width="122">
+<p align="center"><font size="3">重汽豪沃</font></p></td>
+<td valign="top" width="95">
+<p align="center"><font size="3" face="Times New Roman">3800+1350</font></p></td>
+<td valign="top" width="95">
+<p align="center"><font size="3">潍柴</font></p></td>
+<td valign="top" width="54">
+<p align="center"><font size="3" face="Times New Roman">336</font></p></td>
+<td valign="top" width="54">
+<p align="center"><font size="3" face="Times New Roman">9</font></p></td>
+<td valign="top" width="68">
+<p align="center"><font size="3" face="Times New Roman"></font>370000&nbsp;</p></td>
+<td valign="top" width="105">
+<p align="center"><font size="3" face="Times New Roman">&nbsp;6×4</font></p></td></tr>
+<tr>
+<td valign="top" width="49">
+<p align="center"><font size="3" face="Times New Roman">5</font></p></td>
+<td valign="top" width="122">
+<p align="center"><font size="3">金王子</font></p></td>
+<td valign="top" width="95">
+<p align="center"><font size="3" face="Times New Roman">3800+1350</font></p></td>
+<td valign="top" width="95">
+<p align="center"><font size="3">潍柴</font></p></td>
+<td valign="top" width="54">
+<p align="center"><font size="3" face="Times New Roman">290</font></p></td>
+<td valign="top" width="54">
+<p align="center"><font size="3" face="Times New Roman">9</font></p></td>
+<td valign="top" width="68">
+<p align="center"><font size="3" face="Times New Roman"></font>341000&nbsp;</p></td>
+<td valign="top" width="105">
+<p align="center"><font size="3" face="Times New Roman">6×4&nbsp;</font></p></td></tr>
+<tr>
+<td valign="top" width="49">
+<p align="center"><font size="3" face="Times New Roman">6</font></p></td>
+<td valign="top" width="122">
+<p align="center"><font size="3">金王子</font></p></td>
+<td valign="top" width="95">
+<p align="center"><font size="3" face="Times New Roman">3800+1350</font></p></td>
+<td valign="top" width="95">
+<p align="center"><font size="3">潍柴</font></p></td>
+<td valign="top" width="54">
+<p align="center"><font size="3" face="Times New Roman">336</font></p></td>
+<td valign="top" width="54">
+<p align="center"><font size="3" face="Times New Roman">9</font></p></td>
+<td valign="top" width="68"><font size="3" face="Times New Roman">352000</font></td>
+<td valign="top" width="105">
+<p align="center"><font size="3" face="Times New Roman">&nbsp;6×4</font></p></td></tr>
+<tr>
+<td valign="top" width="643" colspan="8">
+<p align="center"><font color="#880000" size="3">陕汽系列</font></p></td></tr>
+<tr>
+<td valign="top" width="49">
+<p align="center"><font size="3" face="Times New Roman">1</font></p></td>
+<td valign="top" width="122">
+<p align="center"><font size="3">德龙</font></p></td>
+<td valign="top" width="95">
+<p align="center"><font size="3" face="Times New Roman">3690+1300</font></p></td>
+<td valign="top" width="95">
+<p align="center"><font size="3">潍柴</font></p></td>
+<td valign="top" width="54">
+<p align="center"><font size="3" face="Times New Roman">336</font></p></td>
+<td valign="top" width="54">
+<p align="center"><font size="3" face="Times New Roman">9</font></p></td>
+<td valign="top" width="68">
+<p align="center"><font size="3" face="Times New Roman"></font>388000&nbsp;</p></td>
+<td valign="top" width="105">
+<p align="center"><font size="3" face="Times New Roman">6×4&nbsp;</font></p></td></tr>
+<tr>
+<td valign="top" width="49">
+<p align="center"><font size="3" face="Times New Roman">2</font></p></td>
+<td valign="top" width="122">
+<p align="center"><font size="3">德龙</font></p></td>
+<td valign="top" width="95">
+<p align="center"><font size="3" face="Times New Roman">3690+1300</font></p></td>
+<td valign="top" width="95">
+<p align="center"><font size="3">潍柴</font></p></td>
+<td valign="top" width="54">
+<p align="center"><font size="3" face="Times New Roman">290</font></p></td>
+<td valign="top" width="54">
+<p align="center"><font size="3" face="Times New Roman">9</font></p></td>
+<td valign="top" width="68"><font size="3" face="Times New Roman">370000</font></td>
+<td valign="top" width="105">
+<p align="center"><font size="3" face="Times New Roman">6×4&nbsp;</font></p></td></tr>
+<tr>
+<td valign="top" width="49">
+<p align="center"><font size="3" face="Times New Roman">3</font></p></td>
+<td valign="top" width="122">
+<p align="center"><font size="3">奥龙</font></p></td>
+<td valign="top" width="95">
+<p align="center"><font size="3" face="Times New Roman">3690+1300</font></p></td>
+<td valign="top" width="95">
+<p align="center"><font size="3">潍柴</font></p></td>
+<td valign="top" width="54">
+<p align="center"><font size="3" face="Times New Roman">336</font></p></td>
+<td valign="top" width="54">
+<p align="center"><font size="3" face="Times New Roman">9</font></p></td>
+<td valign="top" width="68"><font size="3" face="Times New Roman">369000</font></td>
+<td valign="top" width="105">
+<p align="center"><font size="3" face="Times New Roman">6×4&nbsp;</font></p></td></tr>
+<tr>
+<td valign="top" width="49">
+<p align="center"><font size="3" face="Times New Roman">&nbsp;</font></p></td>
+<td valign="top" width="122">
+<p align="center"><font size="3">奥龙</font></p></td>
+<td valign="top" width="95">
+<p align="center"><font size="3" face="Times New Roman">3690+1300</font></p></td>
+<td valign="top" width="95">
+<p align="center"><font size="3">潍柴</font></p></td>
+<td valign="top" width="54">
+<p align="center"><font size="3" face="Times New Roman">290</font></p></td>
+<td valign="top" width="54">
+<p align="center"><font size="3" face="Times New Roman">9</font></p></td>
+<td valign="top" width="68">
+<p align="center"><font size="3" face="Times New Roman"></font>350000&nbsp;</p></td>
+<td valign="top" width="105">
+<p align="center"><font size="3" face="Times New Roman">6×4&nbsp;</font></p></td></tr>
+<tr>
+<td valign="top" width="643" colspan="8">
+<p align="center"><font color="#880000" size="3">江淮系列</font></p></td></tr>
+<tr>
+<td valign="top" width="49">
+<p align="center"><font size="3" face="Times New Roman">1</font></p></td>
+<td valign="top" width="122">
+<p align="center"><font size="3" face="Times New Roman">HFC5255DJBLK3</font></p></td>
+<td valign="top" width="95">
+<p align="center"><font size="3" face="Times New Roman">3690+1300</font></p></td>
+<td valign="top" width="95">
+<p align="center"><font size="3">潍柴</font></p></td>
+<td valign="top" width="54">
+<p align="center"><font size="3" face="Times New Roman">336</font></p></td>
+<td valign="top" width="54">
+<p align="center"><font size="3" face="Times New Roman">9</font></p></td>
+<td valign="top" width="68">
+<p align="center"><font size="3" face="Times New Roman"></font>388000&nbsp;</p></td>
+<td valign="top" width="105">
+<p align="center"><font size="3" face="Times New Roman">6×4&nbsp;</font></p></td></tr>
+<tr>
+<td valign="top" width="49">
+<p align="center"><font size="3" face="Times New Roman">&nbsp;2</font></p></td>
+<td valign="top" width="122">
+<p align="center"><font size="3" face="Times New Roman">HFC5255DJBLH3</font></p></td>
+<td valign="top" width="95">
+<p align="center"><font size="3" face="Times New Roman">3690+1300</font></p></td>
+<td valign="top" width="95">
+<p align="center"><font size="3" face="Times New Roman">P11CUJ</font></p></td>
+<td valign="top" width="54">
+<p align="center"><font size="3" face="Times New Roman">350</font></p></td>
+<td valign="top" width="54">
+<p align="center"><font size="3" face="Times New Roman">9</font></p></td>
+<td valign="top" width="68"><font size="3" face="Times New Roman">469000</font></td>
+<td valign="top" width="105">
+<p align="center"><font size="3" face="Times New Roman">6×4&nbsp;</font></p></td></tr>
+<tr>
+<td valign="top" width="49">
+<p align="center"><font size="3" face="Times New Roman">3&nbsp;</font></p></td>
+<td valign="top" width="122">
+<p align="center"><font size="3" face="Times New Roman">HFC5255GJBLK3</font></p></td>
+<td valign="top" width="95">
+<p align="center"><font size="3" face="Times New Roman">3690+1300</font></p></td>
+<td valign="top" width="95">
+<p align="center"><font size="3" face="Times New Roman">P11CUH</font></p></td>
+<td valign="top" width="54">
+<p align="center"><font size="3" face="Times New Roman">320</font></p></td>
+<td valign="top" width="54">
+<p align="center"><font size="3" face="Times New Roman">9</font></p></td>
+<td valign="top" width="68">
+<p align="center"><font size="3" face="Times New Roman"></font>459000&nbsp;</p></td>
+<td valign="top" width="105">
+<p align="center"><font size="3" face="Times New Roman">6×4&nbsp;</font></p></td></tr>
+<tr>
+<td valign="top" width="49">
+<p align="center"><font size="3" face="Times New Roman">4&nbsp;</font></p></td>
+<td valign="top" width="122">
+<p align="center"><font size="3" face="Times New Roman">HFC5255GJBL1T</font></p></td>
+<td valign="top" width="95">
+<p align="center"><font size="3" face="Times New Roman">4000+1300&nbsp;</font></p></td>
+<td valign="top" width="95">
+<p align="center"><font size="3" face="Times New Roman">WP10.336</font></p></td>
+<td valign="top" width="54">
+<p align="center"><font size="3" face="Times New Roman">336</font></p></td>
+<td valign="top" width="54">
+<p align="center"><font size="3" face="Times New Roman">9</font></p></td>
+<td valign="top" width="68"><font size="3" face="Times New Roman">390000</font></td>
+<td valign="top" width="105">
+<p align="center"><font size="3" face="Times New Roman">6×4&nbsp;</font></p></td></tr>
+<tr>
+<td valign="top" width="49">
+<p align="center"><font size="3" face="Times New Roman">&nbsp;5</font></p></td>
+<td valign="top" width="122">
+<p align="center"><font size="3" face="Times New Roman">HFC5310GJBLKR1K3</font></p></td>
+<td valign="top" width="95">
+<p align="center"><font size="3" face="Times New Roman">1700+3290+1350&nbsp;</font></p></td>
+<td valign="top" width="95">
+<p align="center"><font size="3" face="Times New Roman">WP10.375</font></p></td>
+<td valign="top" width="54">
+<p align="center"><font size="3" face="Times New Roman">375</font></p></td>
+<td valign="top" width="54">
+<p align="center"><font size="3" face="Times New Roman">12</font></p></td>
+<td valign="top" width="68">
+<p align="center">450000&nbsp;</p></td>
+<td valign="top" width="105">
+<p align="center"><font size="3" face="Times New Roman">&nbsp;</font></p></td></tr>
+<tr>
+<td valign="top" width="643" colspan="8">
+<p align="center"><font size="3" face="Times New Roman">&nbsp;</font></p><font size="3" face="Times New Roman">
+<p align="left"><u>▲程力公司生产的水泥搅拌运输车（混凝土搅拌车）是以本公司十多年的机械设计、制造、焊接经验为依据，在充分消化、吸收国内外著名搅拌车制造商先进制造技术的基础上，经过上百次进出料速度、出料率、搅拌效率、扭曲弹性、行驶性能等检验合格率100%，经国家发改委批准制造出的一款成熟产品，是商品混凝土运输的理想设备。</u></p><u>
+<p align="center"><u><u>▲采用武钢产专用耐磨钢板制造搅拌筒及叶片。搅拌筒叶片制作工艺采用专用模具冲压成形。罐体对接及叶片焊接采用大型回转式工装，精度高。液压系统全部采用进口元件，结构紧凑，性能卓越。整车造型别致、美观，结构紧凑合理。操作系统灵活方便快捷，实现左右及料口操作三为一体。罐体焊后采及喷丸预处理工艺，实现除锈、防锈。</u></u></p></u>
+<p align="left"><u>▲目前,我公司生产的水泥搅拌运输车（混凝土搅拌车）具有5立方、6立方、8立方、9立方、10立方、12立方等多个系列的型号，底盘可根据用户不同需要选用来自欧洲、日本和中国的知名品牌，并且所选底盘具有功率大，各项性能优越等特点，在国内外水泥搅拌运输车（混凝土搅拌车）底盘中使用最为广泛，深受司机们的青睐。</u></p>
+<p align="center"><u><u><u>▲</u><u>以上产品底盘全国联保，技术标准及质量负责期限、按国家标准，凡购本公司专用车，实行三包期一年或行驶</u><u>30000</u><u>公里，售后服务</u><u>24-48</u><u>到位处理，终身负责维修并提供终身免费技术服务。</u><u></u></u></u></p><u><u><u>▲欢迎来厂实地考察，优惠办理代送车辆业务，到我公司提车，我公司为您代办全套行车手续。</u></u></u></font></td></tr>
+<tr>
+<td valign="top" width="643" colspan="8">
+<p align="center"><font size="3" face="Times New Roman">同等价格比质量，同等质量比价格，比较才识优良， 选购物有所值，欢迎来厂实地考察。&nbsp;</font></p></td></tr></tbody></table></div>
+<p><font size="3" face="Times New Roman">&nbsp;</font></p> </div>
+      </div>
+
+<center>
+<a href="#top" style="margin:30px;color:red;">回顶端</a>
+<a href="/">回首页</a>
+</center>
+    
+        </div>
+       
+        
+      </div>

@@ -1,63 +1,63 @@
 <div id="right">
-<h3><a style='background: url("http://www.clwtq.com/img/icon_news.png") no-repeat;'>底盘合作厂家</a></h3>
-    <img style="width: 210px;" border="0" src="img/gys.png">
-<h3><a style='background: url("/img/icon_news.png") no-repeat;'>实力展示</a></h3>
+<h3><a style='background: url("/img/icon_news.png") no-repeat;'href="/car/introduce" >底盘合作厂家</a></h3>
+    <a href="/car/introduce"> <img style="width: 210px;" border="0" src="img/gys.png"></a>
+<h3><a style='background: url("/img/icon_news.png") no-repeat;' href="/car/introduce">实力展示</a></h3>
 <script type="text/javascript">
    var banner = new BannerShow();
-    banner.addimage("http://www.dfclzyc.com/img/b1.png", "", "#");
-    banner.addimage("http://www.dfclzyc.com/img/b2.png", "", "#");
-    banner.addimage("http://www.dfclzyc.com/img/b3.png", "", "#");
-    banner.addimage("http://www.dfclzyc.com/img/b4.png", "", "#");
-    banner.addimage("http://www.dfclzyc.com/img/b5.png", "", "#");
+    banner.addimage("/img/b1.png", "", "/car/introduce");
+    banner.addimage("/img/b2.png", "", "/car/introduce");
+    banner.addimage("/img/b3.png", "", "/car/introduce");
+    banner.addimage("/img/b4.png", "", "/car/introduce");
+    banner.addimage("/img/b5.png", "", "/car/introduce");
     banner.create("banner", "210", "190");
     banner.play();
 </script>
 
 <div style="background: rgb(255, 255, 255); overflow: hidden;">
 <h3>
-	<a style='background: url("/img/icon_news.png") no-repeat;' href="http://www.clwtq.com/asp/docs.asp?id=14">
+	<a style='background: url("/img/icon_news.png") no-repeat;' href="$hostServer/car/price">
 		产品价格
     </a>
 	<em style="float: right;"><img src="img/more.png"></em>
 </h3>
 <div style="margin: 5px; line-height: 22px;">
-<li> <a href="http://www.clwtq.com/asp/detail.asp?id=179" 
+<li> <a href="/price/flwl" 
 target="_blank">粉粒物粒运输车价格<img border="0" src="img/new1.gif"></a> 
 </li>
-<li> <a href="http://www.clwtq.com/asp/detail.asp?id=155" 
+<li> <a href="/price/fyqx" 
 target="_blank">高压清洗车价格表<img border="0" src="img/new1.gif"></a> 
 </li>
-<li> <a href="http://www.clwtq.com/asp/detail.asp?id=140" 
+<li> <a href="/price/jbc" 
 target="_blank">搅拌车(点击查看价格表)<img border="0" src="img/new1.gif"></a> 
 </li>
-<li> <a href="http://www.clwtq.com/asp/detail.asp?id=132" 
+<li> <a href="/price/xfc" 
 target="_blank">消防车价格表(请点击查看)<img border="0" src="img/new1.gif"></a> 
 </li>
-<li> <a href="http://www.clwtq.com/asp/detail.asp?id=128" 
+<li> <a href="/price/scqzc" 
 target="_blank">随车起重车价格表(请点击查<img border="0" src="img/new1.gif"></a> 
 </li>
-<li> <a href="http://www.clwtq.com/asp/detail.asp?id=127" 
+<li> <a href="/price/ljc" 
 target="_blank">垃圾车价格表(请点击查看)<img border="0" src="img/new1.gif"></a> 
 </li>
-<li> <a href="http://www.clwtq.com/asp/detail.asp?id=126" 
+<li> <a href="/price/zxc" 
 target="_blank">自卸车价格表(请点击查看)<img border="0" src="img/new1.gif"></a> 
 </li>
-<li> <a href="http://www.clwtq.com/asp/detail.asp?id=124" 
+<li> <a href="/price/xwc" 
 target="_blank">吸污车价格表(请点击查看)<img border="0" src="img/new1.gif"></a> 
 </li>
-<li> <a href="http://www.clwtq.com/asp/detail.asp?id=123" 
+<li> <a href="/price/xfengc" 
 target="_blank">吸粪车价格表(请点击查看)<img border="0" src="img/new1.gif"></a> 
 </li>
-<li> <a href="http://www.clwtq.com/asp/detail.asp?id=122" 
+<li> <a href="/price/gtsljc" 
 target="_blank">挂桶式垃圾车价格表(请点击<img border="0" src="img/new1.gif"></a> 
 </li>
-<li> <a href="http://www.clwtq.com/asp/detail.asp?id=121" 
+<li> <a href="/price/bbljc" 
 target="_blank">摆臂拉圾车价格表(请点击查<img border="0" src="img/new1.gif"></a> 
 </li>
-<li> <a href="http://www.clwtq.com/asp/detail.asp?id=120" 
+<li> <a href="/price/ssc" 
 target="_blank">洒水车价格表(请点击查看)<img border="0" src="img/new1.gif"></a> 
 </li>
-<li> <a href="http://www.clwtq.com/asp/detail.asp?id=119" 
+<li> <a href="/price/ygc" 
 target="_blank">油罐车价格表(请点击查看)<img border="0" src="img/new1.gif"></a> 
 </li>
 </div>

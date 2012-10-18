@@ -1,0 +1,35 @@
+<div id="main">
+      
+ #parse("control/leftpart.vm")
+        
+        <div id="body">
+            
+      <div id="addr"><b>您的位置：</b><a href="/">首页</a>-公司相关-公司简介</div>
+      <div style="margin:20px;" id="news">
+        <center>
+          <h2> 公司简介</h2>
+        </center>
+        <hr>
+        <div style="font-size:14px;color:#335EA8;line-height:22px; text-indent:0px;"> <p>国家发改委定点生产各类专用汽车的专业厂家，大型专用汽车制造厂。国内知名园林绿化、石油化工、市政环卫、压力容器专用汽车制造商。注册商标“程力威”牌，国家发改委汽车公告产品代码：“CLW”和“SNJ”。东风、解放公司的重要合作伙伴，主要从事各类专用汽车的生产制造业务，同时也销售各大型厂家的整车及配件。公司拥有自行出口权，产品占据大量国外市场，其主导品种有<a class="seo" href="$hostServer/category/ssc"><strong>洒水车</strong></a>、油罐车、<a class="seo" href="$hostServer/category/ljc"><strong>垃圾车</strong></a>、<a class="seo" href="$hostServer/category/xwc"><strong>吸污车</strong></a>、吸粪车、自卸车、厢式货车、半挂车、清障车、随车吊、高空作业车、教练车、散装水泥车、化工车、消防车、汽车配件、水泥搅拌车、牵引车等八大系列100多个品种车型。同时批发东风、解放、楚风各种二类底盘。</p>
+<p><a class="seo" href="$hostServer"><strong>湖北程力专用汽车有限公司</strong></a>技术力量雄厚，检测手段完备，拥有国内外先进的生产的设备，产品质量稳定，经营方式灵活，程力公司已率先全面通过ISO9001-2000国际质量体系认证，产品全部通过3Ｃ国际强制产品认证，并通过出口产品的各项认证。</p>
+<p><a class="seo" href="$hostServer"><strong>湖北程力专用汽车有限公司</strong></a>的系列专用车数十年来一直占领着国内很大的市场，近年来，程力汽车在国内外市场上取得了非凡的成就，特别是程力公司在随州南郊开发区投资兴建新的大规模的厂房后，随州南郊开发区以“程力汽车工业园”命名，程力汽车成为华中地区专用汽车的一颗璀璨的明珠。</p>
+<p>我们的服务宗旨是：以质量求生存、信誉是保证。诚信待人，灵活经营、高质低价，讲究效率。</p>
+<p>程力公司承诺：凡属本公司生产销售的产品，底盘部分，全国服务站均可联保，专用部分三包服务一年，售后服务四十八小时到位处理，终身负责维修并提供终身免费技术服务。</p>
+<p align="center">&nbsp;</p>
+<center>&nbsp;</center>
+<p><a class="seo" href="$hostServer"><strong>湖北程力专用汽车有限公司</strong></a>位于炎帝神农故里，编钟古乐之乡，中国专用汽车之都--湖北随州；距省会武汉市186公里，距宜昌三峡330公里，公路、铁路交通十分便利。<strong><a class="seo" href="$hostServer"><strong>湖北程力专用汽车有限公司</strong></a></strong>总经理热忱欢迎各位新、老朋友惠顾，并期待着您的光临。同时，我公司可凭贵单位的责任传真，或预付部分车款后，优惠办理送车业务；到我公司提车，我公司为您代办全套行车手续。 </p>
+<p><strong><a class="seo" href="$hostServer"><strong>湖北程力专用汽车有限公司</strong></a></strong>愿竭诚为您服务，并期待您来我厂实地考察生产实力及产品工艺，<a class="seo" href="$hostServer"><strong>湖北程力专用汽车有限公司</strong></a>会为您提供最优质的服务。 </p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p> </div>
+      </div>
+
+<center>
+<a href="#top" style="margin:30px;color:red;">回顶端</a>
+<a href="/">回首页</a>
+</center>
+    
+        </div>
+       
+        
+      </div>

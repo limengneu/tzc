@@ -1,0 +1,34 @@
+<div id="mf">
+<div id="main">
+      
+         #parse("control/leftpart.vm")
+        
+        <div id="body">
+                  
+        <div id="addr"><b>您的位置：</b><a href="/">首页</a> - 产品价格</div>
+        <div style="margin:20px;padding-bottom:180px;" id="news">
+<li><a href="/price/flwl">粉粒物粒运输车价格</a><span class="tm">2012/11/15</span></li>
+<li><a href="/price/fyqx">高压清洗车价格表</a><span class="tm">2012/7/19</span></li>
+<li><a href="/price/jbc">搅拌车(点击查看价格表)</a><span class="tm">2012/6/25</span></li>
+<li><a href="/price/xfc">消防车价格表(请点击查看)</a><span class="tm">2012/6/16</span></li>
+<li><a href="/price/scqzc">随车起重车价格表(请点击查看)</a><span class="tm">2012/6/16</span></li>
+<li><a href="/price/ljc">垃圾车价格表(请点击查看)</a><span class="tm">2012/6/16</span></li>
+<li><a href="/price/zxc">自卸车价格表(请点击查看)</a><span class="tm">2012/6/16</span></li>
+<li><a href="/price/xwc">吸污车价格表(请点击查看)</a><span class="tm">2012/6/16</span></li>
+<li><a href="/price/xfengc">吸粪车价格表(请点击查看)</a><span class="tm">2012/6/16</span></li>
+<li><a href="/price/gtsljc">挂桶式垃圾车价格表(请点击查看)</a><span class="tm">2012/6/16</span></li>
+<li><a href="/price/bbljc">摆臂拉圾车价格表(请点击查看)</a><span class="tm">2012/6/16</span></li>
+<li><a href="/price/ssc">洒水车价格表(请点击查看)</a><span class="tm">2012/6/16</span></li>
+<li><a href="/price/ygc">油罐车价格表(请点击查看)</a><span class="tm">2012/6/14</span></li>
+ 
+        </div>
+<center>
+<a href="#top" style="margin:30px;color:red;">回顶端</a>
+<a href="/">回首页</a>
+</center>
+    
+        </div>
+       
+        
+    </div>
+</div>

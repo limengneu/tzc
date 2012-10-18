@@ -1,0 +1,90 @@
+<div id="main">
+      
+    #parse("control/leftpart.vm")
+        
+        <div id="body">
+            
+      <div id="location"><strong>您的位置：</strong> <a href="/">首页</a> - <a href="/car/price">产品价格</a>-挂桶式垃圾车价格表(请点击查看)</div>
+      <div style="margin:20px;" id="news">
+        <center>
+          <h2> 挂桶式垃圾车价格表(请点击查看)</h2>
+        </center>
+        <hr>
+        <div style="font-size:14px;color:#335EA8;line-height:22px; text-indent:0px;"> <p>&nbsp;</p>
+<div align="center">
+<table border="1" cellspacing="0" cellpadding="0" width="605">
+<tbody>
+<tr>
+<td valign="top" colspan="5">
+<p align="center">&nbsp;</p></td></tr>
+<tr>
+<td valign="top" width="14">
+<p align="center">序号</p></td>
+<td valign="top" width="186">
+<p align="center">产品名称</p></td>
+<td valign="top" width="38">
+<p align="center">容积</p></td>
+<td valign="top" width="50">
+<p align="center">价格<br>（万元）</p></td>
+<td valign="top" width="209">
+<p align="center">备&nbsp; 注</p></td></tr>
+<tr>
+<td valign="top" colspan="5">
+<p align="left"><b>一、挂桶式<a class="seo" href="/asp/search.asp?kw=%C0%AC%BB%F8%B3%B5"><strong>垃圾车</strong></a>系列价格</b><b></b></p></td></tr>
+<tr>
+<td valign="top" width="14">
+<p align="center">12</p></td>
+<td valign="top" width="186">
+<p align="left">东风小霸王挂桶式<a class="seo" href="/asp/search.asp?kw=%C0%AC%BB%F8%B3%B5"><strong>垃圾车</strong></a></p></td>
+<td valign="top" width="38">
+<p align="center">6m<sup>3</sup></p></td>
+<td valign="top" width="50">
+<p align="center">10.5</p></td>
+<td valign="top" rowspan="4" width="209">
+<p align="left">适用于全国通用标准的垃圾桶：铁桶、塑料桶，并大量供应垃圾挂桶。</p></td></tr>
+<tr>
+<td valign="top" width="14">
+<p align="center">13</p></td>
+<td valign="top" width="186">
+<p align="left">EQ140挂桶式<a class="seo" href="/asp/search.asp?kw=%C0%AC%BB%F8%B3%B5"><strong>垃圾车</strong></a>（汽油机）</p></td>
+<td valign="top" width="38">
+<p align="center">10m<sup>3</sup></p></td>
+<td valign="top" width="50">
+<p align="center">13.5</p></td></tr>
+<tr>
+<td valign="top">
+<p align="center">14</p></td>
+<td valign="top">
+<p align="left">EQ140挂桶式<a class="seo" href="/asp/search.asp?kw=%C0%AC%BB%F8%B3%B5"><strong>垃圾车</strong></a>（柴油机）</p></td>
+<td valign="top">
+<p align="center">10m<sup>3</sup></p></td>
+<td valign="top">
+<p align="center">14.5</p></td></tr>
+<tr>
+<td valign="top" width="14">
+<p align="center">14</p></td>
+<td valign="top" width="186">
+<p align="left">EQ145挂桶式<a class="seo" href="/asp/search.asp?kw=%C0%AC%BB%F8%B3%B5"><strong>垃圾车</strong></a>（柴油机）</p></td>
+<td valign="top" width="38">
+<p align="center">12m<sup>3</sup></p></td>
+<td valign="top" width="50">
+<p align="center">19.3</p></td></tr>
+<tr>
+<td valign="top" colspan="5">
+<p align="left">另：我公司批零售<b>挂桶式<a class="seo" href="/asp/search.asp?kw=%C0%AC%BB%F8%B3%B5"><strong>垃圾车</strong></a></b>全国统一规格的塑料桶、铁制桂桶，价格请咨询公司销售人员。</p>
+<p align="left"><b>备注：</b></p>
+<p align="left"><b>一、挂桶式<a class="seo" href="/asp/search.asp?kw=%C0%AC%BB%F8%B3%B5"><strong>垃圾车</strong></a>：</b>一种自装卸式<a class="seo" href="/asp/search.asp?kw=%C0%AC%BB%F8%B3%B5"><strong>垃圾车</strong></a>，包括有配置液压系统的机动车和设置在机动车底盘上的垃圾装载箱体自装卸式<a class="seo" href="/asp/search.asp?kw=%C0%AC%BB%F8%B3%B5"><strong>垃圾车</strong></a>及用于使箱体绕后端铰接点转动的油缸倾翻机构，自装卸式<a class="seo" href="/asp/search.asp?kw=%C0%AC%BB%F8%B3%B5"><strong>垃圾车</strong></a>其特征是：在所述的垃圾装载箱体的前部侧上方设有配置盖板的进料口，与该进料口相配置在其下方的箱体侧壁上设置有翻桶机构；自装卸式<a class="seo" href="/asp/search.asp?kw=%C0%AC%BB%F8%B3%B5"><strong>垃圾车</strong></a>在箱体的后面设有经上端的铰接轴装配于箱体上的箱门，与该箱门相配置在箱体后端下部的两侧分别设置有箱门锁紧器；自装卸式<a class="seo" href="/asp/search.asp?kw=%C0%AC%BB%F8%B3%B5"><strong>垃圾车</strong></a>在箱体内的箱底上平行设置有一对滑道，其滑道上装配有一配置油缸的垃圾充实推板。</p>
+<p align="left">二、我们程力公司的<a class="seo" href="/asp/search.asp?kw=%C0%AC%BB%F8%B3%B5"><strong>垃圾车</strong></a>系列有密封式<a class="seo" href="/asp/search.asp?kw=%C0%AC%BB%F8%B3%B5"><strong>垃圾车</strong></a>、自卸式<a class="seo" href="/asp/search.asp?kw=%C0%AC%BB%F8%B3%B5"><strong>垃圾车</strong></a>、摆臂式<a class="seo" href="/asp/search.asp?kw=%C0%AC%BB%F8%B3%B5"><strong>垃圾车</strong></a>、压缩式<a class="seo" href="/asp/search.asp?kw=%C0%AC%BB%F8%B3%B5"><strong>垃圾车</strong></a>等多种系列的<a class="seo" href="/asp/search.asp?kw=%C0%AC%BB%F8%B3%B5"><strong>垃圾车</strong></a></p>
+<p align="left">三、湖北程力为国内最知名<a class="seo" href="/asp/search.asp?kw=%C0%AC%BB%F8%B3%B5"><strong>垃圾车</strong></a>生产厂，可为用户提供各种类型<a class="seo" href="/asp/search.asp?kw=%C0%AC%BB%F8%B3%B5"><strong>垃圾车</strong></a>，也可为用户设计制作各类<a class="seo" href="/asp/search.asp?kw=%C0%AC%BB%F8%B3%B5"><strong>垃圾车</strong></a>，价格以咨询为准。</p>
+<p align="center">&nbsp;</p></td></tr></tbody></table></div> </div>
+      </div>
+
+<center>
+<a href="#top" style="margin:30px;color:red;">回顶端</a>
+<a href="/">回首页</a>
+</center>
+    
+        </div>
+       
+        
+      </div>

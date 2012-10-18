@@ -1,0 +1,292 @@
+<div id="main">
+      
+        #parse("control/leftpart.vm")
+        
+        <div id="body">
+            
+   <div id="location"><strong>您的位置：</strong> <a href="/">首页</a> - <a href="/car/price">产品价格</a> -粉粒物粒运输车价格</div>
+      <div style="margin:20px;" id="news">
+        <center>
+          <h2> 粉粒物粒运输车价格</h2>
+        </center>
+        <hr>
+        <div style="font-size:14px;color:#335EA8;line-height:22px; text-indent:0px;"> <div align="center">
+<table border="1" cellspacing="0" cellpadding="0" width="643">
+<tbody>
+<tr>
+<td valign="top" colspan="6">
+<p align="left">&nbsp;&nbsp;&nbsp;&nbsp;一、&nbsp; 一散装水泥运输车又称粉粒物料运输车，可独立分仓储存、装运不同粉粒物料，卸料速度快，剩余率低，安全性能高。<br>&nbsp;&nbsp;&nbsp;&nbsp;二、散装水泥运输车工作压力为0.2Mpa的条件下，卸料速度1．1-1．3t/min，剩余率3‰。在一定条件下，卸料高度≥25m。 <br>&nbsp;&nbsp;&nbsp;&nbsp;三、粉粒物料运输车外形为圆罐体，材质可选用碳钢、不锈钢、铝合金；内部采用气袋式硫化床，结构简单、维修方便、硫化性能好；可选用7.3m3、8 m3、10 m3空压机，运动轴直接传动（可选皮带传动）。<br>&nbsp;&nbsp;&nbsp;&nbsp;四、以上均为苏洲空压机，采用芜湖空压机则加1000元，采用南韩空压机加2000元。&nbsp;<br>&nbsp;&nbsp;</p></td></tr>
+<tr>
+<td valign="top" width="33">
+<p align="left"><b>&nbsp;</b><b>序号</b></p></td>
+<td valign="top" width="171">
+<p align="left">&nbsp;<b>产品名称</b></p></td>
+<td valign="top" width="70">
+<p align="center"><b>上户</b><b><br></b><b>吨位</b><b>(T)</b></p></td>
+<td valign="top" width="69">
+<p align="left">&nbsp;<b>容积</b><b>(m3)</b></p></td>
+<td valign="top" width="84">
+<p align="left"><b>价格</b><b>(</b><b>万元</b><b>)</b></p></td>
+<td valign="top" width="306">
+<p align="center"><b>备</b><b> </b><b>注</b><b> </b></p></td></tr>
+<tr>
+<td valign="top" colspan="6">
+<p align="left">&nbsp;<b>散装水泥车价格表</b></p></td></tr>
+<tr>
+<td valign="top">
+<p align="center">1</p></td>
+<td valign="top">
+<p align="left">东风尖头散装水泥车 </p></td>
+<td valign="top">
+<p align="center">4.3</p></td>
+<td valign="top">
+<p align="center">9-12</p></td>
+<td valign="top">
+<p align="center">13.6</p></td>
+<td valign="top">
+<p align="left">玉柴140马力欧二柴油机</p></td></tr>
+<tr>
+<td valign="top">
+<p align="center">2</p></td>
+<td valign="top">
+<p align="left">东风平头145散装水泥车 </p></td>
+<td valign="top">
+<p align="center">5.0</p></td>
+<td valign="top">
+<p align="center">12-15</p></td>
+<td valign="top">
+<p align="center">17.8</p></td>
+<td valign="top">
+<p align="left">康明斯160马力欧二柴油机</p></td></tr>
+<tr>
+<td valign="top">
+<p align="center">3</p></td>
+<td valign="top">
+<p align="left">东风平头153散装水泥车 </p></td>
+<td valign="top">
+<p align="center">7.0</p></td>
+<td valign="top">
+<p align="center">12-16</p></td>
+<td valign="top">
+<p align="center">19.2</p></td>
+<td valign="top">
+<p align="left">康明斯180马力欧二柴油机</p></td></tr>
+<tr>
+<td valign="top">
+<p align="center">4</p></td>
+<td valign="top">
+<p align="left">东风双桥1208散装水泥车 </p></td>
+<td valign="top">
+<p align="center">9.5</p></td>
+<td valign="top">
+<p align="center">20-22</p></td>
+<td valign="top">
+<p align="center">25.6</p></td>
+<td valign="top">
+<p align="left">平头带卧，康明斯210马力欧二柴油机</p></td></tr>
+<tr>
+<td valign="top">
+<p align="center">5</p></td>
+<td valign="top">
+<p align="left">东风双桥1230散装水泥车 </p></td>
+<td valign="top">
+<p align="center">12.0</p></td>
+<td valign="top">
+<p align="center">19-28</p></td>
+<td valign="top">
+<p align="center">27.6</p></td>
+<td valign="top">
+<p align="left">康明斯230马力欧二柴油机</p></td></tr>
+<tr>
+<td valign="top">
+<p align="center">6</p></td>
+<td valign="top">
+<p align="left">东风天龙前四后八散装水泥车</p></td>
+<td valign="top">
+<p align="center">14.9</p></td>
+<td valign="top">
+<p align="center">34-40</p></td>
+<td valign="top">
+<p align="center">39.9</p></td>
+<td valign="top">
+<p align="left">平头、高顶双卧，康明斯 290 马力欧三发动机</p></td></tr>
+<tr>
+<td valign="top">
+<p align="center">7 </p></td>
+<td valign="top">
+<p align="left">解放平头CA1163散装水泥车 </p></td>
+<td valign="top">
+<p align="center">5.0</p></td>
+<td valign="top">
+<p align="center">12-15</p></td>
+<td valign="top">
+<p align="center">25.3</p></td>
+<td valign="top">
+<p align="left">大柴 锡柴 180 马力欧三发动机</p></td></tr>
+<tr>
+<td valign="top">
+<p align="center">8</p></td>
+<td valign="top">
+<p align="left">解放平头双桥散装水泥车 </p></td>
+<td valign="top">
+<p align="center">10.0</p></td>
+<td valign="top">
+<p align="center">27-35</p></td>
+<td valign="top">
+<p align="center">34.8</p></td>
+<td valign="top">
+<p align="left">锡柴，大柴 240马力欧三柴油机</p></td></tr>
+<tr>
+<td valign="top">
+<p align="center">9</p></td>
+<td valign="top">
+<p align="left">解放前四后八散装水泥车 </p></td>
+<td valign="top">
+<p align="center">14.0</p></td>
+<td valign="top">
+<p align="center">36-45</p></td>
+<td valign="top">
+<p align="center">37.9</p></td>
+<td valign="top">
+<p align="left">平头、高顶双卧，道依茨260 马力欧三柴油机</p></td></tr>
+<tr>
+<td valign="top">
+<p align="center">10</p></td>
+<td valign="top">
+<p align="left">重汽豪泺双桥粉粒物料运输车 </p></td>
+<td valign="top">
+<p align="center">10.5</p></td>
+<td valign="top">
+<p align="center">25-32</p></td>
+<td valign="top">
+<p align="center">36.3</p></td>
+<td valign="top">
+<p align="left">重汽266马力欧三柴油机</p></td></tr>
+<tr>
+<td valign="top">
+<p align="center">11</p></td>
+<td valign="top">
+<p align="left">斯太尔双桥粉料物料运输车</p></td>
+<td valign="top">
+<p align="center">11.0</p></td>
+<td valign="top">
+<p align="center">29-36</p></td>
+<td valign="top">
+<p align="center">35.1</p></td>
+<td valign="top">
+<p align="left">重汽266马力欧三柴油机</p></td></tr>
+<tr>
+<td valign="top">
+<p align="center">12</p></td>
+<td valign="top">
+<p align="left">豪运前四后八粉粒物料运输车</p></td>
+<td valign="top">
+<p align="center">13</p></td>
+<td valign="top">
+<p align="center">34-42</p></td>
+<td valign="top">
+<p align="center">38.2</p></td>
+<td valign="top">
+<p align="left">重汽336马力欧三柴油机</p></td></tr>
+<tr>
+<td valign="top">
+<p align="center">13</p></td>
+<td valign="top">
+<p align="left">斯太尔前四后八散装水泥车</p></td>
+<td valign="top">
+<p align="center">15</p></td>
+<td valign="top">
+<p align="center">36-45</p></td>
+<td valign="top">
+<p align="center">37.8</p></td>
+<td valign="top">
+<p align="left">平头、高顶双卧，重汽 290 马力欧三柴油机</p></td></tr>
+<tr>
+<td valign="top">
+<p align="center">14</p></td>
+<td valign="top">
+<p align="left">重汽豪泺前四后八粉粒物料运</p></td>
+<td valign="top">
+<p align="center">14</p></td>
+<td valign="top">
+<p align="center">35-42</p></td>
+<td valign="top">
+<p align="center">38.9</p></td>
+<td valign="top">
+<p align="left">平头、高顶双卧，重汽 290 马力欧三柴油机</p></td></tr>
+<tr>
+<td valign="top">
+<p align="center">15</p></td>
+<td valign="top">
+<p align="left">欧曼前四后八散装水泥车</p></td>
+<td valign="top">
+<p align="center">16</p></td>
+<td valign="top">
+<p align="center">30-40</p></td>
+<td valign="top">
+<p align="center">37.9</p></td>
+<td valign="top">
+<p align="left">平头、高顶双卧，欧康 280 欧三柴油机</p></td></tr>
+<tr>
+<td valign="top">
+<p align="center">16</p></td>
+<td valign="top">
+<p align="left">华菱前四后八散装水泥车</p></td>
+<td valign="top">
+<p align="center">10</p></td>
+<td valign="top">
+<p align="center">26-38</p></td>
+<td valign="top">
+<p align="center">38.9</p></td>
+<td valign="top">
+<p align="left">潍柴270马力柴油机</p></td></tr>
+<tr>
+<td valign="top">
+<p align="center">17</p></td>
+<td valign="top">
+<p align="left">三桥粉粒物料运输罐</p></td>
+<td valign="top">
+<p align="center">25.8</p></td>
+<td valign="top">
+<p align="center">35-45</p></td>
+<td valign="top">
+<p align="center">17.8</p></td>
+<td valign="top">
+<p align="left">13T 富华桥， 1000 轮胎</p></td></tr>
+<tr>
+<td valign="top">
+<p align="center">18</p></td>
+<td valign="top">
+<p align="left">三桥半挂散装水泥罐</p></td>
+<td valign="top">
+<p align="center">28</p></td>
+<td valign="top">
+<p align="center">55-70</p></td>
+<td valign="top">
+<p align="center">19.8</p></td>
+<td valign="top">
+<p align="left">15T 富华桥， 1100 轮胎</p></td></tr>
+<tr>
+<td valign="top">
+<p align="center">19</p></td>
+<td valign="top">
+<p align="left">散装粮食运输半挂罐</p></td>
+<td valign="top">
+<p align="center">28</p></td>
+<td valign="top">
+<p align="center">45-55</p></td>
+<td valign="top">
+<p align="center">19.6</p></td>
+<td valign="top">
+<p align="left">13T 富华桥， 1100 轮胎</p></td></tr></tbody></table></div> </div>
+      </div>
+
+<center>
+<a href="#top" style="margin:30px;color:red;">回顶端</a>
+<a href="/">回首页</a>
+</center>
+    
+        </div>
+       
+        
+      </div>

@@ -4,7 +4,7 @@
 #parse("control/leftpart.vm")
 <!--右边大块-->
 <div id="body">  
-			<div id="location"><strong>您的位置：</strong> <a href="/">首页</a> - 产品展示  - ${carInfo.productListName}</div>
+			<div id="location"><strong>您的位置：</strong> <a href="/">首页</a> - <a href="/category">产品展示</a>  - ${carInfo.productListName}</div>
 			<div style="margin:5px;"> 
 	   <center>
 		<h1 class="page_title">${carInfo.productListName}</h1>
