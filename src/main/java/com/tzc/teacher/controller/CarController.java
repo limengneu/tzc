@@ -21,8 +21,10 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.servlet.ModelAndView;
 
 import com.tzc.biz.model.CarInfo;
+import com.tzc.biz.model.Category;
 import com.tzc.biz.query.CarInfoQuery;
 import com.tzc.biz.service.CarInfoService;
+import com.tzc.biz.service.CategoryService;
 import com.tzc.common.paginator.Paginator;
 import com.tzc.teacher.utils.UrlPatternConsts;
 
@@ -37,6 +39,9 @@ public class CarController {
 
 	@Autowired
 	private CarInfoService carInfoService;
+
+	@Autowired
+	private CategoryService categoryService;
 
 	/**
 	 * 
@@ -66,32 +71,43 @@ public class CarController {
 	 * @return:void
 	 */
 	@RequestMapping(value = UrlPatternConsts.CARINFO_LIST_NOPAGE, method = RequestMethod.GET)
-	public ModelAndView listnopage(HttpServletRequest request, ModelAndView mav,
-			@PathVariable String cateid) {
-		mav.setViewName("car/list");
-		CarInfoQuery carInfoQuery=carInfoService.findCarByPage(cateid, 1, CarInfoQuery.DEFAULT_PAGE_SIZE);
-		carInfoQuery.setCurrentPage(1);
-		mav.addObject("carInfoQuery",carInfoQuery);
-		Map<String, Object> optionalArgumentMap=new HashMap<String,Object>();
-		optionalArgumentMap.put("cateid", cateid);
-		
-		Paginator paginator=new Paginator(UrlPatternConsts.CARINFO_LIST,1,CarInfoQuery.DEFAULT_PAGE_SIZE,carInfoQuery.getItemCount(),carInfoQuery.getPageCount(),optionalArgumentMap);
-		mav.addObject("paginator",paginator);
+	public ModelAndView listnopage(HttpServletRequest request,
+			ModelAndView mav, @PathVariable String cateid) {
+		listinner(mav, cateid, 1);
 		return mav;
 	}
-	
+
 	@RequestMapping(value = UrlPatternConsts.CARINFO_LIST, method = RequestMethod.GET)
 	public ModelAndView list(HttpServletRequest request, ModelAndView mav,
 			@PathVariable String cateid, @PathVariable Integer page) {
-		mav.setViewName("car/list");
-		CarInfoQuery carInfoQuery=carInfoService.findCarByPage(cateid, page, CarInfoQuery.DEFAULT_PAGE_SIZE);
-		carInfoQuery.setCurrentPage(page);
-		mav.addObject("carInfoQuery",carInfoQuery);
-		Map<String, Object> optionalArgumentMap=new HashMap<String,Object>();
-		optionalArgumentMap.put("cateid", cateid);
-		Paginator paginator=new Paginator(UrlPatternConsts.CARINFO_LIST,page,CarInfoQuery.DEFAULT_PAGE_SIZE,carInfoQuery.getItemCount(),carInfoQuery.getPageCount(),optionalArgumentMap);
-		mav.addObject("paginator",paginator);
+		listinner(mav, cateid, page);
 		return mav;
+	}
+
+	/**
+	 * @方法功能说明：
+	 * @修改者名字: limeng
+	 * @修改时间：Oct 18, 201211:26:34 AM
+	 * @参数：@param mav
+	 * @参数：@param cateid
+	 * @参数：@param page
+	 * @return:void
+	 */
+	private void listinner(ModelAndView mav, String cateid, Integer page) {
+		mav.setViewName("car/list");
+		CarInfoQuery carInfoQuery = carInfoService.findCarByPage(cateid, page,
+				CarInfoQuery.DEFAULT_PAGE_SIZE);
+		carInfoQuery.setCurrentPage(page);
+		mav.addObject("carInfoQuery", carInfoQuery);
+		Map<String, Object> optionalArgumentMap = new HashMap<String, Object>();
+		optionalArgumentMap.put("cateid", cateid);
+		Category category = categoryService.getCategoryById(cateid);
+		mav.addObject("category", category);
+		Paginator paginator = new Paginator(UrlPatternConsts.CARINFO_LIST,
+				page, CarInfoQuery.DEFAULT_PAGE_SIZE,
+				carInfoQuery.getItemCount(), carInfoQuery.getPageCount(),
+				optionalArgumentMap);
+		mav.addObject("paginator", paginator);
 	}
 
 }

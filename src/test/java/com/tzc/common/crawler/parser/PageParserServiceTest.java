@@ -35,6 +35,14 @@ public class PageParserServiceTest {
 	@Autowired
 	private CarInfoService carInfoService;
 	
+	
+	
+	@Test
+	public void testsaveCategoryInfo() {
+		pageParserService.saveCategoryInfo();
+	}
+	
+	
 	@Test
 	public void testDownLoadImage() {
 		List<CarInfo> 	carInfos=carInfoService.findAllCar();

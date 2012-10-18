@@ -2,7 +2,7 @@
 <div style='background: url("$staticServer/img/talk.png"); width: 210px; height: 200px; overflow: hidden; position: relative;'>
 <div style="line-height: 22px; font-family: tahoma; margin-top: 55px; margin-left: 5px;">
 <p><font face="宋体"><font 
-face="宋体">销售经理：李经理<br>联系电话：18607226629<br>服务热线：0722-4792229&nbsp; <br>电子信箱：<a 
+face="宋体">销售经理：李经理<br>联系电话：<font style="font-size: 18px;" color="#ff0000"> 18607226629 </font><br>服务热线：0722-4792229&nbsp; <br>电子信箱：<a 
 href="mailto:2384958066@qq.com">2384958066@qq.com</a><br>欲看更多实际图片请查看</font></font>
 <a target="_blank" href="http://user.qzone.qq.com/2384958066">
 <font style="font-size: 18px;" color="#ff0000"><font 

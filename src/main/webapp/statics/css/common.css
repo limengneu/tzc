@@ -173,3 +173,6 @@ h3 {
 h3 a {
 	border: 0px solid red; width: 300px; height: 26px; padding-left: 32px; display: inline-block;
 }
+.page_title {color:#CE0013; text-align:left; margin:0px; padding:13px;line-height:22px;background:url(/img/xzl_jt.gif) no-repeat;background-position:left center;
+			 font-size:16px; font-weight:bold; font-family: 微软雅黑;}
+#location {border-bottom:1px solid #cccccc;padding:2px; text-align:left; line-height:22px;height:22px; text-indent:4px;}

@@ -21,11 +21,7 @@ public class PageParserTest {
 	@Test
 	public void testcategoryUrl() {
 		PageParserService pageParser=new PageParserService();
-	List<String> categoryList=	pageParser.getAllCategory();
-	
-	for(String categoryUrl:categoryList){
-		System.out.println(categoryUrl);
-	}
+
 	}
 
 }

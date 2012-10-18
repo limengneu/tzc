@@ -27,6 +27,8 @@ public class UrlPatternConsts {
 	
 	public static final String INIT_CARINFO = "/admin/init";
 	
+	public static final String INIT_CATEGORY = "/admin/initcategory";
+	
 	public static final String ADD_CARINFO_VIEW = "/admin/view";
 
 }

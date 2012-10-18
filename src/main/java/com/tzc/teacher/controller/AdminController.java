@@ -78,4 +78,13 @@ public class AdminController {
 		
 		return mav;
 	}
+	
+	@RequestMapping(value = UrlPatternConsts.INIT_CATEGORY, method = RequestMethod.GET)
+	public ModelAndView initCategory(HttpServletRequest request, ModelAndView mav,Integer carInfo) {
+		 mav.setViewName("admin/init");
+		pagePasrserService.saveCategoryInfo();
+	
+		
+		return mav;
+	}
 }

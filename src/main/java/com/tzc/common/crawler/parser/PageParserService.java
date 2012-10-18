@@ -8,7 +8,6 @@
 package com.tzc.common.crawler.parser;
 
 import java.io.File;
-import java.util.ArrayList;
 import java.util.List;
 
 import net.sf.json.JSONObject;
@@ -23,7 +22,9 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
 import com.tzc.biz.dao.CarinfoDao;
+import com.tzc.biz.dao.CategoryDao;
 import com.tzc.biz.model.CarInfo;
+import com.tzc.biz.model.Category;
 import com.tzc.biz.util.CategoryUtil;
 import com.tzc.common.crawler.fetch.FetcherConfig;
 import com.tzc.common.crawler.fetch.PageFetcher;
@@ -44,20 +45,46 @@ public class PageParserService {
 
 	@Autowired
 	private CarinfoDao carInfoDao;
+	
+	@Autowired
+	private CategoryDao categoryDao;
 
-	public List<String> getAllCategory() {
-		List<String> categoryUrl = new ArrayList<String>();
+	public void saveCategoryInfo() {
 		FetcherConfig config = new FetcherConfig();
 		config.setIp(localAddress);
-		config.setUrl(DEFAULT_URL);
 		config.setRequestTimeout(10);
-		Document doc = PageFetcher.fetchPageAsDOM(config);
-		List<Node> nodes = doc.selectNodes(getCategoryXpath());
-		for (Node node : nodes) {
-			String jsStatement = node.getStringValue().trim();
-			categoryUrl.add(DEFAULT_URL + jsStatement);
+		
+		
+		
+		for(int i=0;i<25;i++){
+			Category category=new Category();
+			String url="http://hbszdfzyc.com/Products-"+i;
+			config.setUrl(url);
+			Document doc = PageFetcher.fetchPageAsDOM(config);
+			Node nodes = doc.selectSingleNode("//DIV[@id='body']//SPAN[@class='_edit_content_panel']");
+			if(nodes==null){
+				continue;
+			}
+			Node categoryname = doc.selectSingleNode("//DIV[@id='body']//DIV[@id='location']");
+			String[] categors=StringUtils.split(categoryname.getStringValue().trim(), '-');
+			String categoryId= CategoryUtil.getCategoryValue(categors[2].trim());
+			String jsStatement = nodes.getStringValue().trim();
+			category.setProductCategory(categoryId);
+			category.setProductCategoryName(categors[2].trim());
+			category.setProductDescription(jsStatement);
+			categoryDao.save(category);
 		}
-		return categoryUrl;
+		
+		String categorynames[]={"搅拌车系列","防爆车系列","自卸车系列","厢式运输车","仓栅式运输车","专用车配件"};
+		
+		for(String categoryname:categorynames){
+			Category category=new Category();
+			category.setProductCategory(CategoryUtil.getCategoryValue(categoryname));
+			category.setProductCategoryName(categoryname);
+			categoryDao.save(category);
+		}
+	
+
 	}
 
 	public int saveProductInfo() {

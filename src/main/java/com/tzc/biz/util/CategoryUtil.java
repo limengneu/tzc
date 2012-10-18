@@ -24,7 +24,6 @@ public class CategoryUtil {
 		categoryMap.put("吸粪车系列", "xfc");
 		categoryMap.put("吸污车系列", "xwc");
 		categoryMap.put("垃圾车系列", "ljc");
-		categoryMap.put("混凝土搅拌车系列", "hltjbc");
 		categoryMap.put("随车起重运输车系列", "scqzc");
 		categoryMap.put("随车起重运输车", "scqzc");
 		categoryMap.put("高压清洗车系列", "gyqxc");

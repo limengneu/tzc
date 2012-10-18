@@ -4,8 +4,8 @@
 #parse("control/leftpart.vm")
 <!--右边大块-->
 <div id="body"> 
-    <div id="addr"><b>您的位置：</b><a href="/asp/index.asp">首页</a> - 产品展示 - 洒水车系列</div>
-    <div id="info">洒水车：（运水车、喷洒车、绿化车、水罐车、撒水车）我司专业生产东风小霸王洒水车、小霸王洒水车加强型、多利卡洒水车、EQ140洒水车、153洒水车、145消防洒水车、1208双桥洒水车、南京跃进多功能洒水车，并且提供洒水车图片、洒水车价格、洒水车技术参数等，程力汽车为国内知名园林绿化、石油化工、市政环卫专用汽车制造商。<br>
+	<div id="location"><strong>您的位置：</strong> <a href="/">首页</a> - 产品展示 - $!{category.productCategoryName}车</div>
+    <div id="info"> $!{category.productDescription}<br>
 			 <font color="#000000"><strong><font color="#ff0000" size="4">更多详细车型与价格请致电:18607226629 0722-4792229</font></strong></font><p></p>
    </div>
     

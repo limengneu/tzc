@@ -78,7 +78,7 @@ public abstract class BaseDao<T extends BaseModel> {
 	}
 	
 	@SuppressWarnings("unchecked")
-	public List<T> findAllByValue() {
+	public List<T> findAllValue() {
 		Query query = em.createQuery("SELECT o FROM "
 				+ entityClass.getSimpleName()+" o ");
 		return query.getResultList();

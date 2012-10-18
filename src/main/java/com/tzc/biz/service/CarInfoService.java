@@ -46,7 +46,7 @@ public class CarInfoService {
 	}
 	
 	public List<CarInfo> findAllCar() {
-		return carInfoDao.findAllByValue();
+		return carInfoDao.findAllValue();
 	}
 
 	public List<CarInfo> findCarInfos(String column, String value) {

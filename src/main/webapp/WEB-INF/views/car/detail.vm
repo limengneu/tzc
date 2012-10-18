@@ -4,10 +4,10 @@
 #parse("control/leftpart.vm")
 <!--右边大块-->
 <div id="body">  
-			<div id="location"><strong>您的位置：</strong> <a href="/">首页</a> - 产品展示  - 程力威牌CLW5251GFLT3型低密度粉粒物料运输车</div>
+			<div id="location"><strong>您的位置：</strong> <a href="/">首页</a> - 产品展示  - ${carInfo.productListName}</div>
 			<div style="margin:5px;"> 
 	   <center>
-		<h1 class="page_title">程力威牌CLW5251GFLT3型低密度粉粒物料运输车</h1>
+		<h1 class="page_title">${carInfo.productListName}</h1>
 		<hr>
 		<div style="position:relative;width:531px;height:300px;overflow:hidden;margin-bottom:4px;border:3px solid #EEEEFF;background:#EEEEFF;">
 			<div style="position:relative;width:400px;height:300px;float:left;">
@@ -37,7 +37,7 @@
         word-wrap: break-word; font-size:9pt; word-break: break-all;background:#b8c2c8;  ">
           <caption style="background:#EEEEFF;padding:10px; font-size:20px; 
           font-weight:bold;">
-          程力威牌CLW5251GFLT3型低密度粉粒物料运输车-主要技术参数</caption>
+          ${carInfo.productListName}-主要技术参数</caption>
         
           <tbody><tr align="left" bgcolor="#ffffff" height="20" valign="center">
               <td width="15%">
