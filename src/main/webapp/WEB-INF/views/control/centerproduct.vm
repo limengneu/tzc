@@ -50,6 +50,22 @@
 		<a href="$hostServer/car/280">
 			<img style="border: 2px solid rgb(204, 204, 204); width: 120px; height: 90px;" src="$staticServer/img/noticemini.jpg"><br>程力威牌clw51</a>
       </span>
+	  	  <span style="margin: 5px; width: 120px; height: 110px; text-align: center; color: gray; display: inline-block;">
+		<a href="$hostServer/car/47">
+			<img style="border: 2px solid rgb(204, 204, 204); width: 120px; height: 90px;" src="$staticServer/img/otherimge1.jpg"><br>程力威牌随车起重运输车</a>
+       </span>
+	   <span style="margin: 5px; width: 120px; height: 110px; text-align: center; color: gray; display: inline-block;">
+		<a href="$hostServer/car/74">
+			<img style="border: 2px solid rgb(204, 204, 204); width: 120px; height: 90px;" src="$staticServer/img/otherimage2.jpg"><br>程力威牌平板运输车</a>
+        </span>
+		<span style="margin: 5px; width: 120px; height: 110px; text-align: center; color: gray; display: inline-block;">
+			<a href="$hostServer/car/4">
+				<img style="border: 2px solid rgb(204, 204, 204); width: 120px; height: 90px;" src="$staticServer/img/otherimage3.jpg"><br>程力威牌型冷藏车</a>
+       </span>
+	   <span style="margin: 5px; width: 120px; height: 110px; text-align: center; color: gray; display: inline-block;">
+		<a href="$hostServer/car/194">
+			<img style="border: 2px solid rgb(204, 204, 204); width: 120px; height: 90px;" src="$staticServer/img/otherimage4.jpg"><br>东风天锦洒水车</a>
+      </span>
    </div> 
  </center>
 </div>
