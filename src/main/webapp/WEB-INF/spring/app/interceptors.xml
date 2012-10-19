@@ -13,8 +13,8 @@
 			<property name="tools">
 				<map>
 				
-					<entry key="imageServer" value="http://image.com/image"/>
-					<entry key="staticServer" value="http://static.com"/>
+					<entry key="imageServer" value="http://image.tzczm.com/image"/>
+					<entry key="staticServer" value="http://static.tzczm.com"/>
 					<entry key="hostServer" value="http://tzczm.com"/>
 				</map>
 			</property>
