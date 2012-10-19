@@ -61,55 +61,13 @@ public class CarController {
 	}
 
 	
-	@RequestMapping(value = UrlPatternConsts.CARINFO_FLOW, method = RequestMethod.GET)
-	public ModelAndView flow(HttpServletRequest request, ModelAndView mav) {
-		mav.setViewName("car/flow");
+	@RequestMapping(value = UrlPatternConsts.CARINFO_STATIC, method = RequestMethod.GET)
+	public ModelAndView flow(HttpServletRequest request, ModelAndView mav,@PathVariable String pageName) {
+		mav.setViewName("car/"+pageName);
 		
 		return mav;
 	}
 	
-	@RequestMapping(value = UrlPatternConsts.CARINFO_CULTURE, method = RequestMethod.GET)
-	public ModelAndView culture(HttpServletRequest request, ModelAndView mav) {
-		mav.setViewName("car/culture");
-		
-		return mav;
-	}
-	@RequestMapping(value = UrlPatternConsts.CARINFO_HONOUR, method = RequestMethod.GET)
-	public ModelAndView honour(HttpServletRequest request, ModelAndView mav) {
-		mav.setViewName("car/honour");
-		
-		return mav;
-	}
-	@RequestMapping(value = UrlPatternConsts.CARINFO_CONTACT, method = RequestMethod.GET)
-	public ModelAndView contact(HttpServletRequest request, ModelAndView mav) {
-		mav.setViewName("car/contact");
-		
-		return mav;
-	}
-	
-	@RequestMapping(value = UrlPatternConsts.CARINFO_PRICE, method = RequestMethod.GET)
-	public ModelAndView price(HttpServletRequest request, ModelAndView mav) {
-		mav.setViewName("car/price");
-		
-		return mav;
-	}
-	
-	
-	@RequestMapping(value = UrlPatternConsts.CARINFO_SERVICE, method = RequestMethod.GET)
-	public ModelAndView service(HttpServletRequest request, ModelAndView mav) {
-		mav.setViewName("car/service");
-		
-		return mav;
-	}
-	
-	
-	
-	@RequestMapping(value = UrlPatternConsts.CARINFO_INTRODUCE, method = RequestMethod.GET)
-	public ModelAndView introduce(HttpServletRequest request, ModelAndView mav) {
-		mav.setViewName("car/introduce");
-		
-		return mav;
-	}
 	/**
 	 * 
 	 * @方法功能说明：

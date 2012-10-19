@@ -1,10 +1,11 @@
+
 <div id="main">
       
  #parse("control/leftpart.vm")
         
         <div id="body">
             
-      <div id="addr"><b>您的位置：</b><a href="/">首页</a>-公司相关-公司简介</div>
+      <div id="location"><b>您的位置：</b><a href="/">首页</a>-公司相关-公司简介</div>
       <div style="margin:20px;" id="news">
         <center>
           <h2> 公司简介</h2>
@@ -31,5 +32,5 @@
     
         </div>
        
-        
-      </div>
+       </div>  
+     

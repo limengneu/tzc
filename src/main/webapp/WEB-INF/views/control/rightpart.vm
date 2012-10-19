@@ -1,21 +1,21 @@
 <div id="right">
-<h3><a style='background: url("/img/icon_news.png") no-repeat;'href="/car/introduce" >底盘合作厂家</a></h3>
-    <a href="/car/introduce"> <img style="width: 210px;" border="0" src="img/gys.png"></a>
-<h3><a style='background: url("/img/icon_news.png") no-repeat;' href="/car/introduce">实力展示</a></h3>
+<h3><a style='background: url("/img/icon_news.png") no-repeat;'href="/carinfo/introduce" >底盘合作厂家</a></h3>
+    <a href="/carinfo/introduce"> <img style="width: 210px;" border="0" src="img/gys.png"></a>
+<h3><a style='background: url("/img/icon_news.png") no-repeat;' href="/carinfo/introduce">实力展示</a></h3>
 <script type="text/javascript">
    var banner = new BannerShow();
-    banner.addimage("/img/b1.png", "", "/car/introduce");
-    banner.addimage("/img/b2.png", "", "/car/introduce");
-    banner.addimage("/img/b3.png", "", "/car/introduce");
-    banner.addimage("/img/b4.png", "", "/car/introduce");
-    banner.addimage("/img/b5.png", "", "/car/introduce");
+    banner.addimage("/img/b1.png", "", "/carinfo/introduce");
+    banner.addimage("/img/b2.png", "", "/carinfo/introduce");
+    banner.addimage("/img/b3.png", "", "/carinfo/introduce");
+    banner.addimage("/img/b4.png", "", "/carinfo/introduce");
+    banner.addimage("/img/b5.png", "", "/carinfo/introduce");
     banner.create("banner", "210", "190");
     banner.play();
 </script>
 
 <div style="background: rgb(255, 255, 255); overflow: hidden;">
 <h3>
-	<a style='background: url("/img/icon_news.png") no-repeat;' href="$hostServer/car/price">
+	<a style='background: url("/img/icon_news.png") no-repeat;' href="$hostServer/carinfo/price">
 		产品价格
     </a>
 	<em style="float: right;"><img src="img/more.png"></em>

@@ -1,0 +1,24 @@
+<div id="main">
+      
+           #parse("control/leftpart.vm")
+        
+        <div id="body">
+            
+      <div id="addr"><b>您的位置：</b><a href="/">首页</a>-企业新闻-东风专用车出口欧盟怎么办商检</div>
+      <div style="margin:20px;" id="news">
+        <center>
+          <h2> 东风专用车出口欧盟怎么办商检</h2>
+        </center>
+        <hr>
+        <div style="font-size:14px;color:#335EA8;line-height:22px; text-indent:0px;"> 因为东风公司生产的专用车车辆，没有申报欧盟的构思认证，固出口商检办理相当困难和麻烦，请各位洽谈业务时一定要注意风险。 </div>
+      </div>
+
+<center>
+<a href="#top" style="margin:30px;color:red;">回顶端</a>
+<a href="/">回首页</a>
+</center>
+    
+        </div>
+       
+        
+      </div>

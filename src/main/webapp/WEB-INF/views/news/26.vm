@@ -1,0 +1,24 @@
+<div id="main">
+      
+         #parse("control/leftpart.vm")
+        
+        <div id="body">
+            
+      <div id="addr"><b>您的位置：</b><a href="/">首页</a>-企业新闻-本公司取得危险化学品包装物容器生产许可证(详细)</div>
+      <div style="margin:20px;" id="news">
+        <center>
+          <h2> 本公司取得危险化学品包装物容器生产许可证(详细)</h2>
+        </center>
+        <hr>
+        <div style="font-size:14px;color:#335EA8;line-height:22px; text-indent:0px;"> 9月10日,公司顺利通过国家质量监督检验检疫总局检查,取得《危险化学品包装物容器生产许可证》同时企业也被列入危险品包装物容器生产企业定点单位，公司在遵循“质量第一、信誉第一、服务第一”的质量方针指引下，合力汽车不断超越，以真实可靠的产品，热情周到的服务回报社会。<br> </div>
+      </div>
+
+<center>
+<a href="#top" style="margin:30px;color:red;">回顶端</a>
+<a href="/">回首页</a>
+</center>
+    
+        </div>
+       
+        
+      </div>

@@ -1,0 +1,47 @@
+<div id="mf">
+<div id="main">
+      
+      #parse("control/leftpart.vm")
+        
+        <div id="body">
+                  
+        <div id="addr"><b>您的位置：</b><a href="/">首页</a> - 企业新闻</div>
+        <div style="margin:20px;padding-bottom:180px;" id="news">
+<li><a href="/news/1">延安罐车和客车相撞</a><span class="tm">2012/8/27</span></li>
+<li><a href="/news/2">东风专用车出口欧盟怎么办商检</a><span class="tm">2012/4/22</span></li>
+<li><a href="/news/3">随州专用车在给用户送车的路上电瓶盗</a><span class="tm">2012/4/19</span></li>
+<li><a href="/news/4">如何选择最优惠最适合您的消防车-湖北程力销售部导购</a><span class="tm">2011/5/13</span></li>
+<li><a href="/news/5">湖北程力提醒司机朋友春天雨多要注意油罐车的养护</a><span class="tm">2011/5/13</span></li>
+<li><a href="/news/6">“寻根节”期间，程力环卫车做好城市清洁工作 </a><span class="tm">2011/5/10</span></li>
+<li><a href="/news/7">湖北程力洒水车最给力</a><span class="tm">2011/5/6</span></li>
+<li><a href="/news/8">青海西宁环卫洒水车出动协助消防车灭火</a><span class="tm">2011/5/5</span></li>
+<li><a href="/news/9">湖北程力专用汽车有限公司</a><span class="tm">2011/5/4</span></li>
+<li><a href="/news/10">湖北程力加油车安全操作和税控加油机加油实况记录</a><span class="tm">2011/5/4</span></li>
+<li><a href="/news/11">购买洒水车要注意什么？--湖北程力为您讲解</a><span class="tm">2011/4/29</span></li>
+<li><a href="/news/12">炎热夏季湖南郴州市政绿化环卫工作忙湖北程力洒水车来助阵</a><span class="tm">2011/4/29</span></li>
+<li><a href="/news/13">武汉给洒水车定规矩，白天喷雾 晚上洒水</a><span class="tm">2011/4/29</span></li>
+<li><a href="/news/14">城市物流好帮手 达夫LF厢式载货车图秀</a><span class="tm">2011/4/28</span></li>
+<li><a href="/news/15">智领先机卓越之选 国内外企业擎动BICES</a><span class="tm">2011/4/28</span></li>
+<li><a href="/news/16">湖北程力汽车免征公告目录（详细）</a><span class="tm">2009/8/13</span></li>
+<li><a href="/news/17">中国（随州）专用汽车博览会开幕式隆重举行(详细)</a><span class="tm">2009/6/1</span></li>
+<li><a href="/news/18">湖北程力专用汽车有限公司2008年工作总结大会完满成功(详细)</a><span class="tm">2009/3/24</span></li>
+<li><a href="/news/19">程力公司总经理程阿罗携程力公司销售经理慰问孤寡老人(详细)</a><span class="tm">2009/3/24</span></li>
+<li><a href="/news/20">上班第一天，市领导到程力公司看望公司员工(详细)</a><span class="tm">2009/3/24</span></li>
+<li><a href="/news/21">程力公司总经理程阿罗荣获“2008年度突出贡献企业家”奖(详细)</a><span class="tm">2009/3/24</span></li>
+<li><a href="/news/22">汽车出口行业洗牌在即(详细)</a><span class="tm">2007/12/24</span></li>
+<li><a href="/news/23">汽车产业配套政策将出笼 贸易销售都将明确规定(详细)</a><span class="tm">2007/12/24</span></li>
+<li><a href="/news/24">中国实施燃油税改革的良机又现 (详细)</a><span class="tm">2007/10/13</span></li>
+<li><a href="/news/25">未来几年专用汽车地位将不断提高(详细) </a><span class="tm">2007/10/13</span></li>
+<li><a href="/news/26">本公司取得危险化学品包装物容器生产许可证(详细)</a><span class="tm">2007/10/13</span></li>
+<li><a href="/news/27">我公司受邀参加“2007中国汽车出口国际交流会”的通知 (详细)</a><span class="tm">2006/12/28</span></li>
+ 
+        </div>
+<center>
+<a href="#top" style="margin:30px;color:red;">回顶端</a>
+<a href="/">回首页</a>
+</center>
+    
+        </div>
+       
+      </div>  
+      </div>

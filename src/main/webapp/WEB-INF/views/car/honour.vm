@@ -1,12 +1,7 @@
+<div id="mf">
 <div id="main">
       
-        <div id="left">
-            <img src="../img/images/product.png"><div id="leftmenu"><li class="b"><a>全部产品</a></li>
-<li class="s"><a href="/asp/product.asp?id=1">油罐车系列</a></li><li class="s"><a href="/asp/product.asp?id=2">洒水车系列</a></li><li class="s"><a href="/asp/product.asp?id=3">化工液罐车系列</a></li><li class="s"><a href="/asp/product.asp?id=4">散装水泥车系列</a></li><li class="s"><a href="/asp/product.asp?id=6">吸粪吸污车系列</a></li><li class="s"><a href="/asp/product.asp?id=8">垃圾车系列</a></li><li class="s"><a href="/asp/product.asp?id=9">混凝土搅拌车系列</a></li><li class="s"><a href="/asp/product.asp?id=10">随车起重运输车系列</a></li><li class="s"><a href="/asp/product.asp?id=11">高压清洗车系列</a></li><li class="s"><a href="/asp/product.asp?id=12">高空作业车系列</a></li><li class="s"><a href="/asp/product.asp?id=13">清障车系列</a></li><li class="s"><a href="/asp/product.asp?id=14">防暴车系列</a></li><li class="s"><a href="/asp/product.asp?id=16">扫路车系列</a></li><li class="s"><a href="/asp/product.asp?id=17">教练车系列</a></li><li class="s"><a href="/asp/product.asp?id=18">消防车系列</a></li><li class="s"><a href="/asp/product.asp?id=21">专用车配件</a></li><li class="s"><a href="/asp/product.asp?id=22">液化气储罐系列</a></li></div>            
-             <div style="width:210px;height:200px; background:url(../img/talk.png); position:relative; overflow:hidden;">
-                    <div style="margin-top:50px;margin-left:5px;"><p><font face="宋体"><font face="宋体">销售经理：谢兰田<br>联系电话：13774096188<br>服务热线：0722-3814699&nbsp; <br>电子信箱：<a href="mailto:clwtqxlt@163.com">clwtqxlt@163.com</a><br>欲看更多实际图片请查看</font></font><font style="FONT-SIZE: 18px" color="#ff0000"><font face="宋体">939851365</font></font><font color="#ff0000"> </font>QQ相册</p></div>
-                </div>                                             
-        </div>
+        #parse("control/leftpart.vm")
         
         <div id="body">
             
@@ -253,6 +248,6 @@
 </center>
     
         </div>
-       
+       </div>
         
       </div>

@@ -1,29 +1,29 @@
 <div style="width: 49.8%; overflow: hidden; float: left;">
-<h3><a style='background: url("/img/icon_news.png") no-repeat;' href="http://www.clwtq.com/asp/docs.asp?id=1">企业新闻</a>
+<h3><a style='background: url("/img/icon_news.png") no-repeat;' href="/news/all">企业新闻</a>
 	<em stye="float: right;"><img src="img/more.png"></em></h3>
 <div style="margin: 5px; height: 210px;" class="newslist">
-<li> <a href="http://www.clwtq.com/asp/detail.asp?id=206" 
+<li> <a href="/news/1" 
 target="_blank">延安罐车和客车相撞<img border="0" src="img/new1.gif"></a> 
 </li>
-<li> <a href="http://www.clwtq.com/asp/detail.asp?id=205" 
+<li> <a href="/news/2" 
 target="_blank">东风专用车出口欧盟怎么办商<img border="0" src="img/new1.gif"></a> 
 </li>
-<li> <a href="http://www.clwtq.com/asp/detail.asp?id=204" 
+<li> <a href="/news/3" 
 target="_blank">随州专用车在给用户送车的路<img border="0" src="img/new1.gif"></a> 
 </li>
-<li> <a href="http://www.clwtq.com/asp/detail.asp?id=201" 
+<li> <a href="/news/4" 
 target="_blank">如何选择最优惠最适合您的消<img border="0" src="img/new1.gif"></a> 
 </li>
-<li> <a href="http://www.clwtq.com/asp/detail.asp?id=198" 
+<li> <a href="/news/5" 
 target="_blank">湖北程力提醒司机朋友春天雨<img border="0" src="img/new1.gif"></a> 
 </li>
-<li> <a href="http://www.clwtq.com/asp/detail.asp?id=196" 
+<li> <a href="/news/6" 
 target="_blank">“寻根节”期间，程力环卫车<img border="0" src="img/new1.gif"></a> 
 </li>
-<li> <a href="http://www.clwtq.com/asp/detail.asp?id=195" 
+<li> <a href="/news/7" 
 target="_blank">湖北程力洒水车最给力<img border="0" src="img/new1.gif"></a> 
 </li>
-<li> <a href="http://www.clwtq.com/asp/detail.asp?id=193" 
+<li> <a href="/news/8" 
 target="_blank">青海西宁环卫洒水车出动协助<img border="0" src="img/new1.gif"></a> 
 </li>
 </div>

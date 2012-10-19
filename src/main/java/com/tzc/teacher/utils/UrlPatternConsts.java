@@ -17,21 +17,14 @@ package com.tzc.teacher.utils;
 public class UrlPatternConsts {
 	
 	public static final String CARINFO_DETAIL = "/car/{carid}";
+
 	
-	public static final String CARINFO_FLOW = "/car/flow"; 
+	public static final String CARINFO_STATIC = "/carinfo/{pageName}"; 
 	
-	public static final String CARINFO_CULTURE = "/car/culture"; 
+	public static final String PRICE_STATIC = "/price/{pageName}";
 	
-	
-	public static final String CARINFO_HONOUR = "/car/honour"; 
-	
-	public static final String CARINFO_CONTACT = "/car/contact"; 
-	
-	public static final String CARINFO_PRICE = "/car/price"; 
-	
-	public static final String CARINFO_INTRODUCE = "/car/introduce";
-	
-	public static final String CARINFO_SERVICE = "/car/service";
+	public static final String NEWS_STATIC = "/news/{pageName}";
+
 	
 	public static final String CARINFO_LIST = "/category/{cateid}/{page}";
 	public static final String CARINFO_CATEGORY = "/category";
