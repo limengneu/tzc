@@ -4,7 +4,7 @@
     #parse("control/leftpart.vm")
         
         <div id="body">
-           <div id="location"><strong>您的位置：</strong> <a href="/">首页</a> - <a href="/car/price">产品价格</a> - 摆臂拉圾车价格表(请点击查看)</div>
+           <div id="location"><strong>您的位置：</strong> <a href="/">首页</a> - <a href="/carinfo/price">产品价格</a> - 摆臂拉圾车价格表(请点击查看)</div>
 
       <div style="margin:20px;" id="news">
         <center>

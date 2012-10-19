@@ -12,9 +12,10 @@
 		<bean id="pullToolPreparationInterceptor" class="com.tzc.common.web.Interceptor.PullToolsPreparationInterceptor" >
 			<property name="tools">
 				<map>
-					<entry key="imageServer" value="http://tzczm.com/image"/>
-					<entry key="staticServer" value="http://tzczm.com"/>
-					<entry key="hostServer" value="http://tzczm.com"/>
+				
+					<entry key="imageServer" value="http://127.0.0.1:8080/image"/>
+					<entry key="staticServer" value="http://127.0.0.1:8080"/>
+					<entry key="hostServer" value="http://127.0.0.1:8080"/>
 				</map>
 			</property>
 		</bean>
